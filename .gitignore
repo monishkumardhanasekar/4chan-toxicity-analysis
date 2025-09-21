@@ -1,7 +1,8 @@
+# Environment variables
 .env
+
+# Python cache
 __pycache__/
-*.log
-*.sqlite
 *.pyc
 *.pyo
 *.pyd
@@ -10,4 +11,33 @@ __pycache__/
 *.pywz
 *.pyzw
 
+# Logs
+*.log
+
+# Database
+*.sqlite
+
+# Virtual Environment
 venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+data/raw/
+processed_data/
+results/
+reports/
+
+# Temporary files
+*.tmp
+*.temp
