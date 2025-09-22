@@ -23,9 +23,10 @@ This project analyzes toxicity patterns on 4chan's `/pol/` board by comparing tw
 │   │   ├── core/           # Batch processing logic
 │   │   └── config.py       # API configuration
 │   ├── analysis/           # Analysis and visualization scripts (Phase 4-5)
-│   └──                     
+│   └── api_test.py         # API connectivity test
 ├── collect_data.py         # Main data collection script
 ├── process_apis.py         # Main API processing script
+├── setup.py               # Project setup script
 ├── .env                   # API keys (not in repository)
 ├── requirements.txt       # Python dependencies
 ├── env_template.txt      # Environment variables template
@@ -166,6 +167,9 @@ python collect_data.py --validate-only
 
 ### API Integration (Phase 3) 
 ```bash
+# Test API connectivity
+python src/api_test.py
+
 # Run full API processing (6,843 successful posts)
 python process_apis.py
 
