@@ -1,0 +1,50 @@
+{
+  "dataset": "/Users/monk/Desktop/Projects/research/4chan-toxicity-analysis/src/data/analysis_dataset.jsonl",
+  "definition": {
+    "true": "google_toxicity >= 0.8",
+    "pred": "openai_flagged == True"
+  },
+  "overall": {
+    "n": 6843,
+    "mismatch_rate": 0.3578839690194359
+  },
+  "by_content_length": {
+    "200+": {
+      "n": 1540,
+      "mismatches": 897,
+      "mismatch_rate": 0.5824675324675325
+    },
+    "100-199": {
+      "n": 1778,
+      "mismatches": 778,
+      "mismatch_rate": 0.437570303712036
+    },
+    "10-49": {
+      "n": 1499,
+      "mismatches": 197,
+      "mismatch_rate": 0.1314209472981988
+    },
+    "50-99": {
+      "n": 1993,
+      "mismatches": 574,
+      "mismatch_rate": 0.2880080280983442
+    },
+    "<10": {
+      "n": 33,
+      "mismatches": 3,
+      "mismatch_rate": 0.09090909090909091
+    }
+  },
+  "by_post_position": {
+    "early_<=5": {
+      "n": 397,
+      "mismatches": 136,
+      "mismatch_rate": 0.3425692695214106
+    },
+    "later_>5": {
+      "n": 6446,
+      "mismatches": 2313,
+      "mismatch_rate": 0.3588271796462923
+    }
+  }
+}

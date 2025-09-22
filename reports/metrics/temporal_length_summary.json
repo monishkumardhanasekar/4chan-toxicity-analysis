@@ -1,0 +1,66 @@
+{
+  "by_hour_mean_toxicity": {
+    "7": {
+      "n": 1,
+      "mean_google_toxicity": 0.3375374
+    },
+    "8": {
+      "n": 118,
+      "mean_google_toxicity": 0.3466807460237289
+    },
+    "9": {
+      "n": 173,
+      "mean_google_toxicity": 0.32390010772832384
+    },
+    "10": {
+      "n": 222,
+      "mean_google_toxicity": 0.3224076065067567
+    },
+    "11": {
+      "n": 214,
+      "mean_google_toxicity": 0.2759878584018692
+    },
+    "12": {
+      "n": 388,
+      "mean_google_toxicity": 0.3028489966688141
+    },
+    "13": {
+      "n": 814,
+      "mean_google_toxicity": 0.3505697874484029
+    },
+    "14": {
+      "n": 879,
+      "mean_google_toxicity": 0.34381439315358386
+    },
+    "15": {
+      "n": 1553,
+      "mean_google_toxicity": 0.35445242849137104
+    },
+    "16": {
+      "n": 2481,
+      "mean_google_toxicity": 0.34152976801842017
+    }
+  },
+  "by_length_bin_mean_toxicity": {
+    "200+": {
+      "n": 1540,
+      "mean_google_toxicity": 0.4378481314574678
+    },
+    "100-199": {
+      "n": 1778,
+      "mean_google_toxicity": 0.3948247583866698
+    },
+    "10-49": {
+      "n": 1499,
+      "mean_google_toxicity": 0.20231002453308833
+    },
+    "50-99": {
+      "n": 1993,
+      "mean_google_toxicity": 0.3246901239969891
+    },
+    "<10": {
+      "n": 33,
+      "mean_google_toxicity": 0.12557069171212126
+    }
+  }
+}

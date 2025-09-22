@@ -1,0 +1,1523 @@
+2025-09-21 18:09:29 - INFO - ================================================================================
+2025-09-21 18:09:29 - INFO - API PROCESSING PHASE STARTED
+2025-09-21 18:09:29 - INFO - ================================================================================
+2025-09-21 18:09:29 - INFO - Initialized batch processor with batch size: 50
+2025-09-21 18:09:29 - INFO - Loading collection data from src/data/final_collection.json
+2025-09-21 18:09:29 - INFO - Loaded 7362 posts for processing
+2025-09-21 18:09:29 - INFO - Will process in 148 batches
+2025-09-21 18:09:29 - INFO - ================================================================================
+2025-09-21 18:09:29 - INFO - STARTING API PROCESSING
+2025-09-21 18:09:29 - INFO - ================================================================================
+2025-09-21 18:09:29 - INFO - Total posts to process: 7,362
+2025-09-21 18:09:29 - INFO - Batch size: 50
+2025-09-21 18:09:29 - INFO - Total batches: 148
+2025-09-21 18:09:29 - INFO - Starting from batch: 1
+2025-09-21 18:09:29 - INFO - Resume mode: No
+2025-09-21 18:09:29 - INFO - Rate limiting: 1 request per second (Google API compliance)
+2025-09-21 18:09:29 - INFO - ================================================================================
+2025-09-21 18:09:29 - INFO - Processing batch 1/148 (50 posts)
+2025-09-21 18:10:52 - INFO - Google API success: 38/50 posts (76.0%)
+2025-09-21 18:11:30 - INFO - Batch 1 completed in 120.48s
+2025-09-21 18:11:30 - INFO -   Google success: 38/50
+2025-09-21 18:11:30 - INFO -   OpenAI success: 38/38
+2025-09-21 18:11:30 - INFO - Progress: 50/7362 (0.7%)
+2025-09-21 18:11:30 - INFO - Processing batch 2/148 (50 posts)
+2025-09-21 18:12:43 - INFO - Google API success: 41/50 posts (82.0%)
+2025-09-21 18:13:24 - INFO - PROGRESS UPDATE: 100 posts processed (1.4% complete)
+2025-09-21 18:13:24 - INFO -   Success Rate: 79.0% (79 successful, 21 failed)
+2025-09-21 18:13:24 - INFO -   Time Elapsed: 0.1 hours
+2025-09-21 18:13:24 - INFO -   Estimated Time Remaining: 4.7 hours
+2025-09-21 18:13:24 - INFO -   Google API Success: 79
+2025-09-21 18:13:24 - INFO -   OpenAI API Success: 79
+2025-09-21 18:13:24 - INFO - ------------------------------------------------------------
+2025-09-21 18:13:24 - INFO - Batch 2 completed in 114.11s
+2025-09-21 18:13:24 - INFO -   Google success: 41/50
+2025-09-21 18:13:24 - INFO -   OpenAI success: 41/41
+2025-09-21 18:13:24 - INFO - Progress: 100/7362 (1.4%)
+2025-09-21 18:13:24 - INFO - Processing batch 3/148 (50 posts)
+2025-09-21 18:14:21 - INFO - Google API success: 47/50 posts (94.0%)
+2025-09-21 18:15:07 - INFO - Batch 3 completed in 103.84s
+2025-09-21 18:15:07 - INFO -   Google success: 47/50
+2025-09-21 18:15:07 - INFO -   OpenAI success: 47/47
+2025-09-21 18:15:07 - INFO - Progress: 150/7362 (2.0%)
+2025-09-21 18:15:07 - INFO - Processing batch 4/148 (50 posts)
+2025-09-21 18:16:17 - INFO - Google API success: 42/50 posts (84.0%)
+2025-09-21 18:16:59 - INFO - PROGRESS UPDATE: 200 posts processed (2.7% complete)
+2025-09-21 18:16:59 - INFO -   Success Rate: 84.0% (168 successful, 32 failed)
+2025-09-21 18:16:59 - INFO -   Time Elapsed: 0.1 hours
+2025-09-21 18:16:59 - INFO -   Estimated Time Remaining: 4.5 hours
+2025-09-21 18:16:59 - INFO -   Google API Success: 168
+2025-09-21 18:16:59 - INFO -   OpenAI API Success: 168
+2025-09-21 18:16:59 - INFO - ------------------------------------------------------------
+2025-09-21 18:16:59 - INFO - Batch 4 completed in 111.39s
+2025-09-21 18:16:59 - INFO -   Google success: 42/50
+2025-09-21 18:16:59 - INFO -   OpenAI success: 42/42
+2025-09-21 18:16:59 - INFO - Progress: 200/7362 (2.7%)
+2025-09-21 18:16:59 - INFO - Processing batch 5/148 (50 posts)
+2025-09-21 18:17:59 - INFO - Google API success: 46/50 posts (92.0%)
+2025-09-21 18:18:45 - INFO - Batch 5 completed in 105.97s
+2025-09-21 18:18:45 - INFO -   Google success: 46/50
+2025-09-21 18:18:45 - INFO -   OpenAI success: 46/46
+2025-09-21 18:18:45 - INFO - Progress: 250/7362 (3.4%)
+2025-09-21 18:18:45 - INFO - Processing batch 6/148 (50 posts)
+2025-09-21 18:19:55 - INFO - Google API success: 42/50 posts (84.0%)
+2025-09-21 18:20:36 - INFO - PROGRESS UPDATE: 300 posts processed (4.1% complete)
+2025-09-21 18:20:36 - INFO -   Success Rate: 85.3% (256 successful, 44 failed)
+2025-09-21 18:20:36 - INFO -   Time Elapsed: 0.2 hours
+2025-09-21 18:20:36 - INFO -   Estimated Time Remaining: 4.4 hours
+2025-09-21 18:20:36 - INFO -   Google API Success: 256
+2025-09-21 18:20:36 - INFO -   OpenAI API Success: 256
+2025-09-21 18:20:36 - INFO - ------------------------------------------------------------
+2025-09-21 18:20:36 - INFO - Batch 6 completed in 111.40s
+2025-09-21 18:20:36 - INFO -   Google success: 42/50
+2025-09-21 18:20:36 - INFO -   OpenAI success: 42/42
+2025-09-21 18:20:36 - INFO - Progress: 300/7362 (4.1%)
+2025-09-21 18:20:36 - INFO - Processing batch 7/148 (50 posts)
+2025-09-21 18:21:36 - INFO - Google API success: 46/50 posts (92.0%)
+2025-09-21 18:22:22 - INFO - Batch 7 completed in 105.44s
+2025-09-21 18:22:22 - INFO -   Google success: 46/50
+2025-09-21 18:22:22 - INFO -   OpenAI success: 46/46
+2025-09-21 18:22:22 - INFO - Progress: 350/7362 (4.8%)
+2025-09-21 18:22:22 - INFO - Processing batch 8/148 (50 posts)
+2025-09-21 18:23:20 - INFO - Google API success: 47/50 posts (94.0%)
+2025-09-21 18:24:06 - INFO - PROGRESS UPDATE: 400 posts processed (5.4% complete)
+2025-09-21 18:24:06 - INFO -   Success Rate: 87.2% (349 successful, 51 failed)
+2025-09-21 18:24:06 - INFO -   Time Elapsed: 0.2 hours
+2025-09-21 18:24:06 - INFO -   Estimated Time Remaining: 4.2 hours
+2025-09-21 18:24:06 - INFO -   Google API Success: 349
+2025-09-21 18:24:06 - INFO -   OpenAI API Success: 349
+2025-09-21 18:24:06 - INFO - ------------------------------------------------------------
+2025-09-21 18:24:06 - INFO - Batch 8 completed in 104.48s
+2025-09-21 18:24:06 - INFO -   Google success: 47/50
+2025-09-21 18:24:06 - INFO -   OpenAI success: 47/47
+2025-09-21 18:24:06 - INFO - Progress: 400/7362 (5.4%)
+2025-09-21 18:24:06 - INFO - Processing batch 9/148 (50 posts)
+2025-09-21 18:25:22 - INFO - Google API success: 40/50 posts (80.0%)
+2025-09-21 18:26:01 - INFO - Batch 9 completed in 114.77s
+2025-09-21 18:26:01 - INFO -   Google success: 40/50
+2025-09-21 18:26:01 - INFO -   OpenAI success: 40/40
+2025-09-21 18:26:01 - INFO - Progress: 450/7362 (6.1%)
+2025-09-21 18:26:01 - INFO - Processing batch 10/148 (50 posts)
+2025-09-21 18:27:01 - INFO - Google API success: 46/50 posts (92.0%)
+2025-09-21 18:27:47 - INFO - PROGRESS UPDATE: 500 posts processed (6.8% complete)
+2025-09-21 18:27:47 - INFO -   Success Rate: 87.0% (435 successful, 65 failed)
+2025-09-21 18:27:47 - INFO -   Time Elapsed: 0.3 hours
+2025-09-21 18:27:47 - INFO -   Estimated Time Remaining: 4.2 hours
+2025-09-21 18:27:47 - INFO -   Google API Success: 435
+2025-09-21 18:27:47 - INFO -   OpenAI API Success: 435
+2025-09-21 18:27:47 - INFO - ------------------------------------------------------------
+2025-09-21 18:27:47 - INFO - Batch 10 completed in 105.77s
+2025-09-21 18:27:47 - INFO -   Google success: 46/50
+2025-09-21 18:27:47 - INFO -   OpenAI success: 46/46
+2025-09-21 18:27:47 - INFO - Results saved to src/data/api_results.json (500 total results)
+2025-09-21 18:27:47 - INFO - Progress: 500/7362 (6.8%)
+2025-09-21 18:27:47 - INFO - Processing batch 11/148 (50 posts)
+2025-09-21 18:28:49 - INFO - Google API success: 45/50 posts (90.0%)
+2025-09-21 18:29:34 - INFO - Batch 11 completed in 106.81s
+2025-09-21 18:29:34 - INFO -   Google success: 45/50
+2025-09-21 18:29:34 - INFO -   OpenAI success: 45/45
+2025-09-21 18:29:34 - INFO - Progress: 550/7362 (7.5%)
+2025-09-21 18:29:34 - INFO - Processing batch 12/148 (50 posts)
+2025-09-21 18:30:29 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 18:31:16 - INFO - PROGRESS UPDATE: 600 posts processed (8.1% complete)
+2025-09-21 18:31:16 - INFO -   Success Rate: 88.0% (528 successful, 72 failed)
+2025-09-21 18:31:16 - INFO -   Time Elapsed: 0.4 hours
+2025-09-21 18:31:16 - INFO -   Estimated Time Remaining: 4.1 hours
+2025-09-21 18:31:16 - INFO -   Google API Success: 528
+2025-09-21 18:31:16 - INFO -   OpenAI API Success: 528
+2025-09-21 18:31:16 - INFO - ------------------------------------------------------------
+2025-09-21 18:31:16 - INFO - Batch 12 completed in 102.35s
+2025-09-21 18:31:16 - INFO -   Google success: 48/50
+2025-09-21 18:31:16 - INFO -   OpenAI success: 48/48
+2025-09-21 18:31:16 - INFO - Progress: 600/7362 (8.1%)
+2025-09-21 18:31:16 - INFO - Processing batch 13/148 (50 posts)
+2025-09-21 18:32:28 - INFO - Google API success: 42/50 posts (84.0%)
+2025-09-21 18:33:09 - INFO - Batch 13 completed in 113.47s
+2025-09-21 18:33:09 - INFO -   Google success: 42/50
+2025-09-21 18:33:09 - INFO -   OpenAI success: 42/42
+2025-09-21 18:33:09 - INFO - Progress: 650/7362 (8.8%)
+2025-09-21 18:33:09 - INFO - Processing batch 14/148 (50 posts)
+2025-09-21 18:34:12 - INFO - Google API success: 45/50 posts (90.0%)
+2025-09-21 18:34:56 - INFO - PROGRESS UPDATE: 700 posts processed (9.5% complete)
+2025-09-21 18:34:56 - INFO -   Success Rate: 87.9% (615 successful, 85 failed)
+2025-09-21 18:34:56 - INFO -   Time Elapsed: 0.4 hours
+2025-09-21 18:34:56 - INFO -   Estimated Time Remaining: 4.0 hours
+2025-09-21 18:34:56 - INFO -   Google API Success: 615
+2025-09-21 18:34:56 - INFO -   OpenAI API Success: 615
+2025-09-21 18:34:56 - INFO - ------------------------------------------------------------
+2025-09-21 18:34:56 - INFO - Batch 14 completed in 106.78s
+2025-09-21 18:34:56 - INFO -   Google success: 45/50
+2025-09-21 18:34:56 - INFO -   OpenAI success: 45/45
+2025-09-21 18:34:56 - INFO - Progress: 700/7362 (9.5%)
+2025-09-21 18:34:56 - INFO - Processing batch 15/148 (50 posts)
+2025-09-21 18:35:48 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 18:36:39 - INFO - Batch 15 completed in 102.92s
+2025-09-21 18:36:39 - INFO -   Google success: 49/50
+2025-09-21 18:36:39 - INFO -   OpenAI success: 49/49
+2025-09-21 18:36:39 - INFO - Progress: 750/7362 (10.2%)
+2025-09-21 18:36:39 - INFO - Processing batch 16/148 (50 posts)
+2025-09-21 18:37:37 - INFO - Google API success: 47/50 posts (94.0%)
+2025-09-21 18:38:23 - INFO - PROGRESS UPDATE: 800 posts processed (10.9% complete)
+2025-09-21 18:38:23 - INFO -   Success Rate: 88.9% (711 successful, 89 failed)
+2025-09-21 18:38:23 - INFO -   Time Elapsed: 0.5 hours
+2025-09-21 18:38:23 - INFO -   Estimated Time Remaining: 4.0 hours
+2025-09-21 18:38:23 - INFO -   Google API Success: 711
+2025-09-21 18:38:23 - INFO -   OpenAI API Success: 711
+2025-09-21 18:38:23 - INFO - ------------------------------------------------------------
+2025-09-21 18:38:23 - INFO - Batch 16 completed in 103.79s
+2025-09-21 18:38:23 - INFO -   Google success: 47/50
+2025-09-21 18:38:23 - INFO -   OpenAI success: 47/47
+2025-09-21 18:38:23 - INFO - Progress: 800/7362 (10.9%)
+2025-09-21 18:38:23 - INFO - Processing batch 17/148 (50 posts)
+2025-09-21 18:39:28 - INFO - Google API success: 44/50 posts (88.0%)
+2025-09-21 18:40:12 - INFO - Batch 17 completed in 108.66s
+2025-09-21 18:40:12 - INFO -   Google success: 44/50
+2025-09-21 18:40:12 - INFO -   OpenAI success: 44/44
+2025-09-21 18:40:12 - INFO - Progress: 850/7362 (11.5%)
+2025-09-21 18:40:12 - INFO - Processing batch 18/148 (50 posts)
+2025-09-21 18:41:04 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 18:41:52 - INFO - PROGRESS UPDATE: 900 posts processed (12.2% complete)
+2025-09-21 18:41:52 - INFO -   Success Rate: 89.3% (804 successful, 96 failed)
+2025-09-21 18:41:52 - INFO -   Time Elapsed: 0.5 hours
+2025-09-21 18:41:52 - INFO -   Estimated Time Remaining: 3.9 hours
+2025-09-21 18:41:52 - INFO -   Google API Success: 804
+2025-09-21 18:41:52 - INFO -   OpenAI API Success: 804
+2025-09-21 18:41:52 - INFO - ------------------------------------------------------------
+2025-09-21 18:41:52 - INFO - Batch 18 completed in 100.39s
+2025-09-21 18:41:52 - INFO -   Google success: 49/50
+2025-09-21 18:41:52 - INFO -   OpenAI success: 49/49
+2025-09-21 18:41:52 - INFO - Progress: 900/7362 (12.2%)
+2025-09-21 18:41:52 - INFO - Processing batch 19/148 (50 posts)
+2025-09-21 18:42:47 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 18:43:34 - INFO - Batch 19 completed in 102.23s
+2025-09-21 18:43:34 - INFO -   Google success: 48/50
+2025-09-21 18:43:34 - INFO -   OpenAI success: 48/48
+2025-09-21 18:43:34 - INFO - Progress: 950/7362 (12.9%)
+2025-09-21 18:43:34 - INFO - Processing batch 20/148 (50 posts)
+2025-09-21 18:44:31 - INFO - Google API success: 47/50 posts (94.0%)
+2025-09-21 18:45:18 - INFO - PROGRESS UPDATE: 1,000 posts processed (13.6% complete)
+2025-09-21 18:45:18 - INFO -   Success Rate: 89.9% (899 successful, 101 failed)
+2025-09-21 18:45:18 - INFO -   Time Elapsed: 0.6 hours
+2025-09-21 18:45:18 - INFO -   Estimated Time Remaining: 3.8 hours
+2025-09-21 18:45:18 - INFO -   Google API Success: 899
+2025-09-21 18:45:18 - INFO -   OpenAI API Success: 899
+2025-09-21 18:45:18 - INFO - ------------------------------------------------------------
+2025-09-21 18:45:18 - INFO - ================================================================================
+2025-09-21 18:45:18 - INFO - MILESTONE REACHED: 1,000 POSTS PROCESSED
+2025-09-21 18:45:18 - INFO - ================================================================================
+2025-09-21 18:45:18 - INFO - Progress: 13.6% complete (1,000/7,362)
+2025-09-21 18:45:18 - INFO - Success Rate: 89.9%
+2025-09-21 18:45:18 - INFO - Time Elapsed: 0.6 hours
+2025-09-21 18:45:18 - INFO - Google API Success: 899
+2025-09-21 18:45:18 - INFO - OpenAI API Success: 899
+2025-09-21 18:45:18 - INFO - Processing Rate: 1675.4 posts/hour
+2025-09-21 18:45:18 - INFO - Estimated Time Remaining: 3.8 hours
+2025-09-21 18:45:18 - INFO - ================================================================================
+2025-09-21 18:45:18 - INFO - Batch 20 completed in 103.55s
+2025-09-21 18:45:18 - INFO -   Google success: 47/50
+2025-09-21 18:45:18 - INFO -   OpenAI success: 47/47
+2025-09-21 18:45:18 - INFO - Results saved to src/data/api_results.json (1000 total results)
+2025-09-21 18:45:18 - INFO - Progress: 1000/7362 (13.6%)
+2025-09-21 18:45:18 - INFO - Processing batch 21/148 (50 posts)
+2025-09-21 18:46:18 - INFO - Google API success: 46/50 posts (92.0%)
+2025-09-21 18:47:04 - INFO - Batch 21 completed in 105.73s
+2025-09-21 18:47:04 - INFO -   Google success: 46/50
+2025-09-21 18:47:04 - INFO -   OpenAI success: 46/46
+2025-09-21 18:47:04 - INFO - Progress: 1050/7362 (14.3%)
+2025-09-21 18:47:04 - INFO - Processing batch 22/148 (50 posts)
+2025-09-21 18:47:53 - INFO - Google API success: 50/50 posts (100.0%)
+2025-09-21 18:48:43 - INFO - PROGRESS UPDATE: 1,100 posts processed (14.9% complete)
+2025-09-21 18:48:43 - INFO -   Success Rate: 90.5% (995 successful, 105 failed)
+2025-09-21 18:48:43 - INFO -   Time Elapsed: 0.7 hours
+2025-09-21 18:48:43 - INFO -   Estimated Time Remaining: 3.7 hours
+2025-09-21 18:48:43 - INFO -   Google API Success: 995
+2025-09-21 18:48:43 - INFO -   OpenAI API Success: 995
+2025-09-21 18:48:43 - INFO - ------------------------------------------------------------
+2025-09-21 18:48:43 - INFO - Batch 22 completed in 99.55s
+2025-09-21 18:48:43 - INFO -   Google success: 50/50
+2025-09-21 18:48:43 - INFO -   OpenAI success: 50/50
+2025-09-21 18:48:43 - INFO - Progress: 1100/7362 (14.9%)
+2025-09-21 18:48:43 - INFO - Processing batch 23/148 (50 posts)
+2025-09-21 18:49:38 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 18:50:25 - INFO - Batch 23 completed in 102.21s
+2025-09-21 18:50:25 - INFO -   Google success: 48/50
+2025-09-21 18:50:25 - INFO -   OpenAI success: 48/48
+2025-09-21 18:50:25 - INFO - Progress: 1150/7362 (15.6%)
+2025-09-21 18:50:25 - INFO - Processing batch 24/148 (50 posts)
+2025-09-21 18:51:25 - INFO - Google API success: 46/50 posts (92.0%)
+2025-09-21 18:52:11 - INFO - PROGRESS UPDATE: 1,200 posts processed (16.3% complete)
+2025-09-21 18:52:11 - INFO -   Success Rate: 90.8% (1,089 successful, 111 failed)
+2025-09-21 18:52:11 - INFO -   Time Elapsed: 0.7 hours
+2025-09-21 18:52:11 - INFO -   Estimated Time Remaining: 3.7 hours
+2025-09-21 18:52:11 - INFO -   Google API Success: 1,089
+2025-09-21 18:52:11 - INFO -   OpenAI API Success: 1,089
+2025-09-21 18:52:11 - INFO - ------------------------------------------------------------
+2025-09-21 18:52:11 - INFO - Batch 24 completed in 105.17s
+2025-09-21 18:52:11 - INFO -   Google success: 46/50
+2025-09-21 18:52:11 - INFO -   OpenAI success: 46/46
+2025-09-21 18:52:11 - INFO - Progress: 1200/7362 (16.3%)
+2025-09-21 18:52:11 - INFO - Processing batch 25/148 (50 posts)
+2025-09-21 18:53:05 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 18:53:53 - INFO - Batch 25 completed in 102.48s
+2025-09-21 18:53:53 - INFO -   Google success: 48/50
+2025-09-21 18:53:53 - INFO -   OpenAI success: 48/48
+2025-09-21 18:53:53 - INFO - Progress: 1250/7362 (17.0%)
+2025-09-21 18:53:53 - INFO - Processing batch 26/148 (50 posts)
+2025-09-21 18:54:48 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 18:55:36 - INFO - PROGRESS UPDATE: 1,300 posts processed (17.7% complete)
+2025-09-21 18:55:36 - INFO -   Success Rate: 91.2% (1,185 successful, 115 failed)
+2025-09-21 18:55:36 - INFO -   Time Elapsed: 0.8 hours
+2025-09-21 18:55:36 - INFO -   Estimated Time Remaining: 3.6 hours
+2025-09-21 18:55:36 - INFO -   Google API Success: 1,185
+2025-09-21 18:55:36 - INFO -   OpenAI API Success: 1,185
+2025-09-21 18:55:36 - INFO - ------------------------------------------------------------
+2025-09-21 18:55:36 - INFO - Batch 26 completed in 102.72s
+2025-09-21 18:55:36 - INFO -   Google success: 48/50
+2025-09-21 18:55:36 - INFO -   OpenAI success: 48/48
+2025-09-21 18:55:36 - INFO - Progress: 1300/7362 (17.7%)
+2025-09-21 18:55:36 - INFO - Processing batch 27/148 (50 posts)
+2025-09-21 18:56:30 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 18:57:18 - INFO - Batch 27 completed in 102.28s
+2025-09-21 18:57:18 - INFO -   Google success: 48/50
+2025-09-21 18:57:18 - INFO -   OpenAI success: 48/48
+2025-09-21 18:57:18 - INFO - Progress: 1350/7362 (18.3%)
+2025-09-21 18:57:18 - INFO - Processing batch 28/148 (50 posts)
+2025-09-21 18:58:16 - INFO - Google API success: 47/50 posts (94.0%)
+2025-09-21 18:59:02 - INFO - PROGRESS UPDATE: 1,400 posts processed (19.0% complete)
+2025-09-21 18:59:02 - INFO -   Success Rate: 91.4% (1,280 successful, 120 failed)
+2025-09-21 18:59:02 - INFO -   Time Elapsed: 0.8 hours
+2025-09-21 18:59:02 - INFO -   Estimated Time Remaining: 3.5 hours
+2025-09-21 18:59:02 - INFO -   Google API Success: 1,280
+2025-09-21 18:59:02 - INFO -   OpenAI API Success: 1,280
+2025-09-21 18:59:02 - INFO - ------------------------------------------------------------
+2025-09-21 18:59:02 - INFO - Batch 28 completed in 104.45s
+2025-09-21 18:59:02 - INFO -   Google success: 47/50
+2025-09-21 18:59:02 - INFO -   OpenAI success: 47/47
+2025-09-21 18:59:02 - INFO - Progress: 1400/7362 (19.0%)
+2025-09-21 18:59:02 - INFO - Processing batch 29/148 (50 posts)
+2025-09-21 18:59:57 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 19:00:45 - INFO - Batch 29 completed in 102.11s
+2025-09-21 19:00:45 - INFO -   Google success: 48/50
+2025-09-21 19:00:45 - INFO -   OpenAI success: 48/48
+2025-09-21 19:00:45 - INFO - Progress: 1450/7362 (19.7%)
+2025-09-21 19:00:45 - INFO - Processing batch 30/148 (50 posts)
+2025-09-21 19:01:39 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 19:02:27 - INFO - PROGRESS UPDATE: 1,500 posts processed (20.4% complete)
+2025-09-21 19:02:27 - INFO -   Success Rate: 91.7% (1,376 successful, 124 failed)
+2025-09-21 19:02:27 - INFO -   Time Elapsed: 0.9 hours
+2025-09-21 19:02:27 - INFO -   Estimated Time Remaining: 3.4 hours
+2025-09-21 19:02:27 - INFO -   Google API Success: 1,376
+2025-09-21 19:02:27 - INFO -   OpenAI API Success: 1,376
+2025-09-21 19:02:27 - INFO - ------------------------------------------------------------
+2025-09-21 19:02:27 - INFO - Batch 30 completed in 102.40s
+2025-09-21 19:02:27 - INFO -   Google success: 48/50
+2025-09-21 19:02:27 - INFO -   OpenAI success: 48/48
+2025-09-21 19:02:27 - INFO - Results saved to src/data/api_results.json (1500 total results)
+2025-09-21 19:02:27 - INFO - Progress: 1500/7362 (20.4%)
+2025-09-21 19:02:27 - INFO - Processing batch 31/148 (50 posts)
+2025-09-21 19:03:19 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 19:04:08 - INFO - Batch 31 completed in 100.63s
+2025-09-21 19:04:08 - INFO -   Google success: 49/50
+2025-09-21 19:04:08 - INFO -   OpenAI success: 49/49
+2025-09-21 19:04:08 - INFO - Progress: 1550/7362 (21.1%)
+2025-09-21 19:04:08 - INFO - Processing batch 32/148 (50 posts)
+2025-09-21 19:05:03 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 19:05:50 - INFO - PROGRESS UPDATE: 1,600 posts processed (21.7% complete)
+2025-09-21 19:05:50 - INFO -   Success Rate: 92.1% (1,473 successful, 127 failed)
+2025-09-21 19:05:50 - INFO -   Time Elapsed: 0.9 hours
+2025-09-21 19:05:50 - INFO -   Estimated Time Remaining: 3.4 hours
+2025-09-21 19:05:50 - INFO -   Google API Success: 1,473
+2025-09-21 19:05:50 - INFO -   OpenAI API Success: 1,473
+2025-09-21 19:05:50 - INFO - ------------------------------------------------------------
+2025-09-21 19:05:50 - INFO - Batch 32 completed in 102.63s
+2025-09-21 19:05:50 - INFO -   Google success: 48/50
+2025-09-21 19:05:50 - INFO -   OpenAI success: 48/48
+2025-09-21 19:05:50 - INFO - Progress: 1600/7362 (21.7%)
+2025-09-21 19:05:50 - INFO - Processing batch 33/148 (50 posts)
+2025-09-21 19:06:50 - INFO - Google API success: 46/50 posts (92.0%)
+2025-09-21 19:07:36 - INFO - Batch 33 completed in 105.21s
+2025-09-21 19:07:36 - INFO -   Google success: 46/50
+2025-09-21 19:07:36 - INFO -   OpenAI success: 46/46
+2025-09-21 19:07:36 - INFO - Progress: 1650/7362 (22.4%)
+2025-09-21 19:07:36 - INFO - Processing batch 34/148 (50 posts)
+2025-09-21 19:08:38 - INFO - Google API success: 45/50 posts (90.0%)
+2025-09-21 19:09:23 - INFO - PROGRESS UPDATE: 1,700 posts processed (23.1% complete)
+2025-09-21 19:09:23 - INFO -   Success Rate: 92.0% (1,564 successful, 136 failed)
+2025-09-21 19:09:23 - INFO -   Time Elapsed: 1.0 hours
+2025-09-21 19:09:23 - INFO -   Estimated Time Remaining: 3.3 hours
+2025-09-21 19:09:23 - INFO -   Google API Success: 1,564
+2025-09-21 19:09:23 - INFO -   OpenAI API Success: 1,564
+2025-09-21 19:09:23 - INFO - ------------------------------------------------------------
+2025-09-21 19:09:23 - INFO - Batch 34 completed in 107.06s
+2025-09-21 19:09:23 - INFO -   Google success: 45/50
+2025-09-21 19:09:23 - INFO -   OpenAI success: 45/45
+2025-09-21 19:09:23 - INFO - Progress: 1700/7362 (23.1%)
+2025-09-21 19:09:23 - INFO - Processing batch 35/148 (50 posts)
+2025-09-21 19:10:12 - INFO - Google API success: 50/50 posts (100.0%)
+2025-09-21 19:11:02 - INFO - Batch 35 completed in 98.83s
+2025-09-21 19:11:02 - INFO -   Google success: 50/50
+2025-09-21 19:11:02 - INFO -   OpenAI success: 50/50
+2025-09-21 19:11:02 - INFO - Progress: 1750/7362 (23.8%)
+2025-09-21 19:11:02 - INFO - Processing batch 36/148 (50 posts)
+2025-09-21 19:11:56 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 19:12:44 - INFO - PROGRESS UPDATE: 1,800 posts processed (24.4% complete)
+2025-09-21 19:12:44 - INFO -   Success Rate: 92.3% (1,662 successful, 138 failed)
+2025-09-21 19:12:44 - INFO -   Time Elapsed: 1.1 hours
+2025-09-21 19:12:44 - INFO -   Estimated Time Remaining: 3.3 hours
+2025-09-21 19:12:44 - INFO -   Google API Success: 1,662
+2025-09-21 19:12:44 - INFO -   OpenAI API Success: 1,662
+2025-09-21 19:12:44 - INFO - ------------------------------------------------------------
+2025-09-21 19:12:44 - INFO - Batch 36 completed in 102.00s
+2025-09-21 19:12:44 - INFO -   Google success: 48/50
+2025-09-21 19:12:44 - INFO -   OpenAI success: 48/48
+2025-09-21 19:12:44 - INFO - Progress: 1800/7362 (24.4%)
+2025-09-21 19:12:44 - INFO - Processing batch 37/148 (50 posts)
+2025-09-21 19:13:36 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 19:14:24 - INFO - Batch 37 completed in 100.51s
+2025-09-21 19:14:24 - INFO -   Google success: 49/50
+2025-09-21 19:14:24 - INFO -   OpenAI success: 49/49
+2025-09-21 19:14:24 - INFO - Progress: 1850/7362 (25.1%)
+2025-09-21 19:14:24 - INFO - Processing batch 38/148 (50 posts)
+2025-09-21 19:15:16 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 19:16:04 - INFO - PROGRESS UPDATE: 1,900 posts processed (25.8% complete)
+2025-09-21 19:16:04 - INFO -   Success Rate: 92.6% (1,760 successful, 140 failed)
+2025-09-21 19:16:04 - INFO -   Time Elapsed: 1.1 hours
+2025-09-21 19:16:04 - INFO -   Estimated Time Remaining: 3.2 hours
+2025-09-21 19:16:04 - INFO -   Google API Success: 1,760
+2025-09-21 19:16:04 - INFO -   OpenAI API Success: 1,760
+2025-09-21 19:16:04 - INFO - ------------------------------------------------------------
+2025-09-21 19:16:04 - INFO - Batch 38 completed in 100.43s
+2025-09-21 19:16:04 - INFO -   Google success: 49/50
+2025-09-21 19:16:04 - INFO -   OpenAI success: 49/49
+2025-09-21 19:16:04 - INFO - Progress: 1900/7362 (25.8%)
+2025-09-21 19:16:04 - INFO - Processing batch 39/148 (50 posts)
+2025-09-21 19:17:01 - INFO - Google API success: 47/50 posts (94.0%)
+2025-09-21 19:17:48 - INFO - Batch 39 completed in 103.35s
+2025-09-21 19:17:48 - INFO -   Google success: 47/50
+2025-09-21 19:17:48 - INFO -   OpenAI success: 47/47
+2025-09-21 19:17:48 - INFO - Progress: 1950/7362 (26.5%)
+2025-09-21 19:17:48 - INFO - Processing batch 40/148 (50 posts)
+2025-09-21 19:18:37 - INFO - Google API success: 50/50 posts (100.0%)
+2025-09-21 19:19:27 - INFO - PROGRESS UPDATE: 2,000 posts processed (27.2% complete)
+2025-09-21 19:19:27 - INFO -   Success Rate: 92.8% (1,857 successful, 143 failed)
+2025-09-21 19:19:27 - INFO -   Time Elapsed: 1.2 hours
+2025-09-21 19:19:27 - INFO -   Estimated Time Remaining: 3.1 hours
+2025-09-21 19:19:27 - INFO -   Google API Success: 1,857
+2025-09-21 19:19:27 - INFO -   OpenAI API Success: 1,857
+2025-09-21 19:19:27 - INFO - ------------------------------------------------------------
+2025-09-21 19:19:27 - INFO - ================================================================================
+2025-09-21 19:19:27 - INFO - MILESTONE REACHED: 2,000 POSTS PROCESSED
+2025-09-21 19:19:27 - INFO - ================================================================================
+2025-09-21 19:19:27 - INFO - Progress: 27.2% complete (2,000/7,362)
+2025-09-21 19:19:27 - INFO - Success Rate: 92.8%
+2025-09-21 19:19:27 - INFO - Time Elapsed: 1.2 hours
+2025-09-21 19:19:27 - INFO - Google API Success: 1,857
+2025-09-21 19:19:27 - INFO - OpenAI API Success: 1,857
+2025-09-21 19:19:27 - INFO - Processing Rate: 1715.2 posts/hour
+2025-09-21 19:19:27 - INFO - Estimated Time Remaining: 3.1 hours
+2025-09-21 19:19:27 - INFO - ================================================================================
+2025-09-21 19:19:27 - INFO - Batch 40 completed in 98.92s
+2025-09-21 19:19:27 - INFO -   Google success: 50/50
+2025-09-21 19:19:27 - INFO -   OpenAI success: 50/50
+2025-09-21 19:19:27 - INFO - Results saved to src/data/api_results.json (2000 total results)
+2025-09-21 19:19:27 - INFO - Progress: 2000/7362 (27.2%)
+2025-09-21 19:19:27 - INFO - Processing batch 41/148 (50 posts)
+2025-09-21 19:20:27 - INFO - Google API success: 46/50 posts (92.0%)
+2025-09-21 19:21:12 - INFO - Batch 41 completed in 105.37s
+2025-09-21 19:21:12 - INFO -   Google success: 46/50
+2025-09-21 19:21:12 - INFO -   OpenAI success: 46/46
+2025-09-21 19:21:12 - INFO - Progress: 2050/7362 (27.8%)
+2025-09-21 19:21:12 - INFO - Processing batch 42/148 (50 posts)
+2025-09-21 19:22:07 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 19:22:54 - INFO - PROGRESS UPDATE: 2,100 posts processed (28.5% complete)
+2025-09-21 19:22:54 - INFO -   Success Rate: 92.9% (1,951 successful, 149 failed)
+2025-09-21 19:22:54 - INFO -   Time Elapsed: 1.2 hours
+2025-09-21 19:22:54 - INFO -   Estimated Time Remaining: 3.1 hours
+2025-09-21 19:22:54 - INFO -   Google API Success: 1,951
+2025-09-21 19:22:54 - INFO -   OpenAI API Success: 1,951
+2025-09-21 19:22:54 - INFO - ------------------------------------------------------------
+2025-09-21 19:22:54 - INFO - Batch 42 completed in 102.06s
+2025-09-21 19:22:54 - INFO -   Google success: 48/50
+2025-09-21 19:22:54 - INFO -   OpenAI success: 48/48
+2025-09-21 19:22:54 - INFO - Progress: 2100/7362 (28.5%)
+2025-09-21 19:22:54 - INFO - Processing batch 43/148 (50 posts)
+2025-09-21 19:23:52 - INFO - Google API success: 47/50 posts (94.0%)
+2025-09-21 19:24:38 - INFO - Batch 43 completed in 103.63s
+2025-09-21 19:24:38 - INFO -   Google success: 47/50
+2025-09-21 19:24:38 - INFO -   OpenAI success: 47/47
+2025-09-21 19:24:38 - INFO - Progress: 2150/7362 (29.2%)
+2025-09-21 19:24:38 - INFO - Processing batch 44/148 (50 posts)
+2025-09-21 19:25:41 - INFO - Google API success: 45/50 posts (90.0%)
+2025-09-21 19:26:25 - INFO - PROGRESS UPDATE: 2,200 posts processed (29.9% complete)
+2025-09-21 19:26:25 - INFO -   Success Rate: 92.9% (2,043 successful, 157 failed)
+2025-09-21 19:26:25 - INFO -   Time Elapsed: 1.3 hours
+2025-09-21 19:26:25 - INFO -   Estimated Time Remaining: 3.0 hours
+2025-09-21 19:26:25 - INFO -   Google API Success: 2,043
+2025-09-21 19:26:25 - INFO -   OpenAI API Success: 2,043
+2025-09-21 19:26:25 - INFO - ------------------------------------------------------------
+2025-09-21 19:26:25 - INFO - Batch 44 completed in 107.21s
+2025-09-21 19:26:25 - INFO -   Google success: 45/50
+2025-09-21 19:26:25 - INFO -   OpenAI success: 45/45
+2025-09-21 19:26:25 - INFO - Progress: 2200/7362 (29.9%)
+2025-09-21 19:26:25 - INFO - Processing batch 45/148 (50 posts)
+2025-09-21 19:27:28 - INFO - Google API success: 45/50 posts (90.0%)
+2025-09-21 19:28:12 - INFO - Batch 45 completed in 106.63s
+2025-09-21 19:28:12 - INFO -   Google success: 45/50
+2025-09-21 19:28:12 - INFO -   OpenAI success: 45/45
+2025-09-21 19:28:12 - INFO - Progress: 2250/7362 (30.6%)
+2025-09-21 19:28:12 - INFO - Processing batch 46/148 (50 posts)
+2025-09-21 19:29:31 - INFO - Google API success: 39/50 posts (78.0%)
+2025-09-21 19:30:09 - INFO - PROGRESS UPDATE: 2,300 posts processed (31.2% complete)
+2025-09-21 19:30:09 - INFO -   Success Rate: 92.5% (2,127 successful, 173 failed)
+2025-09-21 19:30:09 - INFO -   Time Elapsed: 1.3 hours
+2025-09-21 19:30:09 - INFO -   Estimated Time Remaining: 3.0 hours
+2025-09-21 19:30:09 - INFO -   Google API Success: 2,127
+2025-09-21 19:30:09 - INFO -   OpenAI API Success: 2,127
+2025-09-21 19:30:09 - INFO - ------------------------------------------------------------
+2025-09-21 19:30:09 - INFO - Batch 46 completed in 117.27s
+2025-09-21 19:30:09 - INFO -   Google success: 39/50
+2025-09-21 19:30:09 - INFO -   OpenAI success: 39/39
+2025-09-21 19:30:09 - INFO - Progress: 2300/7362 (31.2%)
+2025-09-21 19:30:09 - INFO - Processing batch 47/148 (50 posts)
+2025-09-21 19:31:11 - INFO - Google API success: 45/50 posts (90.0%)
+2025-09-21 19:31:56 - INFO - Batch 47 completed in 107.06s
+2025-09-21 19:31:56 - INFO -   Google success: 45/50
+2025-09-21 19:31:56 - INFO -   OpenAI success: 45/45
+2025-09-21 19:31:56 - INFO - Progress: 2350/7362 (31.9%)
+2025-09-21 19:31:56 - INFO - Processing batch 48/148 (50 posts)
+2025-09-21 19:32:48 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 19:33:37 - INFO - PROGRESS UPDATE: 2,400 posts processed (32.6% complete)
+2025-09-21 19:33:37 - INFO -   Success Rate: 92.5% (2,221 successful, 179 failed)
+2025-09-21 19:33:37 - INFO -   Time Elapsed: 1.4 hours
+2025-09-21 19:33:37 - INFO -   Estimated Time Remaining: 2.9 hours
+2025-09-21 19:33:37 - INFO -   Google API Success: 2,221
+2025-09-21 19:33:37 - INFO -   OpenAI API Success: 2,221
+2025-09-21 19:33:37 - INFO - ------------------------------------------------------------
+2025-09-21 19:33:37 - INFO - Batch 48 completed in 100.64s
+2025-09-21 19:33:37 - INFO -   Google success: 49/50
+2025-09-21 19:33:37 - INFO -   OpenAI success: 49/49
+2025-09-21 19:33:37 - INFO - Progress: 2400/7362 (32.6%)
+2025-09-21 19:33:37 - INFO - Processing batch 49/148 (50 posts)
+2025-09-21 19:34:39 - INFO - Google API success: 45/50 posts (90.0%)
+2025-09-21 19:35:24 - INFO - Batch 49 completed in 106.98s
+2025-09-21 19:35:24 - INFO -   Google success: 45/50
+2025-09-21 19:35:24 - INFO -   OpenAI success: 45/45
+2025-09-21 19:35:24 - INFO - Progress: 2450/7362 (33.3%)
+2025-09-21 19:35:24 - INFO - Processing batch 50/148 (50 posts)
+2025-09-21 19:36:37 - INFO - Google API success: 41/50 posts (82.0%)
+2025-09-21 19:37:17 - INFO - PROGRESS UPDATE: 2,500 posts processed (34.0% complete)
+2025-09-21 19:37:17 - INFO -   Success Rate: 92.3% (2,307 successful, 193 failed)
+2025-09-21 19:37:17 - INFO -   Time Elapsed: 1.5 hours
+2025-09-21 19:37:17 - INFO -   Estimated Time Remaining: 2.8 hours
+2025-09-21 19:37:17 - INFO -   Google API Success: 2,307
+2025-09-21 19:37:17 - INFO -   OpenAI API Success: 2,307
+2025-09-21 19:37:17 - INFO - ------------------------------------------------------------
+2025-09-21 19:37:17 - INFO - Batch 50 completed in 113.06s
+2025-09-21 19:37:17 - INFO -   Google success: 41/50
+2025-09-21 19:37:17 - INFO -   OpenAI success: 41/41
+2025-09-21 19:37:17 - INFO - Results saved to src/data/api_results.json (2500 total results)
+2025-09-21 19:37:17 - INFO - Progress: 2500/7362 (34.0%)
+2025-09-21 19:37:17 - INFO - Processing batch 51/148 (50 posts)
+2025-09-21 19:38:40 - INFO - Google API success: 37/50 posts (74.0%)
+2025-09-21 19:39:16 - INFO - Batch 51 completed in 119.14s
+2025-09-21 19:39:16 - INFO -   Google success: 37/50
+2025-09-21 19:39:16 - INFO -   OpenAI success: 37/37
+2025-09-21 19:39:16 - INFO - Progress: 2550/7362 (34.6%)
+2025-09-21 19:39:16 - INFO - Processing batch 52/148 (50 posts)
+2025-09-21 19:40:16 - INFO - Google API success: 46/50 posts (92.0%)
+2025-09-21 19:41:02 - INFO - PROGRESS UPDATE: 2,600 posts processed (35.3% complete)
+2025-09-21 19:41:02 - INFO -   Success Rate: 91.9% (2,390 successful, 210 failed)
+2025-09-21 19:41:02 - INFO -   Time Elapsed: 1.5 hours
+2025-09-21 19:41:02 - INFO -   Estimated Time Remaining: 2.8 hours
+2025-09-21 19:41:02 - INFO -   Google API Success: 2,390
+2025-09-21 19:41:02 - INFO -   OpenAI API Success: 2,390
+2025-09-21 19:41:02 - INFO - ------------------------------------------------------------
+2025-09-21 19:41:02 - INFO - Batch 52 completed in 105.77s
+2025-09-21 19:41:02 - INFO -   Google success: 46/50
+2025-09-21 19:41:02 - INFO -   OpenAI success: 46/46
+2025-09-21 19:41:02 - INFO - Progress: 2600/7362 (35.3%)
+2025-09-21 19:41:02 - INFO - Processing batch 53/148 (50 posts)
+2025-09-21 19:42:08 - INFO - Google API success: 44/50 posts (88.0%)
+2025-09-21 19:42:51 - INFO - Batch 53 completed in 108.97s
+2025-09-21 19:42:51 - INFO -   Google success: 44/50
+2025-09-21 19:42:51 - INFO -   OpenAI success: 44/44
+2025-09-21 19:42:51 - INFO - Progress: 2650/7362 (36.0%)
+2025-09-21 19:42:51 - INFO - Processing batch 54/148 (50 posts)
+2025-09-21 19:43:48 - INFO - Google API success: 47/50 posts (94.0%)
+2025-09-21 19:44:41 - INFO - PROGRESS UPDATE: 2,700 posts processed (36.7% complete)
+2025-09-21 19:44:41 - INFO -   Success Rate: 91.9% (2,481 successful, 219 failed)
+2025-09-21 19:44:41 - INFO -   Time Elapsed: 1.6 hours
+2025-09-21 19:44:41 - INFO -   Estimated Time Remaining: 2.7 hours
+2025-09-21 19:44:41 - INFO -   Google API Success: 2,481
+2025-09-21 19:44:41 - INFO -   OpenAI API Success: 2,481
+2025-09-21 19:44:41 - INFO - ------------------------------------------------------------
+2025-09-21 19:44:41 - INFO - Batch 54 completed in 109.70s
+2025-09-21 19:44:41 - INFO -   Google success: 47/50
+2025-09-21 19:44:41 - INFO -   OpenAI success: 47/47
+2025-09-21 19:44:41 - INFO - Progress: 2700/7362 (36.7%)
+2025-09-21 19:44:41 - INFO - Processing batch 55/148 (50 posts)
+2025-09-21 19:45:38 - INFO - Google API success: 47/50 posts (94.0%)
+2025-09-21 19:46:24 - INFO - Batch 55 completed in 103.59s
+2025-09-21 19:46:24 - INFO -   Google success: 47/50
+2025-09-21 19:46:24 - INFO -   OpenAI success: 47/47
+2025-09-21 19:46:24 - INFO - Progress: 2750/7362 (37.4%)
+2025-09-21 19:46:24 - INFO - Processing batch 56/148 (50 posts)
+2025-09-21 19:47:16 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 19:48:05 - INFO - PROGRESS UPDATE: 2,800 posts processed (38.0% complete)
+2025-09-21 19:48:05 - INFO -   Success Rate: 92.0% (2,577 successful, 223 failed)
+2025-09-21 19:48:05 - INFO -   Time Elapsed: 1.6 hours
+2025-09-21 19:48:05 - INFO -   Estimated Time Remaining: 2.7 hours
+2025-09-21 19:48:05 - INFO -   Google API Success: 2,577
+2025-09-21 19:48:05 - INFO -   OpenAI API Success: 2,577
+2025-09-21 19:48:05 - INFO - ------------------------------------------------------------
+2025-09-21 19:48:05 - INFO - Batch 56 completed in 100.39s
+2025-09-21 19:48:05 - INFO -   Google success: 49/50
+2025-09-21 19:48:05 - INFO -   OpenAI success: 49/49
+2025-09-21 19:48:05 - INFO - Progress: 2800/7362 (38.0%)
+2025-09-21 19:48:05 - INFO - Processing batch 57/148 (50 posts)
+2025-09-21 19:49:02 - INFO - Google API success: 47/50 posts (94.0%)
+2025-09-21 19:49:48 - INFO - Batch 57 completed in 103.58s
+2025-09-21 19:49:48 - INFO -   Google success: 47/50
+2025-09-21 19:49:48 - INFO -   OpenAI success: 47/47
+2025-09-21 19:49:48 - INFO - Progress: 2850/7362 (38.7%)
+2025-09-21 19:49:48 - INFO - Processing batch 58/148 (50 posts)
+2025-09-21 19:50:46 - INFO - Google API success: 47/50 posts (94.0%)
+2025-09-21 19:51:32 - INFO - PROGRESS UPDATE: 2,900 posts processed (39.4% complete)
+2025-09-21 19:51:32 - INFO -   Success Rate: 92.1% (2,671 successful, 229 failed)
+2025-09-21 19:51:32 - INFO -   Time Elapsed: 1.7 hours
+2025-09-21 19:51:32 - INFO -   Estimated Time Remaining: 2.6 hours
+2025-09-21 19:51:32 - INFO -   Google API Success: 2,671
+2025-09-21 19:51:32 - INFO -   OpenAI API Success: 2,671
+2025-09-21 19:51:32 - INFO - ------------------------------------------------------------
+2025-09-21 19:51:32 - INFO - Batch 58 completed in 103.80s
+2025-09-21 19:51:32 - INFO -   Google success: 47/50
+2025-09-21 19:51:32 - INFO -   OpenAI success: 47/47
+2025-09-21 19:51:32 - INFO - Progress: 2900/7362 (39.4%)
+2025-09-21 19:51:32 - INFO - Processing batch 59/148 (50 posts)
+2025-09-21 19:52:29 - INFO - Google API success: 47/50 posts (94.0%)
+2025-09-21 19:53:16 - INFO - Batch 59 completed in 103.41s
+2025-09-21 19:53:16 - INFO -   Google success: 47/50
+2025-09-21 19:53:16 - INFO -   OpenAI success: 47/47
+2025-09-21 19:53:16 - INFO - Progress: 2950/7362 (40.1%)
+2025-09-21 19:53:16 - INFO - Processing batch 60/148 (50 posts)
+2025-09-21 19:54:05 - INFO - Google API success: 50/50 posts (100.0%)
+2025-09-21 19:54:54 - INFO - PROGRESS UPDATE: 3,000 posts processed (40.7% complete)
+2025-09-21 19:54:54 - INFO -   Success Rate: 92.3% (2,768 successful, 232 failed)
+2025-09-21 19:54:54 - INFO -   Time Elapsed: 1.8 hours
+2025-09-21 19:54:54 - INFO -   Estimated Time Remaining: 2.6 hours
+2025-09-21 19:54:54 - INFO -   Google API Success: 2,768
+2025-09-21 19:54:54 - INFO -   OpenAI API Success: 2,768
+2025-09-21 19:54:54 - INFO - ------------------------------------------------------------
+2025-09-21 19:54:54 - INFO - ================================================================================
+2025-09-21 19:54:54 - INFO - MILESTONE REACHED: 3,000 POSTS PROCESSED
+2025-09-21 19:54:54 - INFO - ================================================================================
+2025-09-21 19:54:54 - INFO - Progress: 40.7% complete (3,000/7,362)
+2025-09-21 19:54:54 - INFO - Success Rate: 92.3%
+2025-09-21 19:54:54 - INFO - Time Elapsed: 1.8 hours
+2025-09-21 19:54:54 - INFO - Google API Success: 2,768
+2025-09-21 19:54:54 - INFO - OpenAI API Success: 2,768
+2025-09-21 19:54:54 - INFO - Processing Rate: 1707.4 posts/hour
+2025-09-21 19:54:54 - INFO - Estimated Time Remaining: 2.6 hours
+2025-09-21 19:54:54 - INFO - ================================================================================
+2025-09-21 19:54:54 - INFO - Batch 60 completed in 98.95s
+2025-09-21 19:54:54 - INFO -   Google success: 50/50
+2025-09-21 19:54:54 - INFO -   OpenAI success: 50/50
+2025-09-21 19:54:55 - INFO - Results saved to src/data/api_results.json (3000 total results)
+2025-09-21 19:54:55 - INFO - Progress: 3000/7362 (40.7%)
+2025-09-21 19:54:55 - INFO - Processing batch 61/148 (50 posts)
+2025-09-21 19:55:58 - INFO - Google API success: 45/50 posts (90.0%)
+2025-09-21 19:56:42 - INFO - Batch 61 completed in 107.61s
+2025-09-21 19:56:42 - INFO -   Google success: 45/50
+2025-09-21 19:56:42 - INFO -   OpenAI success: 45/45
+2025-09-21 19:56:42 - INFO - Progress: 3050/7362 (41.4%)
+2025-09-21 19:56:42 - INFO - Processing batch 62/148 (50 posts)
+2025-09-21 19:57:35 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 19:58:23 - INFO - PROGRESS UPDATE: 3,100 posts processed (42.1% complete)
+2025-09-21 19:58:23 - INFO -   Success Rate: 92.3% (2,862 successful, 238 failed)
+2025-09-21 19:58:23 - INFO -   Time Elapsed: 1.8 hours
+2025-09-21 19:58:23 - INFO -   Estimated Time Remaining: 2.5 hours
+2025-09-21 19:58:23 - INFO -   Google API Success: 2,862
+2025-09-21 19:58:23 - INFO -   OpenAI API Success: 2,862
+2025-09-21 19:58:23 - INFO - ------------------------------------------------------------
+2025-09-21 19:58:23 - INFO - Batch 62 completed in 100.73s
+2025-09-21 19:58:23 - INFO -   Google success: 49/50
+2025-09-21 19:58:23 - INFO -   OpenAI success: 49/49
+2025-09-21 19:58:23 - INFO - Progress: 3100/7362 (42.1%)
+2025-09-21 19:58:23 - INFO - Processing batch 63/148 (50 posts)
+2025-09-21 19:59:23 - INFO - Google API success: 46/50 posts (92.0%)
+2025-09-21 20:00:09 - INFO - Batch 63 completed in 105.47s
+2025-09-21 20:00:09 - INFO -   Google success: 46/50
+2025-09-21 20:00:09 - INFO -   OpenAI success: 46/46
+2025-09-21 20:00:09 - INFO - Progress: 3150/7362 (42.8%)
+2025-09-21 20:00:09 - INFO - Processing batch 64/148 (50 posts)
+2025-09-21 20:01:01 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 20:01:49 - INFO - PROGRESS UPDATE: 3,200 posts processed (43.5% complete)
+2025-09-21 20:01:49 - INFO -   Success Rate: 92.4% (2,957 successful, 243 failed)
+2025-09-21 20:01:49 - INFO -   Time Elapsed: 1.9 hours
+2025-09-21 20:01:49 - INFO -   Estimated Time Remaining: 2.4 hours
+2025-09-21 20:01:49 - INFO -   Google API Success: 2,957
+2025-09-21 20:01:49 - INFO -   OpenAI API Success: 2,957
+2025-09-21 20:01:49 - INFO - ------------------------------------------------------------
+2025-09-21 20:01:49 - INFO - Batch 64 completed in 100.52s
+2025-09-21 20:01:49 - INFO -   Google success: 49/50
+2025-09-21 20:01:49 - INFO -   OpenAI success: 49/49
+2025-09-21 20:01:49 - INFO - Progress: 3200/7362 (43.5%)
+2025-09-21 20:01:49 - INFO - Processing batch 65/148 (50 posts)
+2025-09-21 20:02:44 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 20:03:31 - INFO - Batch 65 completed in 102.08s
+2025-09-21 20:03:31 - INFO -   Google success: 48/50
+2025-09-21 20:03:31 - INFO -   OpenAI success: 48/48
+2025-09-21 20:03:31 - INFO - Progress: 3250/7362 (44.1%)
+2025-09-21 20:03:31 - INFO - Processing batch 66/148 (50 posts)
+2025-09-21 20:04:21 - INFO - Google API success: 50/50 posts (100.0%)
+2025-09-21 20:05:10 - INFO - PROGRESS UPDATE: 3,300 posts processed (44.8% complete)
+2025-09-21 20:05:10 - INFO -   Success Rate: 92.6% (3,055 successful, 245 failed)
+2025-09-21 20:05:10 - INFO -   Time Elapsed: 1.9 hours
+2025-09-21 20:05:10 - INFO -   Estimated Time Remaining: 2.4 hours
+2025-09-21 20:05:10 - INFO -   Google API Success: 3,055
+2025-09-21 20:05:10 - INFO -   OpenAI API Success: 3,055
+2025-09-21 20:05:10 - INFO - ------------------------------------------------------------
+2025-09-21 20:05:10 - INFO - Batch 66 completed in 98.87s
+2025-09-21 20:05:10 - INFO -   Google success: 50/50
+2025-09-21 20:05:10 - INFO -   OpenAI success: 50/50
+2025-09-21 20:05:10 - INFO - Progress: 3300/7362 (44.8%)
+2025-09-21 20:05:10 - INFO - Processing batch 67/148 (50 posts)
+2025-09-21 20:06:02 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 20:06:51 - INFO - Batch 67 completed in 100.43s
+2025-09-21 20:06:51 - INFO -   Google success: 49/50
+2025-09-21 20:06:51 - INFO -   OpenAI success: 49/49
+2025-09-21 20:06:51 - INFO - Progress: 3350/7362 (45.5%)
+2025-09-21 20:06:51 - INFO - Processing batch 68/148 (50 posts)
+2025-09-21 20:07:43 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 20:08:31 - INFO - PROGRESS UPDATE: 3,400 posts processed (46.2% complete)
+2025-09-21 20:08:31 - INFO -   Success Rate: 92.7% (3,153 successful, 247 failed)
+2025-09-21 20:08:31 - INFO -   Time Elapsed: 2.0 hours
+2025-09-21 20:08:31 - INFO -   Estimated Time Remaining: 2.3 hours
+2025-09-21 20:08:31 - INFO -   Google API Success: 3,153
+2025-09-21 20:08:31 - INFO -   OpenAI API Success: 3,153
+2025-09-21 20:08:31 - INFO - ------------------------------------------------------------
+2025-09-21 20:08:31 - INFO - Batch 68 completed in 100.49s
+2025-09-21 20:08:31 - INFO -   Google success: 49/50
+2025-09-21 20:08:31 - INFO -   OpenAI success: 49/49
+2025-09-21 20:08:31 - INFO - Progress: 3400/7362 (46.2%)
+2025-09-21 20:08:31 - INFO - Processing batch 69/148 (50 posts)
+2025-09-21 20:09:26 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 20:10:13 - INFO - Batch 69 completed in 102.40s
+2025-09-21 20:10:13 - INFO -   Google success: 48/50
+2025-09-21 20:10:13 - INFO -   OpenAI success: 48/48
+2025-09-21 20:10:13 - INFO - Progress: 3450/7362 (46.9%)
+2025-09-21 20:10:13 - INFO - Processing batch 70/148 (50 posts)
+2025-09-21 20:11:11 - INFO - Google API success: 47/50 posts (94.0%)
+2025-09-21 20:11:57 - INFO - PROGRESS UPDATE: 3,500 posts processed (47.5% complete)
+2025-09-21 20:11:57 - INFO -   Success Rate: 92.8% (3,248 successful, 252 failed)
+2025-09-21 20:11:57 - INFO -   Time Elapsed: 2.0 hours
+2025-09-21 20:11:57 - INFO -   Estimated Time Remaining: 2.3 hours
+2025-09-21 20:11:57 - INFO -   Google API Success: 3,248
+2025-09-21 20:11:57 - INFO -   OpenAI API Success: 3,248
+2025-09-21 20:11:57 - INFO - ------------------------------------------------------------
+2025-09-21 20:11:57 - INFO - Batch 70 completed in 103.59s
+2025-09-21 20:11:57 - INFO -   Google success: 47/50
+2025-09-21 20:11:57 - INFO -   OpenAI success: 47/47
+2025-09-21 20:11:57 - INFO - Results saved to src/data/api_results.json (3500 total results)
+2025-09-21 20:11:57 - INFO - Progress: 3500/7362 (47.5%)
+2025-09-21 20:11:57 - INFO - Processing batch 71/148 (50 posts)
+2025-09-21 20:12:47 - INFO - Google API success: 50/50 posts (100.0%)
+2025-09-21 20:13:37 - INFO - Batch 71 completed in 99.49s
+2025-09-21 20:13:37 - INFO -   Google success: 50/50
+2025-09-21 20:13:37 - INFO -   OpenAI success: 50/50
+2025-09-21 20:13:37 - INFO - Progress: 3550/7362 (48.2%)
+2025-09-21 20:13:37 - INFO - Processing batch 72/148 (50 posts)
+2025-09-21 20:14:26 - INFO - Google API success: 50/50 posts (100.0%)
+2025-09-21 20:15:16 - INFO - PROGRESS UPDATE: 3,600 posts processed (48.9% complete)
+2025-09-21 20:15:16 - INFO -   Success Rate: 93.0% (3,348 successful, 252 failed)
+2025-09-21 20:15:16 - INFO -   Time Elapsed: 2.1 hours
+2025-09-21 20:15:16 - INFO -   Estimated Time Remaining: 2.2 hours
+2025-09-21 20:15:16 - INFO -   Google API Success: 3,348
+2025-09-21 20:15:16 - INFO -   OpenAI API Success: 3,348
+2025-09-21 20:15:16 - INFO - ------------------------------------------------------------
+2025-09-21 20:15:16 - INFO - Batch 72 completed in 98.99s
+2025-09-21 20:15:16 - INFO -   Google success: 50/50
+2025-09-21 20:15:16 - INFO -   OpenAI success: 50/50
+2025-09-21 20:15:16 - INFO - Progress: 3600/7362 (48.9%)
+2025-09-21 20:15:16 - INFO - Processing batch 73/148 (50 posts)
+2025-09-21 20:16:11 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 20:16:58 - INFO - Batch 73 completed in 102.19s
+2025-09-21 20:16:58 - INFO -   Google success: 48/50
+2025-09-21 20:16:58 - INFO -   OpenAI success: 48/48
+2025-09-21 20:16:58 - INFO - Progress: 3650/7362 (49.6%)
+2025-09-21 20:16:58 - INFO - Processing batch 74/148 (50 posts)
+2025-09-21 20:17:48 - INFO - Google API success: 50/50 posts (100.0%)
+2025-09-21 20:18:38 - INFO - PROGRESS UPDATE: 3,700 posts processed (50.3% complete)
+2025-09-21 20:18:38 - INFO -   Success Rate: 93.1% (3,446 successful, 254 failed)
+2025-09-21 20:18:38 - INFO -   Time Elapsed: 2.2 hours
+2025-09-21 20:18:38 - INFO -   Estimated Time Remaining: 2.1 hours
+2025-09-21 20:18:38 - INFO -   Google API Success: 3,446
+2025-09-21 20:18:38 - INFO -   OpenAI API Success: 3,446
+2025-09-21 20:18:38 - INFO - ------------------------------------------------------------
+2025-09-21 20:18:38 - INFO - Batch 74 completed in 99.74s
+2025-09-21 20:18:38 - INFO -   Google success: 50/50
+2025-09-21 20:18:38 - INFO -   OpenAI success: 50/50
+2025-09-21 20:18:38 - INFO - Progress: 3700/7362 (50.3%)
+2025-09-21 20:18:38 - INFO - Processing batch 75/148 (50 posts)
+2025-09-21 20:19:33 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 20:20:20 - INFO - Batch 75 completed in 102.33s
+2025-09-21 20:20:20 - INFO -   Google success: 48/50
+2025-09-21 20:20:20 - INFO -   OpenAI success: 48/48
+2025-09-21 20:20:20 - INFO - Progress: 3750/7362 (50.9%)
+2025-09-21 20:20:20 - INFO - Processing batch 76/148 (50 posts)
+2025-09-21 20:21:28 - INFO - Google API success: 43/50 posts (86.0%)
+2025-09-21 20:22:10 - INFO - PROGRESS UPDATE: 3,800 posts processed (51.6% complete)
+2025-09-21 20:22:10 - INFO -   Success Rate: 93.1% (3,537 successful, 263 failed)
+2025-09-21 20:22:10 - INFO -   Time Elapsed: 2.2 hours
+2025-09-21 20:22:10 - INFO -   Estimated Time Remaining: 2.1 hours
+2025-09-21 20:22:10 - INFO -   Google API Success: 3,537
+2025-09-21 20:22:10 - INFO -   OpenAI API Success: 3,537
+2025-09-21 20:22:10 - INFO - ------------------------------------------------------------
+2025-09-21 20:22:10 - INFO - Batch 76 completed in 109.96s
+2025-09-21 20:22:10 - INFO -   Google success: 43/50
+2025-09-21 20:22:10 - INFO -   OpenAI success: 43/43
+2025-09-21 20:22:10 - INFO - Progress: 3800/7362 (51.6%)
+2025-09-21 20:22:10 - INFO - Processing batch 77/148 (50 posts)
+2025-09-21 20:23:03 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 20:23:51 - INFO - Batch 77 completed in 101.27s
+2025-09-21 20:23:51 - INFO -   Google success: 49/50
+2025-09-21 20:23:51 - INFO -   OpenAI success: 49/49
+2025-09-21 20:23:51 - INFO - Progress: 3850/7362 (52.3%)
+2025-09-21 20:23:51 - INFO - Processing batch 78/148 (50 posts)
+2025-09-21 20:24:49 - INFO - Google API success: 47/50 posts (94.0%)
+2025-09-21 20:25:35 - INFO - PROGRESS UPDATE: 3,900 posts processed (53.0% complete)
+2025-09-21 20:25:35 - INFO -   Success Rate: 93.2% (3,633 successful, 267 failed)
+2025-09-21 20:25:35 - INFO -   Time Elapsed: 2.3 hours
+2025-09-21 20:25:35 - INFO -   Estimated Time Remaining: 2.0 hours
+2025-09-21 20:25:35 - INFO -   Google API Success: 3,633
+2025-09-21 20:25:35 - INFO -   OpenAI API Success: 3,633
+2025-09-21 20:25:35 - INFO - ------------------------------------------------------------
+2025-09-21 20:25:35 - INFO - Batch 78 completed in 103.79s
+2025-09-21 20:25:35 - INFO -   Google success: 47/50
+2025-09-21 20:25:35 - INFO -   OpenAI success: 47/47
+2025-09-21 20:25:35 - INFO - Progress: 3900/7362 (53.0%)
+2025-09-21 20:25:35 - INFO - Processing batch 79/148 (50 posts)
+2025-09-21 20:26:30 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 20:27:17 - INFO - Batch 79 completed in 102.15s
+2025-09-21 20:27:17 - INFO -   Google success: 48/50
+2025-09-21 20:27:17 - INFO -   OpenAI success: 48/48
+2025-09-21 20:27:17 - INFO - Progress: 3950/7362 (53.7%)
+2025-09-21 20:27:17 - INFO - Processing batch 80/148 (50 posts)
+2025-09-21 20:28:12 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 20:29:00 - INFO - PROGRESS UPDATE: 4,000 posts processed (54.3% complete)
+2025-09-21 20:29:00 - INFO -   Success Rate: 93.2% (3,729 successful, 271 failed)
+2025-09-21 20:29:00 - INFO -   Time Elapsed: 2.3 hours
+2025-09-21 20:29:00 - INFO -   Estimated Time Remaining: 2.0 hours
+2025-09-21 20:29:00 - INFO -   Google API Success: 3,729
+2025-09-21 20:29:00 - INFO -   OpenAI API Success: 3,729
+2025-09-21 20:29:00 - INFO - ------------------------------------------------------------
+2025-09-21 20:29:00 - INFO - ================================================================================
+2025-09-21 20:29:00 - INFO - MILESTONE REACHED: 4,000 POSTS PROCESSED
+2025-09-21 20:29:00 - INFO - ================================================================================
+2025-09-21 20:29:00 - INFO - Progress: 54.3% complete (4,000/7,362)
+2025-09-21 20:29:00 - INFO - Success Rate: 93.2%
+2025-09-21 20:29:00 - INFO - Time Elapsed: 2.3 hours
+2025-09-21 20:29:00 - INFO - Google API Success: 3,729
+2025-09-21 20:29:00 - INFO - OpenAI API Success: 3,729
+2025-09-21 20:29:00 - INFO - Processing Rate: 1720.3 posts/hour
+2025-09-21 20:29:00 - INFO - Estimated Time Remaining: 2.0 hours
+2025-09-21 20:29:00 - INFO - ================================================================================
+2025-09-21 20:29:00 - INFO - Batch 80 completed in 102.48s
+2025-09-21 20:29:00 - INFO -   Google success: 48/50
+2025-09-21 20:29:00 - INFO -   OpenAI success: 48/48
+2025-09-21 20:29:00 - INFO - Results saved to src/data/api_results.json (4000 total results)
+2025-09-21 20:29:00 - INFO - Progress: 4000/7362 (54.3%)
+2025-09-21 20:29:00 - INFO - Processing batch 81/148 (50 posts)
+2025-09-21 20:30:01 - INFO - Google API success: 46/50 posts (92.0%)
+2025-09-21 20:30:47 - INFO - Batch 81 completed in 106.39s
+2025-09-21 20:30:47 - INFO -   Google success: 46/50
+2025-09-21 20:30:47 - INFO -   OpenAI success: 46/46
+2025-09-21 20:30:47 - INFO - Progress: 4050/7362 (55.0%)
+2025-09-21 20:30:47 - INFO - Processing batch 82/148 (50 posts)
+2025-09-21 20:32:02 - INFO - Google API success: 40/50 posts (80.0%)
+2025-09-21 20:32:41 - INFO - PROGRESS UPDATE: 4,100 posts processed (55.7% complete)
+2025-09-21 20:32:41 - INFO -   Success Rate: 93.0% (3,815 successful, 285 failed)
+2025-09-21 20:32:41 - INFO -   Time Elapsed: 2.4 hours
+2025-09-21 20:32:41 - INFO -   Estimated Time Remaining: 1.9 hours
+2025-09-21 20:32:41 - INFO -   Google API Success: 3,815
+2025-09-21 20:32:41 - INFO -   OpenAI API Success: 3,815
+2025-09-21 20:32:41 - INFO - ------------------------------------------------------------
+2025-09-21 20:32:41 - INFO - Batch 82 completed in 114.85s
+2025-09-21 20:32:41 - INFO -   Google success: 40/50
+2025-09-21 20:32:41 - INFO -   OpenAI success: 40/40
+2025-09-21 20:32:41 - INFO - Progress: 4100/7362 (55.7%)
+2025-09-21 20:32:41 - INFO - Processing batch 83/148 (50 posts)
+2025-09-21 20:33:40 - INFO - Google API success: 47/50 posts (94.0%)
+2025-09-21 20:34:26 - INFO - Batch 83 completed in 104.85s
+2025-09-21 20:34:26 - INFO -   Google success: 47/50
+2025-09-21 20:34:26 - INFO -   OpenAI success: 47/47
+2025-09-21 20:34:26 - INFO - Progress: 4150/7362 (56.4%)
+2025-09-21 20:34:26 - INFO - Processing batch 84/148 (50 posts)
+2025-09-21 20:35:30 - INFO - Google API success: 45/50 posts (90.0%)
+2025-09-21 20:36:15 - INFO - PROGRESS UPDATE: 4,200 posts processed (57.0% complete)
+2025-09-21 20:36:15 - INFO -   Success Rate: 93.0% (3,907 successful, 293 failed)
+2025-09-21 20:36:15 - INFO -   Time Elapsed: 2.4 hours
+2025-09-21 20:36:15 - INFO -   Estimated Time Remaining: 1.8 hours
+2025-09-21 20:36:15 - INFO -   Google API Success: 3,907
+2025-09-21 20:36:15 - INFO -   OpenAI API Success: 3,907
+2025-09-21 20:36:15 - INFO - ------------------------------------------------------------
+2025-09-21 20:36:15 - INFO - Batch 84 completed in 108.54s
+2025-09-21 20:36:15 - INFO -   Google success: 45/50
+2025-09-21 20:36:15 - INFO -   OpenAI success: 45/45
+2025-09-21 20:36:15 - INFO - Progress: 4200/7362 (57.0%)
+2025-09-21 20:36:15 - INFO - Processing batch 85/148 (50 posts)
+2025-09-21 20:37:15 - INFO - Google API success: 46/50 posts (92.0%)
+2025-09-21 20:38:00 - INFO - Batch 85 completed in 105.39s
+2025-09-21 20:38:00 - INFO -   Google success: 46/50
+2025-09-21 20:38:00 - INFO -   OpenAI success: 46/46
+2025-09-21 20:38:00 - INFO - Progress: 4250/7362 (57.7%)
+2025-09-21 20:38:00 - INFO - Processing batch 86/148 (50 posts)
+2025-09-21 20:38:55 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 20:39:42 - INFO - PROGRESS UPDATE: 4,300 posts processed (58.4% complete)
+2025-09-21 20:39:42 - INFO -   Success Rate: 93.0% (4,001 successful, 299 failed)
+2025-09-21 20:39:42 - INFO -   Time Elapsed: 2.5 hours
+2025-09-21 20:39:42 - INFO -   Estimated Time Remaining: 1.8 hours
+2025-09-21 20:39:42 - INFO -   Google API Success: 4,001
+2025-09-21 20:39:42 - INFO -   OpenAI API Success: 4,001
+2025-09-21 20:39:42 - INFO - ------------------------------------------------------------
+2025-09-21 20:39:42 - INFO - Batch 86 completed in 101.95s
+2025-09-21 20:39:42 - INFO -   Google success: 48/50
+2025-09-21 20:39:42 - INFO -   OpenAI success: 48/48
+2025-09-21 20:39:42 - INFO - Progress: 4300/7362 (58.4%)
+2025-09-21 20:39:42 - INFO - Processing batch 87/148 (50 posts)
+2025-09-21 20:40:37 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 20:41:24 - INFO - Batch 87 completed in 102.08s
+2025-09-21 20:41:24 - INFO -   Google success: 48/50
+2025-09-21 20:41:24 - INFO -   OpenAI success: 48/48
+2025-09-21 20:41:24 - INFO - Progress: 4350/7362 (59.1%)
+2025-09-21 20:41:24 - INFO - Processing batch 88/148 (50 posts)
+2025-09-21 20:42:19 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 20:43:07 - INFO - PROGRESS UPDATE: 4,400 posts processed (59.8% complete)
+2025-09-21 20:43:07 - INFO -   Success Rate: 93.1% (4,097 successful, 303 failed)
+2025-09-21 20:43:07 - INFO -   Time Elapsed: 2.6 hours
+2025-09-21 20:43:07 - INFO -   Estimated Time Remaining: 1.7 hours
+2025-09-21 20:43:07 - INFO -   Google API Success: 4,097
+2025-09-21 20:43:07 - INFO -   OpenAI API Success: 4,097
+2025-09-21 20:43:07 - INFO - ------------------------------------------------------------
+2025-09-21 20:43:07 - INFO - Batch 88 completed in 102.91s
+2025-09-21 20:43:07 - INFO -   Google success: 48/50
+2025-09-21 20:43:07 - INFO -   OpenAI success: 48/48
+2025-09-21 20:43:07 - INFO - Progress: 4400/7362 (59.8%)
+2025-09-21 20:43:07 - INFO - Processing batch 89/148 (50 posts)
+2025-09-21 20:44:12 - INFO - Google API success: 44/50 posts (88.0%)
+2025-09-21 20:44:57 - INFO - Batch 89 completed in 109.60s
+2025-09-21 20:44:57 - INFO -   Google success: 44/50
+2025-09-21 20:44:57 - INFO -   OpenAI success: 44/44
+2025-09-21 20:44:57 - INFO - Progress: 4450/7362 (60.4%)
+2025-09-21 20:44:57 - INFO - Processing batch 90/148 (50 posts)
+2025-09-21 20:46:00 - INFO - Google API success: 45/50 posts (90.0%)
+2025-09-21 20:46:45 - INFO - PROGRESS UPDATE: 4,500 posts processed (61.1% complete)
+2025-09-21 20:46:45 - INFO -   Success Rate: 93.0% (4,186 successful, 314 failed)
+2025-09-21 20:46:45 - INFO -   Time Elapsed: 2.6 hours
+2025-09-21 20:46:45 - INFO -   Estimated Time Remaining: 1.7 hours
+2025-09-21 20:46:45 - INFO -   Google API Success: 4,186
+2025-09-21 20:46:45 - INFO -   OpenAI API Success: 4,186
+2025-09-21 20:46:45 - INFO - ------------------------------------------------------------
+2025-09-21 20:46:45 - INFO - Batch 90 completed in 108.20s
+2025-09-21 20:46:45 - INFO -   Google success: 45/50
+2025-09-21 20:46:45 - INFO -   OpenAI success: 45/45
+2025-09-21 20:46:45 - INFO - Results saved to src/data/api_results.json (4500 total results)
+2025-09-21 20:46:45 - INFO - Progress: 4500/7362 (61.1%)
+2025-09-21 20:46:45 - INFO - Processing batch 91/148 (50 posts)
+2025-09-21 20:47:40 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 20:48:28 - INFO - Batch 91 completed in 102.73s
+2025-09-21 20:48:28 - INFO -   Google success: 48/50
+2025-09-21 20:48:28 - INFO -   OpenAI success: 48/48
+2025-09-21 20:48:28 - INFO - Progress: 4550/7362 (61.8%)
+2025-09-21 20:48:28 - INFO - Processing batch 92/148 (50 posts)
+2025-09-21 20:49:31 - INFO - Google API success: 45/50 posts (90.0%)
+2025-09-21 20:50:16 - INFO - PROGRESS UPDATE: 4,600 posts processed (62.5% complete)
+2025-09-21 20:50:16 - INFO -   Success Rate: 93.0% (4,279 successful, 321 failed)
+2025-09-21 20:50:16 - INFO -   Time Elapsed: 2.7 hours
+2025-09-21 20:50:16 - INFO -   Estimated Time Remaining: 1.6 hours
+2025-09-21 20:50:16 - INFO -   Google API Success: 4,279
+2025-09-21 20:50:16 - INFO -   OpenAI API Success: 4,279
+2025-09-21 20:50:16 - INFO - ------------------------------------------------------------
+2025-09-21 20:50:16 - INFO - Batch 92 completed in 108.13s
+2025-09-21 20:50:16 - INFO -   Google success: 45/50
+2025-09-21 20:50:16 - INFO -   OpenAI success: 45/45
+2025-09-21 20:50:16 - INFO - Progress: 4600/7362 (62.5%)
+2025-09-21 20:50:16 - INFO - Processing batch 93/148 (50 posts)
+2025-09-21 20:51:16 - INFO - Google API success: 46/50 posts (92.0%)
+2025-09-21 20:52:02 - INFO - Batch 93 completed in 105.51s
+2025-09-21 20:52:02 - INFO -   Google success: 46/50
+2025-09-21 20:52:02 - INFO -   OpenAI success: 46/46
+2025-09-21 20:52:02 - INFO - Progress: 4650/7362 (63.2%)
+2025-09-21 20:52:02 - INFO - Processing batch 94/148 (50 posts)
+2025-09-21 20:53:02 - INFO - Google API success: 46/50 posts (92.0%)
+2025-09-21 20:53:47 - INFO - PROGRESS UPDATE: 4,700 posts processed (63.8% complete)
+2025-09-21 20:53:47 - INFO -   Success Rate: 93.0% (4,371 successful, 329 failed)
+2025-09-21 20:53:47 - INFO -   Time Elapsed: 2.7 hours
+2025-09-21 20:53:47 - INFO -   Estimated Time Remaining: 1.6 hours
+2025-09-21 20:53:47 - INFO -   Google API Success: 4,371
+2025-09-21 20:53:47 - INFO -   OpenAI API Success: 4,371
+2025-09-21 20:53:47 - INFO - ------------------------------------------------------------
+2025-09-21 20:53:47 - INFO - Batch 94 completed in 105.58s
+2025-09-21 20:53:47 - INFO -   Google success: 46/50
+2025-09-21 20:53:47 - INFO -   OpenAI success: 46/46
+2025-09-21 20:53:47 - INFO - Progress: 4700/7362 (63.8%)
+2025-09-21 20:53:47 - INFO - Processing batch 95/148 (50 posts)
+2025-09-21 20:54:50 - INFO - Google API success: 45/50 posts (90.0%)
+2025-09-21 20:55:35 - INFO - Batch 95 completed in 108.04s
+2025-09-21 20:55:35 - INFO -   Google success: 45/50
+2025-09-21 20:55:35 - INFO -   OpenAI success: 45/45
+2025-09-21 20:55:35 - INFO - Progress: 4750/7362 (64.5%)
+2025-09-21 20:55:35 - INFO - Processing batch 96/148 (50 posts)
+2025-09-21 20:56:38 - INFO - Google API success: 45/50 posts (90.0%)
+2025-09-21 20:57:22 - INFO - PROGRESS UPDATE: 4,800 posts processed (65.2% complete)
+2025-09-21 20:57:22 - INFO -   Success Rate: 92.9% (4,461 successful, 339 failed)
+2025-09-21 20:57:22 - INFO -   Time Elapsed: 2.8 hours
+2025-09-21 20:57:22 - INFO -   Estimated Time Remaining: 1.5 hours
+2025-09-21 20:57:22 - INFO -   Google API Success: 4,461
+2025-09-21 20:57:22 - INFO -   OpenAI API Success: 4,461
+2025-09-21 20:57:22 - INFO - ------------------------------------------------------------
+2025-09-21 20:57:22 - INFO - Batch 96 completed in 107.03s
+2025-09-21 20:57:22 - INFO -   Google success: 45/50
+2025-09-21 20:57:22 - INFO -   OpenAI success: 45/45
+2025-09-21 20:57:22 - INFO - Progress: 4800/7362 (65.2%)
+2025-09-21 20:57:22 - INFO - Processing batch 97/148 (50 posts)
+2025-09-21 20:58:15 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 20:59:03 - INFO - Batch 97 completed in 100.55s
+2025-09-21 20:59:03 - INFO -   Google success: 49/50
+2025-09-21 20:59:03 - INFO -   OpenAI success: 49/49
+2025-09-21 20:59:03 - INFO - Progress: 4850/7362 (65.9%)
+2025-09-21 20:59:03 - INFO - Processing batch 98/148 (50 posts)
+2025-09-21 20:59:55 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 21:00:44 - INFO - PROGRESS UPDATE: 4,900 posts processed (66.6% complete)
+2025-09-21 21:00:44 - INFO -   Success Rate: 93.0% (4,559 successful, 341 failed)
+2025-09-21 21:00:44 - INFO -   Time Elapsed: 2.9 hours
+2025-09-21 21:00:44 - INFO -   Estimated Time Remaining: 1.4 hours
+2025-09-21 21:00:44 - INFO -   Google API Success: 4,559
+2025-09-21 21:00:44 - INFO -   OpenAI API Success: 4,559
+2025-09-21 21:00:44 - INFO - ------------------------------------------------------------
+2025-09-21 21:00:44 - INFO - Batch 98 completed in 100.76s
+2025-09-21 21:00:44 - INFO -   Google success: 49/50
+2025-09-21 21:00:44 - INFO -   OpenAI success: 49/49
+2025-09-21 21:00:44 - INFO - Progress: 4900/7362 (66.6%)
+2025-09-21 21:00:44 - INFO - Processing batch 99/148 (50 posts)
+2025-09-21 21:01:39 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 21:02:26 - INFO - Batch 99 completed in 102.50s
+2025-09-21 21:02:26 - INFO -   Google success: 48/50
+2025-09-21 21:02:26 - INFO -   OpenAI success: 48/48
+2025-09-21 21:02:26 - INFO - Progress: 4950/7362 (67.2%)
+2025-09-21 21:02:26 - INFO - Processing batch 100/148 (50 posts)
+2025-09-21 21:03:19 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 21:04:07 - INFO - PROGRESS UPDATE: 5,000 posts processed (67.9% complete)
+2025-09-21 21:04:07 - INFO -   Success Rate: 93.1% (4,656 successful, 344 failed)
+2025-09-21 21:04:07 - INFO -   Time Elapsed: 2.9 hours
+2025-09-21 21:04:07 - INFO -   Estimated Time Remaining: 1.4 hours
+2025-09-21 21:04:07 - INFO -   Google API Success: 4,656
+2025-09-21 21:04:07 - INFO -   OpenAI API Success: 4,656
+2025-09-21 21:04:07 - INFO - ------------------------------------------------------------
+2025-09-21 21:04:07 - INFO - ================================================================================
+2025-09-21 21:04:07 - INFO - MILESTONE REACHED: 5,000 POSTS PROCESSED
+2025-09-21 21:04:07 - INFO - ================================================================================
+2025-09-21 21:04:07 - INFO - Progress: 67.9% complete (5,000/7,362)
+2025-09-21 21:04:07 - INFO - Success Rate: 93.1%
+2025-09-21 21:04:07 - INFO - Time Elapsed: 2.9 hours
+2025-09-21 21:04:07 - INFO - Google API Success: 4,656
+2025-09-21 21:04:07 - INFO - OpenAI API Success: 4,656
+2025-09-21 21:04:07 - INFO - Processing Rate: 1717.9 posts/hour
+2025-09-21 21:04:07 - INFO - Estimated Time Remaining: 1.4 hours
+2025-09-21 21:04:07 - INFO - ================================================================================
+2025-09-21 21:04:07 - INFO - Batch 100 completed in 100.91s
+2025-09-21 21:04:07 - INFO -   Google success: 49/50
+2025-09-21 21:04:07 - INFO -   OpenAI success: 49/49
+2025-09-21 21:04:08 - INFO - Results saved to src/data/api_results.json (5000 total results)
+2025-09-21 21:04:08 - INFO - Progress: 5000/7362 (67.9%)
+2025-09-21 21:04:08 - INFO - Processing batch 101/148 (50 posts)
+2025-09-21 21:05:16 - INFO - Google API success: 43/50 posts (86.0%)
+2025-09-21 21:05:58 - INFO - Batch 101 completed in 110.28s
+2025-09-21 21:05:58 - INFO -   Google success: 43/50
+2025-09-21 21:05:58 - INFO -   OpenAI success: 43/43
+2025-09-21 21:05:58 - INFO - Progress: 5050/7362 (68.6%)
+2025-09-21 21:05:58 - INFO - Processing batch 102/148 (50 posts)
+2025-09-21 21:07:22 - INFO - Google API success: 37/50 posts (74.0%)
+2025-09-21 21:07:58 - INFO - PROGRESS UPDATE: 5,100 posts processed (69.3% complete)
+2025-09-21 21:07:58 - INFO -   Success Rate: 92.9% (4,736 successful, 364 failed)
+2025-09-21 21:07:58 - INFO -   Time Elapsed: 3.0 hours
+2025-09-21 21:07:58 - INFO -   Estimated Time Remaining: 1.3 hours
+2025-09-21 21:07:58 - INFO -   Google API Success: 4,736
+2025-09-21 21:07:58 - INFO -   OpenAI API Success: 4,736
+2025-09-21 21:07:58 - INFO - ------------------------------------------------------------
+2025-09-21 21:07:58 - INFO - Batch 102 completed in 119.62s
+2025-09-21 21:07:58 - INFO -   Google success: 37/50
+2025-09-21 21:07:58 - INFO -   OpenAI success: 37/37
+2025-09-21 21:07:58 - INFO - Progress: 5100/7362 (69.3%)
+2025-09-21 21:07:58 - INFO - Processing batch 103/148 (50 posts)
+2025-09-21 21:09:05 - INFO - Google API success: 43/50 posts (86.0%)
+2025-09-21 21:09:48 - INFO - Batch 103 completed in 109.98s
+2025-09-21 21:09:48 - INFO -   Google success: 43/50
+2025-09-21 21:09:48 - INFO -   OpenAI success: 43/43
+2025-09-21 21:09:48 - INFO - Progress: 5150/7362 (70.0%)
+2025-09-21 21:09:48 - INFO - Processing batch 104/148 (50 posts)
+2025-09-21 21:10:48 - INFO - Google API success: 46/50 posts (92.0%)
+2025-09-21 21:11:34 - INFO - PROGRESS UPDATE: 5,200 posts processed (70.6% complete)
+2025-09-21 21:11:34 - INFO -   Success Rate: 92.8% (4,825 successful, 375 failed)
+2025-09-21 21:11:34 - INFO -   Time Elapsed: 3.0 hours
+2025-09-21 21:11:34 - INFO -   Estimated Time Remaining: 1.3 hours
+2025-09-21 21:11:34 - INFO -   Google API Success: 4,825
+2025-09-21 21:11:34 - INFO -   OpenAI API Success: 4,825
+2025-09-21 21:11:34 - INFO - ------------------------------------------------------------
+2025-09-21 21:11:34 - INFO - Batch 104 completed in 105.57s
+2025-09-21 21:11:34 - INFO -   Google success: 46/50
+2025-09-21 21:11:34 - INFO -   OpenAI success: 46/46
+2025-09-21 21:11:34 - INFO - Progress: 5200/7362 (70.6%)
+2025-09-21 21:11:34 - INFO - Processing batch 105/148 (50 posts)
+2025-09-21 21:12:28 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 21:13:16 - INFO - Batch 105 completed in 102.46s
+2025-09-21 21:13:16 - INFO -   Google success: 48/50
+2025-09-21 21:13:16 - INFO -   OpenAI success: 48/48
+2025-09-21 21:13:16 - INFO - Progress: 5250/7362 (71.3%)
+2025-09-21 21:13:16 - INFO - Processing batch 106/148 (50 posts)
+2025-09-21 21:14:09 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 21:14:58 - INFO - PROGRESS UPDATE: 5,300 posts processed (72.0% complete)
+2025-09-21 21:14:58 - INFO -   Success Rate: 92.9% (4,922 successful, 378 failed)
+2025-09-21 21:14:58 - INFO -   Time Elapsed: 3.1 hours
+2025-09-21 21:14:58 - INFO -   Estimated Time Remaining: 1.2 hours
+2025-09-21 21:14:58 - INFO -   Google API Success: 4,922
+2025-09-21 21:14:58 - INFO -   OpenAI API Success: 4,922
+2025-09-21 21:14:58 - INFO - ------------------------------------------------------------
+2025-09-21 21:14:58 - INFO - Batch 106 completed in 101.79s
+2025-09-21 21:14:58 - INFO -   Google success: 49/50
+2025-09-21 21:14:58 - INFO -   OpenAI success: 49/49
+2025-09-21 21:14:58 - INFO - Progress: 5300/7362 (72.0%)
+2025-09-21 21:14:58 - INFO - Processing batch 107/148 (50 posts)
+2025-09-21 21:15:55 - INFO - Google API success: 47/50 posts (94.0%)
+2025-09-21 21:16:42 - INFO - Batch 107 completed in 103.92s
+2025-09-21 21:16:42 - INFO -   Google success: 47/50
+2025-09-21 21:16:42 - INFO -   OpenAI success: 47/47
+2025-09-21 21:16:42 - INFO - Progress: 5350/7362 (72.7%)
+2025-09-21 21:16:42 - INFO - Processing batch 108/148 (50 posts)
+2025-09-21 21:17:34 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 21:18:22 - INFO - PROGRESS UPDATE: 5,400 posts processed (73.3% complete)
+2025-09-21 21:18:22 - INFO -   Success Rate: 92.9% (5,018 successful, 382 failed)
+2025-09-21 21:18:22 - INFO -   Time Elapsed: 3.1 hours
+2025-09-21 21:18:22 - INFO -   Estimated Time Remaining: 1.1 hours
+2025-09-21 21:18:22 - INFO -   Google API Success: 5,018
+2025-09-21 21:18:22 - INFO -   OpenAI API Success: 5,018
+2025-09-21 21:18:22 - INFO - ------------------------------------------------------------
+2025-09-21 21:18:22 - INFO - Batch 108 completed in 100.51s
+2025-09-21 21:18:22 - INFO -   Google success: 49/50
+2025-09-21 21:18:22 - INFO -   OpenAI success: 49/49
+2025-09-21 21:18:22 - INFO - Progress: 5400/7362 (73.3%)
+2025-09-21 21:18:22 - INFO - Processing batch 109/148 (50 posts)
+2025-09-21 21:19:27 - INFO - Google API success: 44/50 posts (88.0%)
+2025-09-21 21:20:11 - INFO - Batch 109 completed in 108.57s
+2025-09-21 21:20:11 - INFO -   Google success: 44/50
+2025-09-21 21:20:11 - INFO -   OpenAI success: 44/44
+2025-09-21 21:20:11 - INFO - Progress: 5450/7362 (74.0%)
+2025-09-21 21:20:11 - INFO - Processing batch 110/148 (50 posts)
+2025-09-21 21:21:03 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 21:21:51 - INFO - PROGRESS UPDATE: 5,500 posts processed (74.7% complete)
+2025-09-21 21:21:51 - INFO -   Success Rate: 92.9% (5,111 successful, 389 failed)
+2025-09-21 21:21:51 - INFO -   Time Elapsed: 3.2 hours
+2025-09-21 21:21:51 - INFO -   Estimated Time Remaining: 1.1 hours
+2025-09-21 21:21:51 - INFO -   Google API Success: 5,111
+2025-09-21 21:21:51 - INFO -   OpenAI API Success: 5,111
+2025-09-21 21:21:51 - INFO - ------------------------------------------------------------
+2025-09-21 21:21:51 - INFO - Batch 110 completed in 100.39s
+2025-09-21 21:21:51 - INFO -   Google success: 49/50
+2025-09-21 21:21:51 - INFO -   OpenAI success: 49/49
+2025-09-21 21:21:52 - INFO - Results saved to src/data/api_results.json (5500 total results)
+2025-09-21 21:21:52 - INFO - Progress: 5500/7362 (74.7%)
+2025-09-21 21:21:52 - INFO - Processing batch 111/148 (50 posts)
+2025-09-21 21:22:49 - INFO - Google API success: 47/50 posts (94.0%)
+2025-09-21 21:23:36 - INFO - Batch 111 completed in 104.17s
+2025-09-21 21:23:36 - INFO -   Google success: 47/50
+2025-09-21 21:23:36 - INFO -   OpenAI success: 47/47
+2025-09-21 21:23:36 - INFO - Progress: 5550/7362 (75.4%)
+2025-09-21 21:23:36 - INFO - Processing batch 112/148 (50 posts)
+2025-09-21 21:24:41 - INFO - Google API success: 44/50 posts (88.0%)
+2025-09-21 21:25:24 - INFO - PROGRESS UPDATE: 5,600 posts processed (76.1% complete)
+2025-09-21 21:25:24 - INFO -   Success Rate: 92.9% (5,202 successful, 398 failed)
+2025-09-21 21:25:24 - INFO -   Time Elapsed: 3.3 hours
+2025-09-21 21:25:24 - INFO -   Estimated Time Remaining: 1.0 hours
+2025-09-21 21:25:24 - INFO -   Google API Success: 5,202
+2025-09-21 21:25:24 - INFO -   OpenAI API Success: 5,202
+2025-09-21 21:25:24 - INFO - ------------------------------------------------------------
+2025-09-21 21:25:24 - INFO - Batch 112 completed in 108.59s
+2025-09-21 21:25:24 - INFO -   Google success: 44/50
+2025-09-21 21:25:24 - INFO -   OpenAI success: 44/44
+2025-09-21 21:25:24 - INFO - Progress: 5600/7362 (76.1%)
+2025-09-21 21:25:24 - INFO - Processing batch 113/148 (50 posts)
+2025-09-21 21:26:27 - INFO - Google API success: 45/50 posts (90.0%)
+2025-09-21 21:27:12 - INFO - Batch 113 completed in 107.29s
+2025-09-21 21:27:12 - INFO -   Google success: 45/50
+2025-09-21 21:27:12 - INFO -   OpenAI success: 45/45
+2025-09-21 21:27:12 - INFO - Progress: 5650/7362 (76.7%)
+2025-09-21 21:27:12 - INFO - Processing batch 114/148 (50 posts)
+2025-09-21 21:28:14 - INFO - Google API success: 45/50 posts (90.0%)
+2025-09-21 21:28:59 - INFO - PROGRESS UPDATE: 5,700 posts processed (77.4% complete)
+2025-09-21 21:28:59 - INFO -   Success Rate: 92.8% (5,292 successful, 408 failed)
+2025-09-21 21:28:59 - INFO -   Time Elapsed: 3.3 hours
+2025-09-21 21:28:59 - INFO -   Estimated Time Remaining: 1.0 hours
+2025-09-21 21:28:59 - INFO -   Google API Success: 5,292
+2025-09-21 21:28:59 - INFO -   OpenAI API Success: 5,292
+2025-09-21 21:28:59 - INFO - ------------------------------------------------------------
+2025-09-21 21:28:59 - INFO - Batch 114 completed in 106.95s
+2025-09-21 21:28:59 - INFO -   Google success: 45/50
+2025-09-21 21:28:59 - INFO -   OpenAI success: 45/45
+2025-09-21 21:28:59 - INFO - Progress: 5700/7362 (77.4%)
+2025-09-21 21:28:59 - INFO - Processing batch 115/148 (50 posts)
+2025-09-21 21:30:07 - INFO - Google API success: 43/50 posts (86.0%)
+2025-09-21 21:30:50 - INFO - Batch 115 completed in 110.81s
+2025-09-21 21:30:50 - INFO -   Google success: 43/50
+2025-09-21 21:30:50 - INFO -   OpenAI success: 43/43
+2025-09-21 21:30:50 - INFO - Progress: 5750/7362 (78.1%)
+2025-09-21 21:30:50 - INFO - Processing batch 116/148 (50 posts)
+2025-09-21 21:31:42 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 21:32:31 - INFO - PROGRESS UPDATE: 5,800 posts processed (78.8% complete)
+2025-09-21 21:32:31 - INFO -   Success Rate: 92.8% (5,384 successful, 416 failed)
+2025-09-21 21:32:31 - INFO -   Time Elapsed: 3.4 hours
+2025-09-21 21:32:31 - INFO -   Estimated Time Remaining: 0.9 hours
+2025-09-21 21:32:31 - INFO -   Google API Success: 5,384
+2025-09-21 21:32:31 - INFO -   OpenAI API Success: 5,384
+2025-09-21 21:32:31 - INFO - ------------------------------------------------------------
+2025-09-21 21:32:31 - INFO - Batch 116 completed in 100.98s
+2025-09-21 21:32:31 - INFO -   Google success: 49/50
+2025-09-21 21:32:31 - INFO -   OpenAI success: 49/49
+2025-09-21 21:32:31 - INFO - Progress: 5800/7362 (78.8%)
+2025-09-21 21:32:31 - INFO - Processing batch 117/148 (50 posts)
+2025-09-21 21:33:30 - INFO - Google API success: 46/50 posts (92.0%)
+2025-09-21 21:34:16 - INFO - Batch 117 completed in 105.49s
+2025-09-21 21:34:16 - INFO -   Google success: 46/50
+2025-09-21 21:34:16 - INFO -   OpenAI success: 46/46
+2025-09-21 21:34:16 - INFO - Progress: 5850/7362 (79.5%)
+2025-09-21 21:34:16 - INFO - Processing batch 118/148 (50 posts)
+2025-09-21 21:35:06 - INFO - Google API success: 50/50 posts (100.0%)
+2025-09-21 21:35:56 - INFO - PROGRESS UPDATE: 5,900 posts processed (80.1% complete)
+2025-09-21 21:35:56 - INFO -   Success Rate: 92.9% (5,480 successful, 420 failed)
+2025-09-21 21:35:56 - INFO -   Time Elapsed: 3.4 hours
+2025-09-21 21:35:56 - INFO -   Estimated Time Remaining: 0.9 hours
+2025-09-21 21:35:56 - INFO -   Google API Success: 5,480
+2025-09-21 21:35:56 - INFO -   OpenAI API Success: 5,480
+2025-09-21 21:35:56 - INFO - ------------------------------------------------------------
+2025-09-21 21:35:56 - INFO - Batch 118 completed in 99.54s
+2025-09-21 21:35:56 - INFO -   Google success: 50/50
+2025-09-21 21:35:56 - INFO -   OpenAI success: 50/50
+2025-09-21 21:35:56 - INFO - Progress: 5900/7362 (80.1%)
+2025-09-21 21:35:56 - INFO - Processing batch 119/148 (50 posts)
+2025-09-21 21:36:48 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 21:37:36 - INFO - Batch 119 completed in 100.81s
+2025-09-21 21:37:36 - INFO -   Google success: 49/50
+2025-09-21 21:37:36 - INFO -   OpenAI success: 49/49
+2025-09-21 21:37:36 - INFO - Progress: 5950/7362 (80.8%)
+2025-09-21 21:37:36 - INFO - Processing batch 120/148 (50 posts)
+2025-09-21 21:38:29 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 21:39:17 - INFO - PROGRESS UPDATE: 6,000 posts processed (81.5% complete)
+2025-09-21 21:39:17 - INFO -   Success Rate: 93.0% (5,578 successful, 422 failed)
+2025-09-21 21:39:17 - INFO -   Time Elapsed: 3.5 hours
+2025-09-21 21:39:17 - INFO -   Estimated Time Remaining: 0.8 hours
+2025-09-21 21:39:17 - INFO -   Google API Success: 5,578
+2025-09-21 21:39:17 - INFO -   OpenAI API Success: 5,578
+2025-09-21 21:39:17 - INFO - ------------------------------------------------------------
+2025-09-21 21:39:17 - INFO - ================================================================================
+2025-09-21 21:39:17 - INFO - MILESTONE REACHED: 6,000 POSTS PROCESSED
+2025-09-21 21:39:17 - INFO - ================================================================================
+2025-09-21 21:39:17 - INFO - Progress: 81.5% complete (6,000/7,362)
+2025-09-21 21:39:17 - INFO - Success Rate: 93.0%
+2025-09-21 21:39:17 - INFO - Time Elapsed: 3.5 hours
+2025-09-21 21:39:17 - INFO - Google API Success: 5,578
+2025-09-21 21:39:17 - INFO - OpenAI API Success: 5,578
+2025-09-21 21:39:17 - INFO - Processing Rate: 1715.9 posts/hour
+2025-09-21 21:39:17 - INFO - Estimated Time Remaining: 0.8 hours
+2025-09-21 21:39:17 - INFO - ================================================================================
+2025-09-21 21:39:17 - INFO - Batch 120 completed in 100.89s
+2025-09-21 21:39:17 - INFO -   Google success: 49/50
+2025-09-21 21:39:17 - INFO -   OpenAI success: 49/49
+2025-09-21 21:39:18 - INFO - Results saved to src/data/api_results.json (6000 total results)
+2025-09-21 21:39:18 - INFO - Progress: 6000/7362 (81.5%)
+2025-09-21 21:39:18 - INFO - Processing batch 121/148 (50 posts)
+2025-09-21 21:40:13 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 21:41:00 - INFO - Batch 121 completed in 102.42s
+2025-09-21 21:41:00 - INFO -   Google success: 48/50
+2025-09-21 21:41:00 - INFO -   OpenAI success: 48/48
+2025-09-21 21:41:00 - INFO - Progress: 6050/7362 (82.2%)
+2025-09-21 21:41:00 - INFO - Processing batch 122/148 (50 posts)
+2025-09-21 21:42:00 - INFO - Google API success: 46/50 posts (92.0%)
+2025-09-21 21:42:46 - INFO - PROGRESS UPDATE: 6,100 posts processed (82.9% complete)
+2025-09-21 21:42:46 - INFO -   Success Rate: 93.0% (5,672 successful, 428 failed)
+2025-09-21 21:42:46 - INFO -   Time Elapsed: 3.6 hours
+2025-09-21 21:42:46 - INFO -   Estimated Time Remaining: 0.7 hours
+2025-09-21 21:42:46 - INFO -   Google API Success: 5,672
+2025-09-21 21:42:46 - INFO -   OpenAI API Success: 5,672
+2025-09-21 21:42:46 - INFO - ------------------------------------------------------------
+2025-09-21 21:42:46 - INFO - Batch 122 completed in 105.72s
+2025-09-21 21:42:46 - INFO -   Google success: 46/50
+2025-09-21 21:42:46 - INFO -   OpenAI success: 46/46
+2025-09-21 21:42:46 - INFO - Progress: 6100/7362 (82.9%)
+2025-09-21 21:42:46 - INFO - Processing batch 123/148 (50 posts)
+2025-09-21 21:43:44 - INFO - Google API success: 47/50 posts (94.0%)
+2025-09-21 21:44:30 - INFO - Batch 123 completed in 104.31s
+2025-09-21 21:44:30 - INFO -   Google success: 47/50
+2025-09-21 21:44:30 - INFO -   OpenAI success: 47/47
+2025-09-21 21:44:30 - INFO - Progress: 6150/7362 (83.5%)
+2025-09-21 21:44:30 - INFO - Processing batch 124/148 (50 posts)
+2025-09-21 21:45:25 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 21:46:13 - INFO - PROGRESS UPDATE: 6,200 posts processed (84.2% complete)
+2025-09-21 21:46:13 - INFO -   Success Rate: 93.0% (5,767 successful, 433 failed)
+2025-09-21 21:46:13 - INFO -   Time Elapsed: 3.6 hours
+2025-09-21 21:46:13 - INFO -   Estimated Time Remaining: 0.7 hours
+2025-09-21 21:46:13 - INFO -   Google API Success: 5,767
+2025-09-21 21:46:13 - INFO -   OpenAI API Success: 5,767
+2025-09-21 21:46:13 - INFO - ------------------------------------------------------------
+2025-09-21 21:46:13 - INFO - Batch 124 completed in 102.29s
+2025-09-21 21:46:13 - INFO -   Google success: 48/50
+2025-09-21 21:46:13 - INFO -   OpenAI success: 48/48
+2025-09-21 21:46:13 - INFO - Progress: 6200/7362 (84.2%)
+2025-09-21 21:46:13 - INFO - Processing batch 125/148 (50 posts)
+2025-09-21 21:47:05 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 21:47:53 - INFO - Batch 125 completed in 100.69s
+2025-09-21 21:47:53 - INFO -   Google success: 49/50
+2025-09-21 21:47:53 - INFO -   OpenAI success: 49/49
+2025-09-21 21:47:53 - INFO - Progress: 6250/7362 (84.9%)
+2025-09-21 21:47:53 - INFO - Processing batch 126/148 (50 posts)
+2025-09-21 21:48:48 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 21:49:35 - INFO - PROGRESS UPDATE: 6,300 posts processed (85.6% complete)
+2025-09-21 21:49:35 - INFO -   Success Rate: 93.1% (5,864 successful, 436 failed)
+2025-09-21 21:49:35 - INFO -   Time Elapsed: 3.7 hours
+2025-09-21 21:49:35 - INFO -   Estimated Time Remaining: 0.6 hours
+2025-09-21 21:49:35 - INFO -   Google API Success: 5,864
+2025-09-21 21:49:35 - INFO -   OpenAI API Success: 5,864
+2025-09-21 21:49:35 - INFO - ------------------------------------------------------------
+2025-09-21 21:49:35 - INFO - Batch 126 completed in 102.07s
+2025-09-21 21:49:35 - INFO -   Google success: 48/50
+2025-09-21 21:49:35 - INFO -   OpenAI success: 48/48
+2025-09-21 21:49:35 - INFO - Progress: 6300/7362 (85.6%)
+2025-09-21 21:49:35 - INFO - Processing batch 127/148 (50 posts)
+2025-09-21 21:50:30 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 21:51:18 - INFO - Batch 127 completed in 102.34s
+2025-09-21 21:51:18 - INFO -   Google success: 48/50
+2025-09-21 21:51:18 - INFO -   OpenAI success: 48/48
+2025-09-21 21:51:18 - INFO - Progress: 6350/7362 (86.3%)
+2025-09-21 21:51:18 - INFO - Processing batch 128/148 (50 posts)
+2025-09-21 21:52:15 - INFO - Google API success: 47/50 posts (94.0%)
+2025-09-21 21:53:02 - INFO - PROGRESS UPDATE: 6,400 posts processed (86.9% complete)
+2025-09-21 21:53:02 - INFO -   Success Rate: 93.1% (5,959 successful, 441 failed)
+2025-09-21 21:53:02 - INFO -   Time Elapsed: 3.7 hours
+2025-09-21 21:53:02 - INFO -   Estimated Time Remaining: 0.6 hours
+2025-09-21 21:53:02 - INFO -   Google API Success: 5,959
+2025-09-21 21:53:02 - INFO -   OpenAI API Success: 5,959
+2025-09-21 21:53:02 - INFO - ------------------------------------------------------------
+2025-09-21 21:53:02 - INFO - Batch 128 completed in 104.11s
+2025-09-21 21:53:02 - INFO -   Google success: 47/50
+2025-09-21 21:53:02 - INFO -   OpenAI success: 47/47
+2025-09-21 21:53:02 - INFO - Progress: 6400/7362 (86.9%)
+2025-09-21 21:53:02 - INFO - Processing batch 129/148 (50 posts)
+2025-09-21 21:54:04 - INFO - Google API success: 45/50 posts (90.0%)
+2025-09-21 21:54:49 - INFO - Batch 129 completed in 106.69s
+2025-09-21 21:54:49 - INFO -   Google success: 45/50
+2025-09-21 21:54:49 - INFO -   OpenAI success: 45/45
+2025-09-21 21:54:49 - INFO - Progress: 6450/7362 (87.6%)
+2025-09-21 21:54:49 - INFO - Processing batch 130/148 (50 posts)
+2025-09-21 21:55:48 - INFO - Google API success: 46/50 posts (92.0%)
+2025-09-21 21:56:37 - INFO - PROGRESS UPDATE: 6,500 posts processed (88.3% complete)
+2025-09-21 21:56:37 - INFO -   Success Rate: 93.1% (6,050 successful, 450 failed)
+2025-09-21 21:56:37 - INFO -   Time Elapsed: 3.8 hours
+2025-09-21 21:56:37 - INFO -   Estimated Time Remaining: 0.5 hours
+2025-09-21 21:56:37 - INFO -   Google API Success: 6,050
+2025-09-21 21:56:37 - INFO -   OpenAI API Success: 6,050
+2025-09-21 21:56:37 - INFO - ------------------------------------------------------------
+2025-09-21 21:56:37 - INFO - Batch 130 completed in 108.12s
+2025-09-21 21:56:37 - INFO -   Google success: 46/50
+2025-09-21 21:56:37 - INFO -   OpenAI success: 46/46
+2025-09-21 21:56:37 - INFO - Results saved to src/data/api_results.json (6500 total results)
+2025-09-21 21:56:37 - INFO - Progress: 6500/7362 (88.3%)
+2025-09-21 21:56:37 - INFO - Processing batch 131/148 (50 posts)
+2025-09-21 21:57:37 - INFO - Google API success: 46/50 posts (92.0%)
+2025-09-21 21:58:24 - INFO - Batch 131 completed in 106.82s
+2025-09-21 21:58:24 - INFO -   Google success: 46/50
+2025-09-21 21:58:24 - INFO -   OpenAI success: 46/46
+2025-09-21 21:58:24 - INFO - Progress: 6550/7362 (89.0%)
+2025-09-21 21:58:24 - INFO - Processing batch 132/148 (50 posts)
+2025-09-21 22:00:23 - INFO - Google API success: 24/50 posts (48.0%)
+2025-09-21 22:00:47 - INFO - PROGRESS UPDATE: 6,600 posts processed (89.6% complete)
+2025-09-21 22:00:47 - INFO -   Success Rate: 92.7% (6,120 successful, 480 failed)
+2025-09-21 22:00:47 - INFO -   Time Elapsed: 3.9 hours
+2025-09-21 22:00:47 - INFO -   Estimated Time Remaining: 0.4 hours
+2025-09-21 22:00:47 - INFO -   Google API Success: 6,120
+2025-09-21 22:00:47 - INFO -   OpenAI API Success: 6,120
+2025-09-21 22:00:47 - INFO - ------------------------------------------------------------
+2025-09-21 22:00:47 - INFO - Batch 132 completed in 142.47s
+2025-09-21 22:00:47 - INFO -   Google success: 24/50
+2025-09-21 22:00:47 - INFO -   OpenAI success: 24/24
+2025-09-21 22:00:47 - INFO - Progress: 6600/7362 (89.6%)
+2025-09-21 22:00:47 - INFO - Processing batch 133/148 (50 posts)
+2025-09-21 22:01:47 - INFO - Google API success: 46/50 posts (92.0%)
+2025-09-21 22:02:32 - INFO - Batch 133 completed in 105.77s
+2025-09-21 22:02:32 - INFO -   Google success: 46/50
+2025-09-21 22:02:32 - INFO -   OpenAI success: 46/46
+2025-09-21 22:02:32 - INFO - Progress: 6650/7362 (90.3%)
+2025-09-21 22:02:32 - INFO - Processing batch 134/148 (50 posts)
+2025-09-21 22:03:25 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 22:04:14 - INFO - PROGRESS UPDATE: 6,700 posts processed (91.0% complete)
+2025-09-21 22:04:14 - INFO -   Success Rate: 92.8% (6,215 successful, 485 failed)
+2025-09-21 22:04:14 - INFO -   Time Elapsed: 3.9 hours
+2025-09-21 22:04:14 - INFO -   Estimated Time Remaining: 0.4 hours
+2025-09-21 22:04:14 - INFO -   Google API Success: 6,215
+2025-09-21 22:04:14 - INFO -   OpenAI API Success: 6,215
+2025-09-21 22:04:14 - INFO - ------------------------------------------------------------
+2025-09-21 22:04:14 - INFO - Batch 134 completed in 101.06s
+2025-09-21 22:04:14 - INFO -   Google success: 49/50
+2025-09-21 22:04:14 - INFO -   OpenAI success: 49/49
+2025-09-21 22:04:14 - INFO - Progress: 6700/7362 (91.0%)
+2025-09-21 22:04:14 - INFO - Processing batch 135/148 (50 posts)
+2025-09-21 22:05:08 - INFO - Google API success: 48/50 posts (96.0%)
+2025-09-21 22:05:56 - INFO - Batch 135 completed in 102.37s
+2025-09-21 22:05:56 - INFO -   Google success: 48/50
+2025-09-21 22:05:56 - INFO -   OpenAI success: 48/48
+2025-09-21 22:05:56 - INFO - Progress: 6750/7362 (91.7%)
+2025-09-21 22:05:56 - INFO - Processing batch 136/148 (50 posts)
+2025-09-21 22:07:01 - INFO - Google API success: 44/50 posts (88.0%)
+2025-09-21 22:07:44 - INFO - PROGRESS UPDATE: 6,800 posts processed (92.4% complete)
+2025-09-21 22:07:44 - INFO -   Success Rate: 92.8% (6,307 successful, 493 failed)
+2025-09-21 22:07:44 - INFO -   Time Elapsed: 4.0 hours
+2025-09-21 22:07:44 - INFO -   Estimated Time Remaining: 0.3 hours
+2025-09-21 22:07:44 - INFO -   Google API Success: 6,307
+2025-09-21 22:07:44 - INFO -   OpenAI API Success: 6,307
+2025-09-21 22:07:44 - INFO - ------------------------------------------------------------
+2025-09-21 22:07:44 - INFO - Batch 136 completed in 108.57s
+2025-09-21 22:07:44 - INFO -   Google success: 44/50
+2025-09-21 22:07:44 - INFO -   OpenAI success: 44/44
+2025-09-21 22:07:44 - INFO - Progress: 6800/7362 (92.4%)
+2025-09-21 22:07:44 - INFO - Processing batch 137/148 (50 posts)
+2025-09-21 22:08:34 - INFO - Google API success: 50/50 posts (100.0%)
+2025-09-21 22:09:24 - INFO - Batch 137 completed in 99.25s
+2025-09-21 22:09:24 - INFO -   Google success: 50/50
+2025-09-21 22:09:24 - INFO -   OpenAI success: 50/50
+2025-09-21 22:09:24 - INFO - Progress: 6850/7362 (93.0%)
+2025-09-21 22:09:24 - INFO - Processing batch 138/148 (50 posts)
+2025-09-21 22:10:13 - INFO - Google API success: 50/50 posts (100.0%)
+2025-09-21 22:11:03 - INFO - PROGRESS UPDATE: 6,900 posts processed (93.7% complete)
+2025-09-21 22:11:03 - INFO -   Success Rate: 92.9% (6,407 successful, 493 failed)
+2025-09-21 22:11:03 - INFO -   Time Elapsed: 4.0 hours
+2025-09-21 22:11:03 - INFO -   Estimated Time Remaining: 0.3 hours
+2025-09-21 22:11:03 - INFO -   Google API Success: 6,407
+2025-09-21 22:11:03 - INFO -   OpenAI API Success: 6,407
+2025-09-21 22:11:03 - INFO - ------------------------------------------------------------
+2025-09-21 22:11:03 - INFO - Batch 138 completed in 99.08s
+2025-09-21 22:11:03 - INFO -   Google success: 50/50
+2025-09-21 22:11:03 - INFO -   OpenAI success: 50/50
+2025-09-21 22:11:03 - INFO - Progress: 6900/7362 (93.7%)
+2025-09-21 22:11:03 - INFO - Processing batch 139/148 (50 posts)
+2025-09-21 22:12:03 - INFO - Google API success: 46/50 posts (92.0%)
+2025-09-21 22:12:50 - INFO - Batch 139 completed in 107.51s
+2025-09-21 22:12:50 - INFO -   Google success: 46/50
+2025-09-21 22:12:50 - INFO -   OpenAI success: 46/46
+2025-09-21 22:12:50 - INFO - Progress: 6950/7362 (94.4%)
+2025-09-21 22:12:50 - INFO - Processing batch 140/148 (50 posts)
+2025-09-21 22:13:48 - INFO - Google API success: 47/50 posts (94.0%)
+2025-09-21 22:14:34 - INFO - PROGRESS UPDATE: 7,000 posts processed (95.1% complete)
+2025-09-21 22:14:34 - INFO -   Success Rate: 92.9% (6,500 successful, 500 failed)
+2025-09-21 22:14:34 - INFO -   Time Elapsed: 4.1 hours
+2025-09-21 22:14:34 - INFO -   Estimated Time Remaining: 0.2 hours
+2025-09-21 22:14:34 - INFO -   Google API Success: 6,500
+2025-09-21 22:14:34 - INFO -   OpenAI API Success: 6,500
+2025-09-21 22:14:34 - INFO - ------------------------------------------------------------
+2025-09-21 22:14:34 - INFO - ================================================================================
+2025-09-21 22:14:34 - INFO - MILESTONE REACHED: 7,000 POSTS PROCESSED
+2025-09-21 22:14:34 - INFO - ================================================================================
+2025-09-21 22:14:34 - INFO - Progress: 95.1% complete (7,000/7,362)
+2025-09-21 22:14:34 - INFO - Success Rate: 92.9%
+2025-09-21 22:14:34 - INFO - Time Elapsed: 4.1 hours
+2025-09-21 22:14:34 - INFO - Google API Success: 6,500
+2025-09-21 22:14:34 - INFO - OpenAI API Success: 6,500
+2025-09-21 22:14:34 - INFO - Processing Rate: 1713.7 posts/hour
+2025-09-21 22:14:34 - INFO - Estimated Time Remaining: 0.2 hours
+2025-09-21 22:14:34 - INFO - ================================================================================
+2025-09-21 22:14:34 - INFO - Batch 140 completed in 103.91s
+2025-09-21 22:14:34 - INFO -   Google success: 47/50
+2025-09-21 22:14:34 - INFO -   OpenAI success: 47/47
+2025-09-21 22:14:35 - INFO - Results saved to src/data/api_results.json (7000 total results)
+2025-09-21 22:14:35 - INFO - Progress: 7000/7362 (95.1%)
+2025-09-21 22:14:35 - INFO - Processing batch 141/148 (50 posts)
+2025-09-21 22:15:35 - INFO - Google API success: 46/50 posts (92.0%)
+2025-09-21 22:16:20 - INFO - Batch 141 completed in 105.12s
+2025-09-21 22:16:20 - INFO -   Google success: 46/50
+2025-09-21 22:16:20 - INFO -   OpenAI success: 46/46
+2025-09-21 22:16:20 - INFO - Progress: 7050/7362 (95.8%)
+2025-09-21 22:16:20 - INFO - Processing batch 142/148 (50 posts)
+2025-09-21 22:17:12 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 22:18:01 - INFO - PROGRESS UPDATE: 7,100 posts processed (96.4% complete)
+2025-09-21 22:18:01 - INFO -   Success Rate: 92.9% (6,595 successful, 505 failed)
+2025-09-21 22:18:01 - INFO -   Time Elapsed: 4.1 hours
+2025-09-21 22:18:01 - INFO -   Estimated Time Remaining: 0.2 hours
+2025-09-21 22:18:01 - INFO -   Google API Success: 6,595
+2025-09-21 22:18:01 - INFO -   OpenAI API Success: 6,595
+2025-09-21 22:18:01 - INFO - ------------------------------------------------------------
+2025-09-21 22:18:01 - INFO - Batch 142 completed in 100.61s
+2025-09-21 22:18:01 - INFO -   Google success: 49/50
+2025-09-21 22:18:01 - INFO -   OpenAI success: 49/49
+2025-09-21 22:18:01 - INFO - Progress: 7100/7362 (96.4%)
+2025-09-21 22:18:01 - INFO - Processing batch 143/148 (50 posts)
+2025-09-21 22:19:01 - INFO - Google API success: 46/50 posts (92.0%)
+2025-09-21 22:19:46 - INFO - Batch 143 completed in 105.28s
+2025-09-21 22:19:46 - INFO -   Google success: 46/50
+2025-09-21 22:19:46 - INFO -   OpenAI success: 46/46
+2025-09-21 22:19:46 - INFO - Progress: 7150/7362 (97.1%)
+2025-09-21 22:19:46 - INFO - Processing batch 144/148 (50 posts)
+2025-09-21 22:20:46 - INFO - Google API success: 46/50 posts (92.0%)
+2025-09-21 22:21:32 - INFO - PROGRESS UPDATE: 7,200 posts processed (97.8% complete)
+2025-09-21 22:21:32 - INFO -   Success Rate: 92.9% (6,687 successful, 513 failed)
+2025-09-21 22:21:32 - INFO -   Time Elapsed: 4.2 hours
+2025-09-21 22:21:32 - INFO -   Estimated Time Remaining: 0.1 hours
+2025-09-21 22:21:32 - INFO -   Google API Success: 6,687
+2025-09-21 22:21:32 - INFO -   OpenAI API Success: 6,687
+2025-09-21 22:21:32 - INFO - ------------------------------------------------------------
+2025-09-21 22:21:32 - INFO - Batch 144 completed in 105.95s
+2025-09-21 22:21:32 - INFO -   Google success: 46/50
+2025-09-21 22:21:32 - INFO -   OpenAI success: 46/46
+2025-09-21 22:21:32 - INFO - Progress: 7200/7362 (97.8%)
+2025-09-21 22:21:32 - INFO - Processing batch 145/148 (50 posts)
+2025-09-21 22:22:24 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 22:23:12 - INFO - Batch 145 completed in 100.50s
+2025-09-21 22:23:12 - INFO -   Google success: 49/50
+2025-09-21 22:23:12 - INFO -   OpenAI success: 49/49
+2025-09-21 22:23:12 - INFO - Progress: 7250/7362 (98.5%)
+2025-09-21 22:23:12 - INFO - Processing batch 146/148 (50 posts)
+2025-09-21 22:24:10 - INFO - Google API success: 47/50 posts (94.0%)
+2025-09-21 22:24:57 - INFO - PROGRESS UPDATE: 7,300 posts processed (99.2% complete)
+2025-09-21 22:24:57 - INFO -   Success Rate: 92.9% (6,783 successful, 517 failed)
+2025-09-21 22:24:57 - INFO -   Time Elapsed: 4.3 hours
+2025-09-21 22:24:57 - INFO -   Estimated Time Remaining: 0.0 hours
+2025-09-21 22:24:57 - INFO -   Google API Success: 6,783
+2025-09-21 22:24:57 - INFO -   OpenAI API Success: 6,783
+2025-09-21 22:24:57 - INFO - ------------------------------------------------------------
+2025-09-21 22:24:57 - INFO - Batch 146 completed in 104.50s
+2025-09-21 22:24:57 - INFO -   Google success: 47/50
+2025-09-21 22:24:57 - INFO -   OpenAI success: 47/47
+2025-09-21 22:24:57 - INFO - Progress: 7300/7362 (99.2%)
+2025-09-21 22:24:57 - INFO - Processing batch 147/148 (50 posts)
+2025-09-21 22:25:49 - INFO - Google API success: 49/50 posts (98.0%)
+2025-09-21 22:26:38 - INFO - Batch 147 completed in 100.64s
+2025-09-21 22:26:38 - INFO -   Google success: 49/50
+2025-09-21 22:26:38 - INFO -   OpenAI success: 49/49
+2025-09-21 22:26:38 - INFO - Progress: 7350/7362 (99.8%)
+2025-09-21 22:26:38 - INFO - Processing batch 148/148 (12 posts)
+2025-09-21 22:26:51 - INFO - Google API success: 11/12 posts (91.7%)
+2025-09-21 22:27:02 - INFO - Batch 148 completed in 24.20s
+2025-09-21 22:27:02 - INFO -   Google success: 11/12
+2025-09-21 22:27:02 - INFO -   OpenAI success: 11/11
+2025-09-21 22:27:02 - INFO - Progress: 7362/7362 (100.0%)
+2025-09-21 22:27:03 - INFO - Results saved to src/data/api_results.json (7362 total results)
+2025-09-21 22:27:03 - INFO - ================================================================================
+2025-09-21 22:27:03 - INFO - API PROCESSING COMPLETED SUCCESSFULLY
+2025-09-21 22:27:03 - INFO - ================================================================================
+2025-09-21 22:27:03 - INFO - Total posts processed: 7,362
+2025-09-21 22:27:03 - INFO - Successful posts: 6,843
+2025-09-21 22:27:03 - INFO - Failed posts: 519
+2025-09-21 22:27:03 - INFO - Success rate: 93.0%
+2025-09-21 22:27:03 - INFO - Google API success: 6,843
+2025-09-21 22:27:03 - INFO - OpenAI API success: 6,843
+2025-09-21 22:27:03 - INFO - Total processing time: 4.3 hours
+2025-09-21 22:27:03 - INFO - Average processing rate: 1715.0 posts/hour
+2025-09-21 22:27:03 - INFO - Data saved to: src/data/api_results.json
+2025-09-21 22:27:03 - INFO - ================================================================================
+2025-09-21 22:27:03 - INFO - API PROCESSING PHASE COMPLETED
+2025-09-21 22:27:03 - INFO - ================================================================================

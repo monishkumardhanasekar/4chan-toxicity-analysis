@@ -11,16 +11,11 @@ __pycache__/
 *.pywz
 *.pyzw
 
-# Logs
-*.log
-
 # Database
 *.sqlite
 
 # Virtual Environment
 venv/
-env/
-ENV/
 
 # IDE
 .vscode/
@@ -31,13 +26,3 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
-
-# Project specific
-data/raw/
-processed_data/
-results/
-reports/
-
-# Temporary files
-*.tmp
-*.temp

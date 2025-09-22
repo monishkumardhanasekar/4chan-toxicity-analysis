@@ -88,7 +88,7 @@ def main():
     
     print("=" * 50)
     if openai_success and google_success:
-        print("🎉 All API tests passed! Ready to proceed.")
+        print("✅ All API tests passed! Ready to proceed.")
     else:
         print("⚠️  Some API tests failed. Please check your configuration.")
 

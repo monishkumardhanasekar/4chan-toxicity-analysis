@@ -23,10 +23,9 @@ This project analyzes toxicity patterns on 4chan's `/pol/` board by comparing tw
 │   │   ├── core/           # Batch processing logic
 │   │   └── config.py       # API configuration
 │   ├── analysis/           # Analysis and visualization scripts (Phase 4-5)
-│   └── api_test.py         # API connectivity test
+│   └──                     
 ├── collect_data.py         # Main data collection script
 ├── process_apis.py         # Main API processing script
-├── setup.py               # Project setup script
 ├── .env                   # API keys (not in repository)
 ├── requirements.txt       # Python dependencies
 ├── env_template.txt      # Environment variables template
@@ -64,9 +63,6 @@ GOOGLE_PERSPECTIVE_API_KEY=your_google_perspective_api_key_here
 ```
 3. Copy from template: `cp env_template.txt .env`
 
-### 4. Test API Connectivity
-```bash
-python src/api_test.py
 ```
 
 ## Project Phases
@@ -92,7 +88,7 @@ python src/api_test.py
 - **Content Quality**: 153 image-only posts filtered out
 - **Data Structure**: Hierarchical JSON with OP posts and replies separated
 
-### Phase 3: API Integration ✅ COMPLETED
+### Phase 3: API Integration
 - [x] OpenAI Moderation API integration
 - [x] Google Perspective API integration
 - [x] Batch processing system
@@ -112,16 +108,16 @@ python src/api_test.py
 - **Data Structure**: Complete API results with all categories and scores
 
 ### Phase 4: Data Analysis
-- [ ] Statistical analysis
-- [ ] Comparative study
-- [ ] Research questions analysis
-- [ ] Performance metrics
+- [x] Statistical analysis
+- [x] Comparative study
+- [x] Research questions analysis
+- [x] Performance metrics
 
 ### Phase 5: Visualization
-- [ ] Correlation plots
-- [ ] Agreement/disagreement charts
-- [ ] Category-wise distributions
-- [ ] Performance comparisons
+- [x] Correlation plots
+- [x] Agreement/disagreement charts
+- [x] Category-wise distributions
+- [x] Performance comparisons
 
 ### Phase 6: Research Report
 - [ ] LaTeX report setup
@@ -141,10 +137,10 @@ python src/api_test.py
 4. What patterns emerge in false positive/negative classifications?
 
 ## Technical Requirements
-- **Data Volume**: 7,362 posts from 4chan `/pol/` board ✅
-- **Rate Limiting**: 1 request per second (Google API compliance) ✅
-- **APIs**: OpenAI Moderation API, Google Perspective API ✅
-- **Processing**: 6,843 posts successfully processed (93.0% success rate) ✅
+- **Data Volume**: 7,362 posts from 4chan `/pol/` board 
+- **Rate Limiting**: 1 request per second (Google API compliance) 
+- **APIs**: OpenAI Moderation API, Google Perspective API 
+- **Processing**: 6,843 posts successfully processed (93.0% success rate) 
 - **Analysis**: Statistical comparison, correlation analysis, visualization
 - **Documentation**: Comprehensive research report in PDF format
 
@@ -156,7 +152,7 @@ python src/api_test.py
 
 ## Usage
 
-### Data Collection (Phase 2)
+  ### Data Collection (Phase 2)
 ```bash
 # Run full data collection (7,362 posts)
 python collect_data.py
@@ -168,11 +164,8 @@ python collect_data.py --target-posts 5000 --rate-limit 1.5
 python collect_data.py --validate-only
 ```
 
-### API Integration (Phase 3) ✅ COMPLETED
+### API Integration (Phase 3) 
 ```bash
-# Test API connectivity
-python src/api_test.py
-
 # Run full API processing (6,843 successful posts)
 python process_apis.py
 
@@ -185,11 +178,16 @@ python process_apis.py --batch-size 100 --google-rate-limit 1.0
 
 ### Analysis (Phase 4)
 ```bash
-# Run analysis
-python src/analysis/analyze_data.py
+# Open the statistical analysis notebook
+jupyter notebook notebooks/phase4_statistical_analysis.ipynb
 
-# Generate visualizations (Phase 5)
-python src/analysis/create_visualizations.py
+# Or generate metrics via scripts (optional, if you prefer CLI)
+python src/analysis/compute_distributions.py
+python src/analysis/compute_agreement.py
+python src/analysis/compute_sensitivity.py
+python src/analysis/compute_disagreements.py
+python src/analysis/compute_fp_fn.py
+python src/analysis/compute_temporal_length.py
 ```
 
 ## Contributing

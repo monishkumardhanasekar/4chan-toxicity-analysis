@@ -1,0 +1,614 @@
+[2025-09-21 11:52:05] [INFO] Initialized collector with target: 7500 posts
+[2025-09-21 11:52:05] [INFO] Starting full collection - Target: 7500 posts
+[2025-09-21 11:52:05] [INFO] ============================================================
+[2025-09-21 11:52:06] [INFO] Found 100 active threads
+[2025-09-21 11:52:06] [INFO] Collecting thread 516763051 (279 replies)
+[2025-09-21 11:52:06] [INFO] Collected 279 posts from thread 516763051
+[2025-09-21 11:52:06] [INFO] Progress: 279/7500 posts
+[2025-09-21 11:52:06] [INFO] Collecting thread 516774617 (278 replies)
+[2025-09-21 11:52:06] [INFO] Collected 276 posts from thread 516774617
+[2025-09-21 11:52:06] [INFO] Progress: 555/7500 posts
+[2025-09-21 11:52:06] [INFO] Collecting thread 516768622 (273 replies)
+[2025-09-21 11:52:06] [INFO] Collected 274 posts from thread 516768622
+[2025-09-21 11:52:06] [INFO] Progress: 829/7500 posts
+[2025-09-21 11:52:06] [INFO] Collecting thread 516751678 (269 replies)
+[2025-09-21 11:52:06] [INFO] Collected 268 posts from thread 516751678
+[2025-09-21 11:52:06] [INFO] Progress: 1097/7500 posts
+[2025-09-21 11:52:06] [INFO] Collecting thread 516746935 (268 replies)
+[2025-09-21 11:52:06] [INFO] Collected 270 posts from thread 516746935
+[2025-09-21 11:52:06] [INFO] Progress: 1367/7500 posts
+[2025-09-21 11:52:06] [INFO] Collecting thread 516754370 (253 replies)
+[2025-09-21 11:52:07] [INFO] Collected 247 posts from thread 516754370
+[2025-09-21 11:52:07] [INFO] Progress: 1614/7500 posts
+[2025-09-21 11:52:07] [INFO] Collecting thread 516768412 (248 replies)
+[2025-09-21 11:52:07] [INFO] Collected 245 posts from thread 516768412
+[2025-09-21 11:52:07] [INFO] Progress: 1859/7500 posts
+[2025-09-21 11:52:07] [INFO] Collecting thread 516759944 (234 replies)
+[2025-09-21 11:52:07] [INFO] Collected 235 posts from thread 516759944
+[2025-09-21 11:52:07] [INFO] Progress: 2094/7500 posts
+[2025-09-21 11:52:07] [INFO] Collecting thread 516750659 (230 replies)
+[2025-09-21 11:52:07] [INFO] Collected 231 posts from thread 516750659
+[2025-09-21 11:52:07] [INFO] Progress: 2325/7500 posts
+[2025-09-21 11:52:07] [INFO] Collecting thread 516747134 (226 replies)
+[2025-09-21 11:52:08] [INFO] Collected 223 posts from thread 516747134
+[2025-09-21 11:52:08] [INFO] Progress: 2548/7500 posts
+[2025-09-21 11:52:08] [INFO] Collecting thread 516749851 (220 replies)
+[2025-09-21 11:52:08] [INFO] Collected 218 posts from thread 516749851
+[2025-09-21 11:52:08] [INFO] Progress: 2766/7500 posts
+[2025-09-21 11:52:08] [INFO] Collecting thread 516768155 (211 replies)
+[2025-09-21 11:52:08] [INFO] Collected 207 posts from thread 516768155
+[2025-09-21 11:52:08] [INFO] Progress: 2973/7500 posts
+[2025-09-21 11:52:08] [INFO] Collecting thread 516759749 (209 replies)
+[2025-09-21 11:52:08] [INFO] Collected 210 posts from thread 516759749
+[2025-09-21 11:52:08] [INFO] Progress: 3183/7500 posts
+[2025-09-21 11:52:08] [INFO] Collecting thread 516753844 (190 replies)
+[2025-09-21 11:52:08] [INFO] Collected 190 posts from thread 516753844
+[2025-09-21 11:52:08] [INFO] Progress: 3373/7500 posts
+[2025-09-21 11:52:08] [INFO] Collecting thread 516761688 (180 replies)
+[2025-09-21 11:52:09] [INFO] Collected 181 posts from thread 516761688
+[2025-09-21 11:52:09] [INFO] Progress: 3554/7500 posts
+[2025-09-21 11:52:09] [INFO] Collecting thread 516760878 (174 replies)
+[2025-09-21 11:52:09] [INFO] Collected 175 posts from thread 516760878
+[2025-09-21 11:52:09] [INFO] Progress: 3729/7500 posts
+[2025-09-21 11:52:09] [INFO] Collecting thread 516772751 (170 replies)
+[2025-09-21 11:52:09] [INFO] Collected 171 posts from thread 516772751
+[2025-09-21 11:52:09] [INFO] Progress: 3900/7500 posts
+[2025-09-21 11:52:09] [INFO] Collecting thread 516751392 (167 replies)
+[2025-09-21 11:52:09] [INFO] Collected 168 posts from thread 516751392
+[2025-09-21 11:52:09] [INFO] Progress: 4068/7500 posts
+[2025-09-21 11:52:09] [INFO] Collecting thread 516773957 (157 replies)
+[2025-09-21 11:52:09] [INFO] Collected 153 posts from thread 516773957
+[2025-09-21 11:52:09] [INFO] Progress: 4221/7500 posts
+[2025-09-21 11:52:09] [INFO] Collecting thread 516759799 (151 replies)
+[2025-09-21 11:52:10] [INFO] Collected 152 posts from thread 516759799
+[2025-09-21 11:52:10] [INFO] Progress: 4373/7500 posts
+[2025-09-21 11:52:10] [INFO] Collecting thread 516764641 (142 replies)
+[2025-09-21 11:52:10] [INFO] Collected 142 posts from thread 516764641
+[2025-09-21 11:52:10] [INFO] Progress: 4515/7500 posts
+[2025-09-21 11:52:10] [INFO] Collecting thread 516747967 (135 replies)
+[2025-09-21 11:52:10] [INFO] Collected 129 posts from thread 516747967
+[2025-09-21 11:52:10] [INFO] Progress: 4644/7500 posts
+[2025-09-21 11:52:10] [INFO] Collecting thread 516756494 (126 replies)
+[2025-09-21 11:52:10] [INFO] Collected 127 posts from thread 516756494
+[2025-09-21 11:52:10] [INFO] Progress: 4771/7500 posts
+[2025-09-21 11:52:10] [INFO] Collecting thread 516762002 (125 replies)
+[2025-09-21 11:52:10] [INFO] Collected 116 posts from thread 516762002
+[2025-09-21 11:52:10] [INFO] Progress: 4887/7500 posts
+[2025-09-21 11:52:10] [INFO] Collecting thread 516750666 (120 replies)
+[2025-09-21 11:52:11] [INFO] Collected 85 posts from thread 516750666
+[2025-09-21 11:52:11] [INFO] Progress: 4972/7500 posts
+[2025-09-21 11:52:11] [INFO] Collecting thread 516763777 (118 replies)
+[2025-09-21 11:52:11] [INFO] Collected 118 posts from thread 516763777
+[2025-09-21 11:52:11] [INFO] Progress: 5090/7500 posts
+[2025-09-21 11:52:11] [INFO] Collecting thread 516749203 (115 replies)
+[2025-09-21 11:52:11] [INFO] Collected 116 posts from thread 516749203
+[2025-09-21 11:52:11] [INFO] Progress: 5206/7500 posts
+[2025-09-21 11:52:11] [INFO] Collecting thread 516762085 (108 replies)
+[2025-09-21 11:52:11] [INFO] Collected 109 posts from thread 516762085
+[2025-09-21 11:52:11] [INFO] Progress: 5315/7500 posts
+[2025-09-21 11:52:11] [INFO] Collecting thread 516765272 (106 replies)
+[2025-09-21 11:52:11] [INFO] Collected 106 posts from thread 516765272
+[2025-09-21 11:52:11] [INFO] Progress: 5421/7500 posts
+[2025-09-21 11:52:11] [INFO] Collecting thread 516771690 (104 replies)
+[2025-09-21 11:52:12] [INFO] Collected 105 posts from thread 516771690
+[2025-09-21 11:52:12] [INFO] Progress: 5526/7500 posts
+[2025-09-21 11:52:12] [INFO] Collecting thread 516775797 (86 replies)
+[2025-09-21 11:52:12] [INFO] Collected 87 posts from thread 516775797
+[2025-09-21 11:52:12] [INFO] Progress: 5613/7500 posts
+[2025-09-21 11:52:12] [INFO] Collecting thread 516768751 (81 replies)
+[2025-09-21 11:52:13] [INFO] Collected 75 posts from thread 516768751
+[2025-09-21 11:52:13] [INFO] Progress: 5688/7500 posts
+[2025-09-21 11:52:13] [INFO] Collecting thread 516758333 (72 replies)
+[2025-09-21 11:52:13] [INFO] Collected 74 posts from thread 516758333
+[2025-09-21 11:52:13] [INFO] Progress: 5762/7500 posts
+[2025-09-21 11:52:13] [INFO] Collecting thread 516772715 (68 replies)
+[2025-09-21 11:52:13] [INFO] Collected 69 posts from thread 516772715
+[2025-09-21 11:52:13] [INFO] Progress: 5831/7500 posts
+[2025-09-21 11:52:13] [INFO] Collecting thread 516771414 (67 replies)
+[2025-09-21 11:52:13] [INFO] Collected 68 posts from thread 516771414
+[2025-09-21 11:52:13] [INFO] Progress: 5899/7500 posts
+[2025-09-21 11:52:13] [INFO] Collecting thread 516761224 (65 replies)
+[2025-09-21 11:52:14] [INFO] Collected 66 posts from thread 516761224
+[2025-09-21 11:52:14] [INFO] Progress: 5965/7500 posts
+[2025-09-21 11:52:14] [INFO] Collecting thread 516771498 (64 replies)
+[2025-09-21 11:52:14] [INFO] Collected 65 posts from thread 516771498
+[2025-09-21 11:52:14] [INFO] Progress: 6030/7500 posts
+[2025-09-21 11:52:14] [INFO] Collecting thread 516771389 (64 replies)
+[2025-09-21 11:52:14] [INFO] Collected 60 posts from thread 516771389
+[2025-09-21 11:52:14] [INFO] Progress: 6090/7500 posts
+[2025-09-21 11:52:14] [INFO] Collecting thread 516774093 (64 replies)
+[2025-09-21 11:52:14] [INFO] Collected 64 posts from thread 516774093
+[2025-09-21 11:52:14] [INFO] Progress: 6154/7500 posts
+[2025-09-21 11:52:14] [INFO] Collecting thread 516772552 (62 replies)
+[2025-09-21 11:52:14] [INFO] Collected 63 posts from thread 516772552
+[2025-09-21 11:52:14] [INFO] Progress: 6217/7500 posts
+[2025-09-21 11:52:14] [INFO] Collecting thread 516762050 (62 replies)
+[2025-09-21 11:52:14] [INFO] Collected 62 posts from thread 516762050
+[2025-09-21 11:52:14] [INFO] Progress: 6279/7500 posts
+[2025-09-21 11:52:14] [INFO] Collecting thread 516767304 (56 replies)
+[2025-09-21 11:52:15] [INFO] Collected 57 posts from thread 516767304
+[2025-09-21 11:52:15] [INFO] Progress: 6336/7500 posts
+[2025-09-21 11:52:15] [INFO] Collecting thread 516768979 (55 replies)
+[2025-09-21 11:52:15] [INFO] Collected 55 posts from thread 516768979
+[2025-09-21 11:52:15] [INFO] Progress: 6391/7500 posts
+[2025-09-21 11:52:15] [INFO] Collecting thread 516764077 (53 replies)
+[2025-09-21 11:52:15] [INFO] Collected 55 posts from thread 516764077
+[2025-09-21 11:52:15] [INFO] Progress: 6446/7500 posts
+[2025-09-21 11:52:15] [INFO] Collecting thread 516773100 (52 replies)
+[2025-09-21 11:52:16] [INFO] Collected 48 posts from thread 516773100
+[2025-09-21 11:52:16] [INFO] Progress: 6494/7500 posts
+[2025-09-21 11:52:16] [INFO] Collecting thread 516768819 (52 replies)
+[2025-09-21 11:52:16] [INFO] Collected 53 posts from thread 516768819
+[2025-09-21 11:52:16] [INFO] Progress: 6547/7500 posts
+[2025-09-21 11:52:16] [INFO] Collecting thread 516775926 (44 replies)
+[2025-09-21 11:52:16] [INFO] Collected 18 posts from thread 516775926
+[2025-09-21 11:52:16] [INFO] Progress: 6565/7500 posts
+[2025-09-21 11:52:16] [INFO] Collecting thread 516767744 (42 replies)
+[2025-09-21 11:52:16] [INFO] Collected 42 posts from thread 516767744
+[2025-09-21 11:52:16] [INFO] Progress: 6607/7500 posts
+[2025-09-21 11:52:16] [INFO] Collecting thread 516772233 (39 replies)
+[2025-09-21 11:52:16] [INFO] Collected 40 posts from thread 516772233
+[2025-09-21 11:52:16] [INFO] Progress: 6647/7500 posts
+[2025-09-21 11:52:16] [INFO] Collecting thread 516771266 (39 replies)
+[2025-09-21 11:52:16] [INFO] Collected 40 posts from thread 516771266
+[2025-09-21 11:52:16] [INFO] Progress: 6687/7500 posts
+[2025-09-21 11:52:16] [INFO] Collecting thread 516773545 (38 replies)
+[2025-09-21 11:52:17] [INFO] Collected 40 posts from thread 516773545
+[2025-09-21 11:52:17] [INFO] Progress: 6727/7500 posts
+[2025-09-21 11:52:17] [INFO] Collecting thread 516775813 (37 replies)
+[2025-09-21 11:52:17] [INFO] Collected 38 posts from thread 516775813
+[2025-09-21 11:52:17] [INFO] Progress: 6765/7500 posts
+[2025-09-21 11:52:17] [INFO] Collecting thread 516774654 (34 replies)
+[2025-09-21 11:52:17] [INFO] Collected 35 posts from thread 516774654
+[2025-09-21 11:52:17] [INFO] Progress: 6800/7500 posts
+[2025-09-21 11:52:17] [INFO] Collecting thread 516771607 (34 replies)
+[2025-09-21 11:52:17] [INFO] Collected 35 posts from thread 516771607
+[2025-09-21 11:52:17] [INFO] Progress: 6835/7500 posts
+[2025-09-21 11:52:17] [INFO] Collecting thread 516776053 (32 replies)
+[2025-09-21 11:52:18] [INFO] Collected 34 posts from thread 516776053
+[2025-09-21 11:52:18] [INFO] Progress: 6869/7500 posts
+[2025-09-21 11:52:18] [INFO] Collecting thread 516774029 (31 replies)
+[2025-09-21 11:52:18] [INFO] Collected 32 posts from thread 516774029
+[2025-09-21 11:52:18] [INFO] Progress: 6901/7500 posts
+[2025-09-21 11:52:18] [INFO] Collecting thread 516776640 (28 replies)
+[2025-09-21 11:52:18] [INFO] Collected 29 posts from thread 516776640
+[2025-09-21 11:52:18] [INFO] Progress: 6930/7500 posts
+[2025-09-21 11:52:18] [INFO] Collecting thread 516772405 (28 replies)
+[2025-09-21 11:52:18] [INFO] Collected 29 posts from thread 516772405
+[2025-09-21 11:52:18] [INFO] Progress: 6959/7500 posts
+[2025-09-21 11:52:18] [INFO] Collecting thread 516775874 (27 replies)
+[2025-09-21 11:52:18] [INFO] Collected 28 posts from thread 516775874
+[2025-09-21 11:52:18] [INFO] Progress: 6987/7500 posts
+[2025-09-21 11:52:18] [INFO] Collecting thread 516777046 (27 replies)
+[2025-09-21 11:52:19] [INFO] Collected 29 posts from thread 516777046
+[2025-09-21 11:52:19] [INFO] Progress: 7016/7500 posts
+[2025-09-21 11:52:19] [INFO] Collecting thread 516772788 (26 replies)
+[2025-09-21 11:52:19] [INFO] Collected 27 posts from thread 516772788
+[2025-09-21 11:52:19] [INFO] Progress: 7043/7500 posts
+[2025-09-21 11:52:19] [INFO] Collecting thread 516778122 (22 replies)
+[2025-09-21 11:52:19] [INFO] Collected 23 posts from thread 516778122
+[2025-09-21 11:52:19] [INFO] Progress: 7066/7500 posts
+[2025-09-21 11:52:19] [INFO] Collecting thread 516770001 (20 replies)
+[2025-09-21 11:52:19] [INFO] Collected 21 posts from thread 516770001
+[2025-09-21 11:52:19] [INFO] Progress: 7087/7500 posts
+[2025-09-21 11:52:19] [INFO] Collecting thread 516777282 (20 replies)
+[2025-09-21 11:52:20] [INFO] Collected 22 posts from thread 516777282
+[2025-09-21 11:52:20] [INFO] Progress: 7109/7500 posts
+[2025-09-21 11:52:20] [INFO] Collecting thread 516774744 (17 replies)
+[2025-09-21 11:52:20] [INFO] Collected 18 posts from thread 516774744
+[2025-09-21 11:52:20] [INFO] Progress: 7127/7500 posts
+[2025-09-21 11:52:20] [INFO] Collecting thread 516775892 (16 replies)
+[2025-09-21 11:52:20] [INFO] Collected 16 posts from thread 516775892
+[2025-09-21 11:52:20] [INFO] Progress: 7143/7500 posts
+[2025-09-21 11:52:20] [INFO] Collecting thread 516776910 (16 replies)
+[2025-09-21 11:52:20] [INFO] Collected 17 posts from thread 516776910
+[2025-09-21 11:52:20] [INFO] Progress: 7160/7500 posts
+[2025-09-21 11:52:20] [INFO] Collecting thread 516777481 (15 replies)
+[2025-09-21 11:52:20] [INFO] Collected 16 posts from thread 516777481
+[2025-09-21 11:52:20] [INFO] Progress: 7176/7500 posts
+[2025-09-21 11:52:20] [INFO] Collecting thread 516776673 (14 replies)
+[2025-09-21 11:52:20] [INFO] Collected 15 posts from thread 516776673
+[2025-09-21 11:52:20] [INFO] Progress: 7191/7500 posts
+[2025-09-21 11:52:20] [INFO] Collecting thread 516775490 (14 replies)
+[2025-09-21 11:52:21] [INFO] Collected 15 posts from thread 516775490
+[2025-09-21 11:52:21] [INFO] Progress: 7206/7500 posts
+[2025-09-21 11:52:21] [INFO] Collecting thread 516775830 (13 replies)
+[2025-09-21 11:52:21] [INFO] Collected 14 posts from thread 516775830
+[2025-09-21 11:52:21] [INFO] Progress: 7220/7500 posts
+[2025-09-21 11:52:21] [INFO] Collecting thread 516771886 (13 replies)
+[2025-09-21 11:52:21] [INFO] Collected 14 posts from thread 516771886
+[2025-09-21 11:52:21] [INFO] Progress: 7234/7500 posts
+[2025-09-21 11:52:21] [INFO] Collecting thread 516776986 (8 replies)
+[2025-09-21 11:52:22] [INFO] Collected 9 posts from thread 516776986
+[2025-09-21 11:52:22] [INFO] Progress: 7243/7500 posts
+[2025-09-21 11:52:22] [INFO] Collecting thread 516775565 (7 replies)
+[2025-09-21 11:52:22] [INFO] Collected 7 posts from thread 516775565
+[2025-09-21 11:52:22] [INFO] Progress: 7250/7500 posts
+[2025-09-21 11:52:22] [INFO] Collecting thread 516775579 (6 replies)
+[2025-09-21 11:52:22] [INFO] Collected 7 posts from thread 516775579
+[2025-09-21 11:52:22] [INFO] Progress: 7257/7500 posts
+[2025-09-21 11:52:22] [INFO] Collecting thread 516778131 (6 replies)
+[2025-09-21 11:52:22] [INFO] Collected 7 posts from thread 516778131
+[2025-09-21 11:52:22] [INFO] Progress: 7264/7500 posts
+[2025-09-21 11:52:22] [INFO] Collecting thread 516778857 (5 replies)
+[2025-09-21 11:52:22] [INFO] Collected 6 posts from thread 516778857
+[2025-09-21 11:52:22] [INFO] Progress: 7270/7500 posts
+[2025-09-21 11:52:22] [INFO] Collecting thread 516777913 (4 replies)
+[2025-09-21 11:52:23] [INFO] Collected 5 posts from thread 516777913
+[2025-09-21 11:52:23] [INFO] Progress: 7275/7500 posts
+[2025-09-21 11:52:23] [INFO] Collecting thread 516777055 (4 replies)
+[2025-09-21 11:52:23] [INFO] Collected 5 posts from thread 516777055
+[2025-09-21 11:52:23] [INFO] Progress: 7280/7500 posts
+[2025-09-21 11:52:23] [INFO] Collecting thread 516777723 (3 replies)
+[2025-09-21 11:52:23] [INFO] Collected 4 posts from thread 516777723
+[2025-09-21 11:52:23] [INFO] Progress: 7284/7500 posts
+[2025-09-21 11:52:23] [INFO] Collecting thread 516777090 (3 replies)
+[2025-09-21 11:52:23] [INFO] Collected 4 posts from thread 516777090
+[2025-09-21 11:52:23] [INFO] Progress: 7288/7500 posts
+[2025-09-21 11:52:23] [INFO] Collecting thread 516779014 (3 replies)
+[2025-09-21 11:52:23] [INFO] Collected 4 posts from thread 516779014
+[2025-09-21 11:52:23] [INFO] Progress: 7292/7500 posts
+[2025-09-21 11:52:23] [INFO] Collecting thread 516779163 (3 replies)
+[2025-09-21 11:52:24] [INFO] Collected 4 posts from thread 516779163
+[2025-09-21 11:52:24] [INFO] Progress: 7296/7500 posts
+[2025-09-21 11:52:24] [INFO] Collecting thread 516776830 (3 replies)
+[2025-09-21 11:52:24] [INFO] Collected 4 posts from thread 516776830
+[2025-09-21 11:52:24] [INFO] Progress: 7300/7500 posts
+[2025-09-21 11:52:24] [INFO] Collecting thread 516778610 (3 replies)
+[2025-09-21 11:52:24] [INFO] Collected 4 posts from thread 516778610
+[2025-09-21 11:52:24] [INFO] Progress: 7304/7500 posts
+[2025-09-21 11:52:24] [INFO] Collecting thread 516778167 (2 replies)
+[2025-09-21 11:52:24] [INFO] Collected 4 posts from thread 516778167
+[2025-09-21 11:52:24] [INFO] Progress: 7308/7500 posts
+[2025-09-21 11:52:24] [INFO] Collecting thread 516779204 (2 replies)
+[2025-09-21 11:52:24] [INFO] Collected 3 posts from thread 516779204
+[2025-09-21 11:52:24] [INFO] Progress: 7311/7500 posts
+[2025-09-21 11:52:24] [INFO] Collecting thread 516778963 (2 replies)
+[2025-09-21 11:52:24] [INFO] Collected 2 posts from thread 516778963
+[2025-09-21 11:52:24] [INFO] Progress: 7313/7500 posts
+[2025-09-21 11:52:24] [INFO] Collecting thread 516779342 (1 replies)
+[2025-09-21 11:52:25] [INFO] Collected 2 posts from thread 516779342
+[2025-09-21 11:52:25] [INFO] Progress: 7315/7500 posts
+[2025-09-21 11:52:25] [INFO] Collecting thread 516779274 (1 replies)
+[2025-09-21 11:52:25] [INFO] Collected 2 posts from thread 516779274
+[2025-09-21 11:52:25] [INFO] Progress: 7317/7500 posts
+[2025-09-21 11:52:25] [INFO] Collecting thread 516776948 (1 replies)
+[2025-09-21 11:52:25] [INFO] Collected 2 posts from thread 516776948
+[2025-09-21 11:52:25] [INFO] Progress: 7319/7500 posts
+[2025-09-21 11:52:25] [INFO] Collecting thread 516779187 (1 replies)
+[2025-09-21 11:52:25] [INFO] Collected 1 posts from thread 516779187
+[2025-09-21 11:52:25] [INFO] Progress: 7320/7500 posts
+[2025-09-21 11:52:25] [INFO] Collecting thread 516779453 (0 replies)
+[2025-09-21 11:52:25] [INFO] Collected 1 posts from thread 516779453
+[2025-09-21 11:52:25] [INFO] Progress: 7321/7500 posts
+[2025-09-21 11:52:25] [INFO] Collecting thread 516779429 (0 replies)
+[2025-09-21 11:52:25] [INFO] Collected 1 posts from thread 516779429
+[2025-09-21 11:52:25] [INFO] Progress: 7322/7500 posts
+[2025-09-21 11:52:25] [INFO] Collecting thread 516779415 (0 replies)
+[2025-09-21 11:52:26] [INFO] Collected 1 posts from thread 516779415
+[2025-09-21 11:52:26] [INFO] Progress: 7323/7500 posts
+[2025-09-21 11:52:26] [INFO] Collecting thread 516779397 (0 replies)
+[2025-09-21 11:52:26] [INFO] Collected 1 posts from thread 516779397
+[2025-09-21 11:52:26] [INFO] Progress: 7324/7500 posts
+[2025-09-21 11:52:26] [INFO] Collecting thread 516779301 (0 replies)
+[2025-09-21 11:52:26] [INFO] Collected 1 posts from thread 516779301
+[2025-09-21 11:52:26] [INFO] Progress: 7325/7500 posts
+[2025-09-21 11:52:26] [INFO] Collecting thread 516779186 (0 replies)
+[2025-09-21 11:52:26] [INFO] Collected 1 posts from thread 516779186
+[2025-09-21 11:52:26] [INFO] Progress: 7326/7500 posts
+[2025-09-21 11:52:26] [INFO] Collecting thread 516779134 (0 replies)
+[2025-09-21 11:52:26] [INFO] Collected 0 posts from thread 516779134
+[2025-09-21 11:52:26] [WARNING] No posts collected from thread 516779134
+[2025-09-21 11:52:27] [INFO] Progress saved: 7326/7500 posts
+[2025-09-21 11:52:27] [INFO] ============================================================
+[2025-09-21 11:52:27] [INFO] Collection completed!
+[2025-09-21 11:52:27] [INFO] Total posts: 7326
+[2025-09-21 11:52:27] [INFO] Threads processed: 98
+[2025-09-21 11:52:27] [INFO] Duration: 0.4 minutes
+[2025-09-21 11:52:55] [INFO] Initialized collector with target: 7500 posts
+[2025-09-21 11:52:55] [INFO] Starting full collection - Target: 7500 posts
+[2025-09-21 11:52:55] [INFO] ============================================================
+[2025-09-21 11:52:56] [INFO] Found 100 active threads
+[2025-09-21 11:52:56] [INFO] Collecting thread 516774617 (283 replies)
+[2025-09-21 11:52:56] [INFO] Collected 283 posts from thread 516774617
+[2025-09-21 11:52:56] [INFO] Progress: 283/7500 posts
+[2025-09-21 11:52:56] [INFO] Collecting thread 516763051 (279 replies)
+[2025-09-21 11:52:56] [INFO] Collected 279 posts from thread 516763051
+[2025-09-21 11:52:56] [INFO] Progress: 562/7500 posts
+[2025-09-21 11:52:56] [INFO] Collecting thread 516768622 (273 replies)
+[2025-09-21 11:52:56] [INFO] Collected 274 posts from thread 516768622
+[2025-09-21 11:52:56] [INFO] Progress: 836/7500 posts
+[2025-09-21 11:52:56] [INFO] Collecting thread 516751678 (272 replies)
+[2025-09-21 11:52:57] [INFO] Collected 271 posts from thread 516751678
+[2025-09-21 11:52:57] [INFO] Progress: 1107/7500 posts
+[2025-09-21 11:52:57] [INFO] Collecting thread 516746935 (270 replies)
+[2025-09-21 11:52:57] [INFO] Collected 271 posts from thread 516746935
+[2025-09-21 11:52:57] [INFO] Progress: 1378/7500 posts
+[2025-09-21 11:52:57] [INFO] Collecting thread 516754370 (253 replies)
+[2025-09-21 11:52:57] [INFO] Collected 247 posts from thread 516754370
+[2025-09-21 11:52:57] [INFO] Progress: 1625/7500 posts
+[2025-09-21 11:52:57] [INFO] Collecting thread 516768412 (248 replies)
+[2025-09-21 11:52:57] [INFO] Collected 246 posts from thread 516768412
+[2025-09-21 11:52:57] [INFO] Progress: 1871/7500 posts
+[2025-09-21 11:52:57] [INFO] Collecting thread 516759944 (236 replies)
+[2025-09-21 11:52:57] [INFO] Collected 237 posts from thread 516759944
+[2025-09-21 11:52:57] [INFO] Progress: 2108/7500 posts
+[2025-09-21 11:52:57] [INFO] Collecting thread 516750659 (230 replies)
+[2025-09-21 11:52:58] [INFO] Collected 231 posts from thread 516750659
+[2025-09-21 11:52:58] [INFO] Progress: 2339/7500 posts
+[2025-09-21 11:52:58] [INFO] Collecting thread 516747134 (226 replies)
+[2025-09-21 11:52:58] [INFO] Collected 223 posts from thread 516747134
+[2025-09-21 11:52:58] [INFO] Progress: 2562/7500 posts
+[2025-09-21 11:52:58] [INFO] Collecting thread 516749851 (220 replies)
+[2025-09-21 11:52:58] [INFO] Collected 218 posts from thread 516749851
+[2025-09-21 11:52:58] [INFO] Progress: 2780/7500 posts
+[2025-09-21 11:52:58] [INFO] Collecting thread 516768155 (211 replies)
+[2025-09-21 11:52:58] [INFO] Collected 207 posts from thread 516768155
+[2025-09-21 11:52:58] [INFO] Progress: 2987/7500 posts
+[2025-09-21 11:52:58] [INFO] Collecting thread 516759749 (210 replies)
+[2025-09-21 11:52:59] [INFO] Collected 211 posts from thread 516759749
+[2025-09-21 11:52:59] [INFO] Progress: 3198/7500 posts
+[2025-09-21 11:52:59] [INFO] Collecting thread 516753844 (190 replies)
+[2025-09-21 11:52:59] [INFO] Collected 190 posts from thread 516753844
+[2025-09-21 11:52:59] [INFO] Progress: 3388/7500 posts
+[2025-09-21 11:52:59] [INFO] Collecting thread 516761688 (180 replies)
+[2025-09-21 11:52:59] [INFO] Collected 181 posts from thread 516761688
+[2025-09-21 11:52:59] [INFO] Progress: 3569/7500 posts
+[2025-09-21 11:52:59] [INFO] Collecting thread 516760878 (174 replies)
+[2025-09-21 11:52:59] [INFO] Collected 175 posts from thread 516760878
+[2025-09-21 11:52:59] [INFO] Progress: 3744/7500 posts
+[2025-09-21 11:52:59] [INFO] Collecting thread 516772751 (173 replies)
+[2025-09-21 11:52:59] [INFO] Collected 176 posts from thread 516772751
+[2025-09-21 11:52:59] [INFO] Progress: 3920/7500 posts
+[2025-09-21 11:52:59] [INFO] Collecting thread 516751392 (167 replies)
+[2025-09-21 11:52:59] [INFO] Collected 168 posts from thread 516751392
+[2025-09-21 11:52:59] [INFO] Progress: 4088/7500 posts
+[2025-09-21 11:52:59] [INFO] Collecting thread 516773957 (158 replies)
+[2025-09-21 11:52:59] [INFO] Collected 154 posts from thread 516773957
+[2025-09-21 11:52:59] [INFO] Progress: 4242/7500 posts
+[2025-09-21 11:52:59] [INFO] Collecting thread 516759799 (151 replies)
+[2025-09-21 11:53:00] [INFO] Collected 152 posts from thread 516759799
+[2025-09-21 11:53:00] [INFO] Progress: 4394/7500 posts
+[2025-09-21 11:53:00] [INFO] Collecting thread 516764641 (144 replies)
+[2025-09-21 11:53:00] [INFO] Collected 144 posts from thread 516764641
+[2025-09-21 11:53:00] [INFO] Progress: 4538/7500 posts
+[2025-09-21 11:53:00] [INFO] Collecting thread 516747967 (135 replies)
+[2025-09-21 11:53:00] [INFO] Collected 130 posts from thread 516747967
+[2025-09-21 11:53:00] [INFO] Progress: 4668/7500 posts
+[2025-09-21 11:53:00] [INFO] Collecting thread 516762002 (127 replies)
+[2025-09-21 11:53:00] [INFO] Collected 117 posts from thread 516762002
+[2025-09-21 11:53:00] [INFO] Progress: 4785/7500 posts
+[2025-09-21 11:53:00] [INFO] Collecting thread 516756494 (126 replies)
+[2025-09-21 11:53:00] [INFO] Collected 127 posts from thread 516756494
+[2025-09-21 11:53:00] [INFO] Progress: 4912/7500 posts
+[2025-09-21 11:53:00] [INFO] Collecting thread 516763777 (120 replies)
+[2025-09-21 11:53:01] [INFO] Collected 120 posts from thread 516763777
+[2025-09-21 11:53:01] [INFO] Progress: 5032/7500 posts
+[2025-09-21 11:53:01] [INFO] Collecting thread 516750666 (120 replies)
+[2025-09-21 11:53:01] [INFO] Collected 85 posts from thread 516750666
+[2025-09-21 11:53:01] [INFO] Progress: 5117/7500 posts
+[2025-09-21 11:53:01] [INFO] Collecting thread 516749203 (115 replies)
+[2025-09-21 11:53:01] [INFO] Collected 116 posts from thread 516749203
+[2025-09-21 11:53:01] [INFO] Progress: 5233/7500 posts
+[2025-09-21 11:53:01] [INFO] Collecting thread 516762085 (109 replies)
+[2025-09-21 11:53:01] [INFO] Collected 111 posts from thread 516762085
+[2025-09-21 11:53:01] [INFO] Progress: 5344/7500 posts
+[2025-09-21 11:53:01] [INFO] Collecting thread 516765272 (106 replies)
+[2025-09-21 11:53:02] [INFO] Collected 106 posts from thread 516765272
+[2025-09-21 11:53:02] [INFO] Progress: 5450/7500 posts
+[2025-09-21 11:53:02] [INFO] Collecting thread 516771690 (104 replies)
+[2025-09-21 11:53:02] [INFO] Collected 105 posts from thread 516771690
+[2025-09-21 11:53:02] [INFO] Progress: 5555/7500 posts
+[2025-09-21 11:53:02] [INFO] Collecting thread 516775797 (87 replies)
+[2025-09-21 11:53:02] [INFO] Collected 89 posts from thread 516775797
+[2025-09-21 11:53:02] [INFO] Progress: 5644/7500 posts
+[2025-09-21 11:53:02] [INFO] Collecting thread 516768751 (81 replies)
+[2025-09-21 11:53:03] [INFO] Collected 75 posts from thread 516768751
+[2025-09-21 11:53:03] [INFO] Progress: 5719/7500 posts
+[2025-09-21 11:53:03] [INFO] Collecting thread 516758333 (73 replies)
+[2025-09-21 11:53:03] [INFO] Collected 75 posts from thread 516758333
+[2025-09-21 11:53:03] [INFO] Progress: 5794/7500 posts
+[2025-09-21 11:53:03] [INFO] Collecting thread 516772715 (68 replies)
+[2025-09-21 11:53:03] [INFO] Collected 69 posts from thread 516772715
+[2025-09-21 11:53:03] [INFO] Progress: 5863/7500 posts
+[2025-09-21 11:53:03] [INFO] Collecting thread 516771414 (68 replies)
+[2025-09-21 11:53:03] [INFO] Collected 70 posts from thread 516771414
+[2025-09-21 11:53:03] [INFO] Progress: 5933/7500 posts
+[2025-09-21 11:53:03] [INFO] Collecting thread 516774093 (65 replies)
+[2025-09-21 11:53:04] [INFO] Collected 65 posts from thread 516774093
+[2025-09-21 11:53:04] [INFO] Progress: 5998/7500 posts
+[2025-09-21 11:53:04] [INFO] Collecting thread 516761224 (65 replies)
+[2025-09-21 11:53:04] [INFO] Collected 66 posts from thread 516761224
+[2025-09-21 11:53:04] [INFO] Progress: 6064/7500 posts
+[2025-09-21 11:53:04] [INFO] Collecting thread 516771498 (64 replies)
+[2025-09-21 11:53:04] [INFO] Collected 65 posts from thread 516771498
+[2025-09-21 11:53:04] [INFO] Progress: 6129/7500 posts
+[2025-09-21 11:53:04] [INFO] Collecting thread 516771389 (64 replies)
+[2025-09-21 11:53:04] [INFO] Collected 60 posts from thread 516771389
+[2025-09-21 11:53:04] [INFO] Progress: 6189/7500 posts
+[2025-09-21 11:53:04] [INFO] Collecting thread 516772552 (63 replies)
+[2025-09-21 11:53:04] [INFO] Collected 64 posts from thread 516772552
+[2025-09-21 11:53:04] [INFO] Progress: 6253/7500 posts
+[2025-09-21 11:53:04] [INFO] Collecting thread 516762050 (63 replies)
+[2025-09-21 11:53:04] [INFO] Collected 65 posts from thread 516762050
+[2025-09-21 11:53:04] [INFO] Progress: 6318/7500 posts
+[2025-09-21 11:53:04] [INFO] Collecting thread 516761599 (61 replies)
+[2025-09-21 11:53:04] [INFO] Collected 62 posts from thread 516761599
+[2025-09-21 11:53:04] [INFO] Progress: 6380/7500 posts
+[2025-09-21 11:53:04] [INFO] Collecting thread 516768979 (56 replies)
+[2025-09-21 11:53:04] [INFO] Collected 56 posts from thread 516768979
+[2025-09-21 11:53:04] [INFO] Progress: 6436/7500 posts
+[2025-09-21 11:53:04] [INFO] Collecting thread 516767304 (56 replies)
+[2025-09-21 11:53:05] [INFO] Collected 57 posts from thread 516767304
+[2025-09-21 11:53:05] [INFO] Progress: 6493/7500 posts
+[2025-09-21 11:53:05] [INFO] Collecting thread 516764077 (54 replies)
+[2025-09-21 11:53:05] [INFO] Collected 56 posts from thread 516764077
+[2025-09-21 11:53:05] [INFO] Progress: 6549/7500 posts
+[2025-09-21 11:53:05] [INFO] Collecting thread 516773100 (53 replies)
+[2025-09-21 11:53:05] [INFO] Collected 48 posts from thread 516773100
+[2025-09-21 11:53:05] [INFO] Progress: 6597/7500 posts
+[2025-09-21 11:53:05] [INFO] Collecting thread 516775926 (45 replies)
+[2025-09-21 11:53:05] [INFO] Collected 19 posts from thread 516775926
+[2025-09-21 11:53:05] [INFO] Progress: 6616/7500 posts
+[2025-09-21 11:53:05] [INFO] Collecting thread 516767744 (42 replies)
+[2025-09-21 11:53:06] [INFO] Collected 42 posts from thread 516767744
+[2025-09-21 11:53:06] [INFO] Progress: 6658/7500 posts
+[2025-09-21 11:53:06] [INFO] Collecting thread 516773545 (39 replies)
+[2025-09-21 11:53:06] [INFO] Collected 40 posts from thread 516773545
+[2025-09-21 11:53:06] [INFO] Progress: 6698/7500 posts
+[2025-09-21 11:53:06] [INFO] Collecting thread 516772233 (39 replies)
+[2025-09-21 11:53:06] [INFO] Collected 41 posts from thread 516772233
+[2025-09-21 11:53:06] [INFO] Progress: 6739/7500 posts
+[2025-09-21 11:53:06] [INFO] Collecting thread 516771266 (39 replies)
+[2025-09-21 11:53:06] [INFO] Collected 40 posts from thread 516771266
+[2025-09-21 11:53:06] [INFO] Progress: 6779/7500 posts
+[2025-09-21 11:53:06] [INFO] Collecting thread 516775813 (38 replies)
+[2025-09-21 11:53:06] [INFO] Collected 40 posts from thread 516775813
+[2025-09-21 11:53:06] [INFO] Progress: 6819/7500 posts
+[2025-09-21 11:53:06] [INFO] Collecting thread 516774654 (35 replies)
+[2025-09-21 11:53:06] [INFO] Collected 37 posts from thread 516774654
+[2025-09-21 11:53:06] [INFO] Progress: 6856/7500 posts
+[2025-09-21 11:53:06] [INFO] Collecting thread 516771607 (35 replies)
+[2025-09-21 11:53:06] [INFO] Collected 36 posts from thread 516771607
+[2025-09-21 11:53:06] [INFO] Progress: 6892/7500 posts
+[2025-09-21 11:53:06] [INFO] Collecting thread 516776053 (33 replies)
+[2025-09-21 11:53:06] [INFO] Collected 34 posts from thread 516776053
+[2025-09-21 11:53:06] [INFO] Progress: 6926/7500 posts
+[2025-09-21 11:53:06] [INFO] Collecting thread 516774029 (32 replies)
+[2025-09-21 11:53:07] [INFO] Collected 32 posts from thread 516774029
+[2025-09-21 11:53:07] [INFO] Progress: 6958/7500 posts
+[2025-09-21 11:53:07] [INFO] Collecting thread 516776640 (28 replies)
+[2025-09-21 11:53:07] [INFO] Collected 29 posts from thread 516776640
+[2025-09-21 11:53:07] [INFO] Progress: 6987/7500 posts
+[2025-09-21 11:53:07] [INFO] Collecting thread 516772405 (28 replies)
+[2025-09-21 11:53:07] [INFO] Collected 29 posts from thread 516772405
+[2025-09-21 11:53:07] [INFO] Progress: 7016/7500 posts
+[2025-09-21 11:53:07] [INFO] Collecting thread 516775874 (27 replies)
+[2025-09-21 11:53:07] [INFO] Collected 28 posts from thread 516775874
+[2025-09-21 11:53:07] [INFO] Progress: 7044/7500 posts
+[2025-09-21 11:53:07] [INFO] Collecting thread 516772788 (26 replies)
+[2025-09-21 11:53:07] [INFO] Collected 27 posts from thread 516772788
+[2025-09-21 11:53:07] [INFO] Progress: 7071/7500 posts
+[2025-09-21 11:53:07] [INFO] Collecting thread 516778122 (25 replies)
+[2025-09-21 11:53:08] [INFO] Collected 25 posts from thread 516778122
+[2025-09-21 11:53:08] [INFO] Progress: 7096/7500 posts
+[2025-09-21 11:53:08] [INFO] Collecting thread 516777282 (21 replies)
+[2025-09-21 11:53:08] [INFO] Collected 22 posts from thread 516777282
+[2025-09-21 11:53:08] [INFO] Progress: 7118/7500 posts
+[2025-09-21 11:53:08] [INFO] Collecting thread 516770001 (20 replies)
+[2025-09-21 11:53:08] [INFO] Collected 21 posts from thread 516770001
+[2025-09-21 11:53:08] [INFO] Progress: 7139/7500 posts
+[2025-09-21 11:53:08] [INFO] Collecting thread 516777481 (17 replies)
+[2025-09-21 11:53:08] [INFO] Collected 18 posts from thread 516777481
+[2025-09-21 11:53:08] [INFO] Progress: 7157/7500 posts
+[2025-09-21 11:53:08] [INFO] Collecting thread 516774744 (17 replies)
+[2025-09-21 11:53:09] [INFO] Collected 18 posts from thread 516774744
+[2025-09-21 11:53:09] [INFO] Progress: 7175/7500 posts
+[2025-09-21 11:53:09] [INFO] Collecting thread 516775892 (16 replies)
+[2025-09-21 11:53:09] [INFO] Collected 16 posts from thread 516775892
+[2025-09-21 11:53:09] [INFO] Progress: 7191/7500 posts
+[2025-09-21 11:53:09] [INFO] Collecting thread 516776910 (16 replies)
+[2025-09-21 11:53:09] [INFO] Collected 17 posts from thread 516776910
+[2025-09-21 11:53:09] [INFO] Progress: 7208/7500 posts
+[2025-09-21 11:53:09] [INFO] Collecting thread 516776673 (14 replies)
+[2025-09-21 11:53:09] [INFO] Collected 15 posts from thread 516776673
+[2025-09-21 11:53:09] [INFO] Progress: 7223/7500 posts
+[2025-09-21 11:53:09] [INFO] Collecting thread 516775830 (13 replies)
+[2025-09-21 11:53:09] [INFO] Collected 14 posts from thread 516775830
+[2025-09-21 11:53:09] [INFO] Progress: 7237/7500 posts
+[2025-09-21 11:53:09] [INFO] Collecting thread 516771886 (13 replies)
+[2025-09-21 11:53:10] [INFO] Collected 14 posts from thread 516771886
+[2025-09-21 11:53:10] [INFO] Progress: 7251/7500 posts
+[2025-09-21 11:53:10] [INFO] Collecting thread 516776868 (8 replies)
+[2025-09-21 11:53:10] [INFO] Collected 9 posts from thread 516776868
+[2025-09-21 11:53:10] [INFO] Progress: 7260/7500 posts
+[2025-09-21 11:53:10] [INFO] Collecting thread 516776986 (8 replies)
+[2025-09-21 11:53:10] [INFO] Collected 9 posts from thread 516776986
+[2025-09-21 11:53:10] [INFO] Progress: 7269/7500 posts
+[2025-09-21 11:53:10] [INFO] Collecting thread 516778131 (7 replies)
+[2025-09-21 11:53:10] [INFO] Collected 8 posts from thread 516778131
+[2025-09-21 11:53:10] [INFO] Progress: 7277/7500 posts
+[2025-09-21 11:53:10] [INFO] Collecting thread 516775565 (7 replies)
+[2025-09-21 11:53:11] [INFO] Collected 7 posts from thread 516775565
+[2025-09-21 11:53:11] [INFO] Progress: 7284/7500 posts
+[2025-09-21 11:53:11] [INFO] Collecting thread 516775579 (6 replies)
+[2025-09-21 11:53:11] [INFO] Collected 7 posts from thread 516775579
+[2025-09-21 11:53:11] [INFO] Progress: 7291/7500 posts
+[2025-09-21 11:53:11] [INFO] Collecting thread 516777055 (5 replies)
+[2025-09-21 11:53:11] [INFO] Collected 6 posts from thread 516777055
+[2025-09-21 11:53:11] [INFO] Progress: 7297/7500 posts
+[2025-09-21 11:53:11] [INFO] Collecting thread 516778857 (5 replies)
+[2025-09-21 11:53:11] [INFO] Collected 6 posts from thread 516778857
+[2025-09-21 11:53:11] [INFO] Progress: 7303/7500 posts
+[2025-09-21 11:53:11] [INFO] Collecting thread 516777913 (5 replies)
+[2025-09-21 11:53:11] [INFO] Collected 6 posts from thread 516777913
+[2025-09-21 11:53:11] [INFO] Progress: 7309/7500 posts
+[2025-09-21 11:53:11] [INFO] Collecting thread 516778538 (4 replies)
+[2025-09-21 11:53:12] [INFO] Collected 5 posts from thread 516778538
+[2025-09-21 11:53:12] [INFO] Progress: 7314/7500 posts
+[2025-09-21 11:53:12] [INFO] Collecting thread 516779204 (3 replies)
+[2025-09-21 11:53:12] [INFO] Collected 3 posts from thread 516779204
+[2025-09-21 11:53:12] [INFO] Progress: 7317/7500 posts
+[2025-09-21 11:53:12] [INFO] Collecting thread 516778963 (3 replies)
+[2025-09-21 11:53:12] [INFO] Collected 3 posts from thread 516778963
+[2025-09-21 11:53:12] [INFO] Progress: 7320/7500 posts
+[2025-09-21 11:53:12] [INFO] Collecting thread 516778167 (3 replies)
+[2025-09-21 11:53:12] [INFO] Collected 5 posts from thread 516778167
+[2025-09-21 11:53:12] [INFO] Progress: 7325/7500 posts
+[2025-09-21 11:53:12] [INFO] Collecting thread 516777723 (3 replies)
+[2025-09-21 11:53:12] [INFO] Collected 4 posts from thread 516777723
+[2025-09-21 11:53:12] [INFO] Progress: 7329/7500 posts
+[2025-09-21 11:53:12] [INFO] Collecting thread 516777090 (3 replies)
+[2025-09-21 11:53:13] [INFO] Collected 5 posts from thread 516777090
+[2025-09-21 11:53:13] [INFO] Progress: 7334/7500 posts
+[2025-09-21 11:53:13] [INFO] Collecting thread 516779014 (3 replies)
+[2025-09-21 11:53:13] [INFO] Collected 4 posts from thread 516779014
+[2025-09-21 11:53:13] [INFO] Progress: 7338/7500 posts
+[2025-09-21 11:53:13] [INFO] Collecting thread 516779163 (3 replies)
+[2025-09-21 11:53:13] [INFO] Collected 4 posts from thread 516779163
+[2025-09-21 11:53:13] [INFO] Progress: 7342/7500 posts
+[2025-09-21 11:53:13] [INFO] Collecting thread 516776830 (3 replies)
+[2025-09-21 11:53:13] [INFO] Collected 4 posts from thread 516776830
+[2025-09-21 11:53:13] [INFO] Progress: 7346/7500 posts
+[2025-09-21 11:53:13] [INFO] Collecting thread 516779301 (1 replies)
+[2025-09-21 11:53:13] [INFO] Collected 1 posts from thread 516779301
+[2025-09-21 11:53:13] [INFO] Progress: 7347/7500 posts
+[2025-09-21 11:53:13] [INFO] Collecting thread 516779342 (1 replies)
+[2025-09-21 11:53:13] [INFO] Collected 2 posts from thread 516779342
+[2025-09-21 11:53:13] [INFO] Progress: 7349/7500 posts
+[2025-09-21 11:53:13] [INFO] Collecting thread 516779274 (1 replies)
+[2025-09-21 11:53:14] [INFO] Collected 2 posts from thread 516779274
+[2025-09-21 11:53:14] [INFO] Progress: 7351/7500 posts
+[2025-09-21 11:53:14] [INFO] Collecting thread 516776948 (1 replies)
+[2025-09-21 11:53:14] [INFO] Collected 2 posts from thread 516776948
+[2025-09-21 11:53:14] [INFO] Progress: 7353/7500 posts
+[2025-09-21 11:53:14] [INFO] Collecting thread 516779187 (1 replies)
+[2025-09-21 11:53:14] [INFO] Collected 1 posts from thread 516779187
+[2025-09-21 11:53:14] [INFO] Progress: 7354/7500 posts
+[2025-09-21 11:53:14] [INFO] Collecting thread 516779517 (0 replies)
+[2025-09-21 11:53:15] [INFO] Collected 1 posts from thread 516779517
+[2025-09-21 11:53:15] [INFO] Progress: 7355/7500 posts
+[2025-09-21 11:53:15] [INFO] Collecting thread 516779470 (0 replies)
+[2025-09-21 11:53:15] [INFO] Collected 1 posts from thread 516779470
+[2025-09-21 11:53:15] [INFO] Progress: 7356/7500 posts
+[2025-09-21 11:53:15] [INFO] Collecting thread 516779453 (0 replies)
+[2025-09-21 11:53:15] [INFO] Collected 1 posts from thread 516779453
+[2025-09-21 11:53:15] [INFO] Progress: 7357/7500 posts
+[2025-09-21 11:53:15] [INFO] Collecting thread 516779429 (0 replies)
+[2025-09-21 11:53:15] [INFO] Collected 2 posts from thread 516779429
+[2025-09-21 11:53:15] [INFO] Progress: 7359/7500 posts
+[2025-09-21 11:53:15] [INFO] Collecting thread 516779415 (0 replies)
+[2025-09-21 11:53:15] [INFO] Collected 1 posts from thread 516779415
+[2025-09-21 11:53:15] [INFO] Progress: 7360/7500 posts
+[2025-09-21 11:53:15] [INFO] Collecting thread 516779397 (0 replies)
+[2025-09-21 11:53:15] [INFO] Collected 1 posts from thread 516779397
+[2025-09-21 11:53:15] [INFO] Progress: 7361/7500 posts
+[2025-09-21 11:53:15] [INFO] Collecting thread 516779186 (0 replies)
+[2025-09-21 11:53:15] [INFO] Collected 1 posts from thread 516779186
+[2025-09-21 11:53:15] [INFO] Progress: 7362/7500 posts
+[2025-09-21 11:53:16] [INFO] Progress saved: 7362/7500 posts
+[2025-09-21 11:53:16] [INFO] ============================================================
+[2025-09-21 11:53:16] [INFO] Collection completed!
+[2025-09-21 11:53:16] [INFO] Total posts: 7362
+[2025-09-21 11:53:16] [INFO] Threads processed: 99
+[2025-09-21 11:53:16] [INFO] Duration: 0.3 minutes

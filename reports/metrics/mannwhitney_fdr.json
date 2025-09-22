@@ -1,0 +1,42 @@
+{
+  "tests": [
+    {
+      "pair": "google_toxicity__openai_harassment",
+      "n_g": 6843,
+      "n_o": 6843,
+      "u_stat": 26863608.0,
+      "p_value": 2.1187331503702828e-50
+    },
+    {
+      "pair": "google_identity_attack__openai_hate",
+      "n_g": 6843,
+      "n_o": 6843,
+      "u_stat": 29093090.0,
+      "p_value": 2.249577478252885e-133
+    },
+    {
+      "pair": "google_threat__openai_violence",
+      "n_g": 6843,
+      "n_o": 6843,
+      "u_stat": 32504357.0,
+      "p_value": 0.0
+    },
+    {
+      "pair": "google_profanity__openai_sexual",
+      "n_g": 6843,
+      "n_o": 6843,
+      "u_stat": 43131171.0,
+      "p_value": 0.0
+    }
+  ],
+  "fdr": {
+    "alpha": 0.05,
+    "reject_mask": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "crit": 0.05
+  }
+}

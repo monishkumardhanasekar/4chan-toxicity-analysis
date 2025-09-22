@@ -1,0 +1,35 @@
+{
+  "dataset": "/Users/monk/Desktop/Projects/research/4chan-toxicity-analysis/src/data/analysis_dataset.jsonl",
+  "definitions": {
+    "refA": "google_toxicity >= 0.9 (positive), <0.5 (negative)",
+    "refB": "openai_hate >= 0.9 (positive), <0.2 (negative)"
+  },
+  "openai_relative_to_google": {
+    "fn_like": {
+      "n": 2,
+      "median_content_length": 51.5,
+      "median_google_toxicity": 0.927816,
+      "median_openai_hate": 0.010794745797220623
+    },
+    "fp_like": {
+      "n": 1192,
+      "median_content_length": 140.0,
+      "median_google_toxicity": 0.3722269,
+      "median_openai_hate": 0.18167529479523412
+    }
+  },
+  "google_relative_to_openai": {
+    "fn_like": {
+      "n": 6,
+      "median_content_length": 318.5,
+      "median_google_toxicity": 0.405629335,
+      "median_openai_hate": 0.9920228555877624
+    },
+    "fp_like": {
+      "n": 173,
+      "median_content_length": 98.0,
+      "median_google_toxicity": 0.85850734,
+      "median_openai_hate": 0.008427785733444715
+    }
+  }
+}

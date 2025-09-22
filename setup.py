@@ -79,7 +79,7 @@ def test_api_connectivity():
 
 def main():
     """Main setup function"""
-    print("🚀 Setting up 4chan Toxicity Analysis Project")
+    print(" Setting up 4chan Toxicity Analysis Project")
     print("=" * 50)
     
     checks = [
@@ -98,10 +98,10 @@ def main():
     
     print("\n" + "=" * 50)
     if all_passed:
-        print("🎉 Setup completed successfully!")
+        print("✅ Setup completed successfully!")
         print("You're ready to start Phase 2: Data Collection")
     else:
-        print("⚠️  Setup incomplete. Please fix the issues above.")
+        print("❌  Setup incomplete. Please fix the issues above.")
         print("Refer to the README.md for detailed setup instructions.")
 
 if __name__ == "__main__":

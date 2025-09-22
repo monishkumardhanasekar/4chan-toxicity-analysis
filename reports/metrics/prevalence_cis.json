@@ -1,0 +1,312 @@
+{
+  "prevalence_cis": [
+    {
+      "api": "google",
+      "category": "google_identity_attack",
+      "threshold": 0.5,
+      "n": 6843,
+      "p_obs": 0.16659359929855327,
+      "ci95": [
+        0.1581177845973988,
+        0.17536168347216133
+      ]
+    },
+    {
+      "api": "google",
+      "category": "google_identity_attack",
+      "threshold": 0.8,
+      "n": 6843,
+      "p_obs": 0.011983048370597691,
+      "ci95": [
+        0.009352623118515271,
+        0.01461347362268011
+      ]
+    },
+    {
+      "api": "google",
+      "category": "google_insult",
+      "threshold": 0.5,
+      "n": 6843,
+      "p_obs": 0.19465146865409907,
+      "ci95": [
+        0.18514540406254565,
+        0.20400774514102002
+      ]
+    },
+    {
+      "api": "google",
+      "category": "google_insult",
+      "threshold": 0.8,
+      "n": 6843,
+      "p_obs": 0.014321204150226509,
+      "ci95": [
+        0.011544644161917288,
+        0.017101417506941396
+      ]
+    },
+    {
+      "api": "google",
+      "category": "google_profanity",
+      "threshold": 0.5,
+      "n": 6843,
+      "p_obs": 0.210872424375274,
+      "ci95": [
+        0.20049320473476545,
+        0.22095937454332895
+      ]
+    },
+    {
+      "api": "google",
+      "category": "google_profanity",
+      "threshold": 0.8,
+      "n": 6843,
+      "p_obs": 0.053631448195236006,
+      "ci95": [
+        0.04837059769107117,
+        0.05947683764430805
+      ]
+    },
+    {
+      "api": "google",
+      "category": "google_severe_toxicity",
+      "threshold": 0.5,
+      "n": 6843,
+      "p_obs": 0.033757124068391056,
+      "ci95": [
+        0.029519216717813823,
+        0.03829095425982756
+      ]
+    },
+    {
+      "api": "google",
+      "category": "google_severe_toxicity",
+      "threshold": 0.8,
+      "n": 6843,
+      "p_obs": 0.00014613473622680112,
+      "ci95": [
+        0.0,
+        0.00043840420868040335
+      ]
+    },
+    {
+      "api": "google",
+      "category": "google_threat",
+      "threshold": 0.5,
+      "n": 6843,
+      "p_obs": 0.033610989332164255,
+      "ci95": [
+        0.029369428613181352,
+        0.03799503141896829
+      ]
+    },
+    {
+      "api": "google",
+      "category": "google_threat",
+      "threshold": 0.8,
+      "n": 6843,
+      "p_obs": 0.00014613473622680112,
+      "ci95": [
+        0.0,
+        0.00043840420868040335
+      ]
+    },
+    {
+      "api": "google",
+      "category": "google_toxicity",
+      "threshold": 0.5,
+      "n": 6843,
+      "p_obs": 0.30030688294607627,
+      "ci95": [
+        0.2886161040479322,
+        0.31068610258658486
+      ]
+    },
+    {
+      "api": "google",
+      "category": "google_toxicity",
+      "threshold": 0.8,
+      "n": 6843,
+      "p_obs": 0.08388133859418384,
+      "ci95": [
+        0.07759389156802572,
+        0.09060718982902236
+      ]
+    },
+    {
+      "api": "openai",
+      "category": "openai_harassment",
+      "threshold": 0.5,
+      "n": 6843,
+      "p_obs": 0.346777729066199,
+      "ci95": [
+        0.3359637585854158,
+        0.3577378342832091
+      ]
+    },
+    {
+      "api": "openai",
+      "category": "openai_harassment",
+      "threshold": 0.8,
+      "n": 6843,
+      "p_obs": 0.2516440157825515,
+      "ci95": [
+        0.24214525792780944,
+        0.2618734473184276
+      ]
+    },
+    {
+      "api": "openai",
+      "category": "openai_harassment_threatening",
+      "threshold": 0.5,
+      "n": 6843,
+      "p_obs": 0.042671342978225925,
+      "ci95": [
+        0.03784889668274149,
+        0.04720151980125676
+      ]
+    },
+    {
+      "api": "openai",
+      "category": "openai_harassment_threatening",
+      "threshold": 0.8,
+      "n": 6843,
+      "p_obs": 0.016805494666082128,
+      "ci95": [
+        0.013736665205319304,
+        0.019877977495250616
+      ]
+    },
+    {
+      "api": "openai",
+      "category": "openai_hate",
+      "threshold": 0.5,
+      "n": 6843,
+      "p_obs": 0.1720005845389449,
+      "ci95": [
+        0.16352476983779043,
+        0.18106459155341223
+      ]
+    },
+    {
+      "api": "openai",
+      "category": "openai_hate",
+      "threshold": 0.8,
+      "n": 6843,
+      "p_obs": 0.05523893029373082,
+      "ci95": [
+        0.05012421452579278,
+        0.06049978079789566
+      ]
+    },
+    {
+      "api": "openai",
+      "category": "openai_hate_threatening",
+      "threshold": 0.5,
+      "n": 6843,
+      "p_obs": 0.012275317843051293,
+      "ci95": [
+        0.009933508695016805,
+        0.014909396463539379
+      ]
+    },
+    {
+      "api": "openai",
+      "category": "openai_hate_threatening",
+      "threshold": 0.8,
+      "n": 6843,
+      "p_obs": 0.004091772614350431,
+      "ci95": [
+        0.00263042525208242,
+        0.005699254712845244
+      ]
+    },
+    {
+      "api": "openai",
+      "category": "openai_sexual",
+      "threshold": 0.5,
+      "n": 6843,
+      "p_obs": 0.021335671489112962,
+      "ci95": [
+        0.017828437819669734,
+        0.024696770422329387
+      ]
+    },
+    {
+      "api": "openai",
+      "category": "openai_sexual",
+      "threshold": 0.8,
+      "n": 6843,
+      "p_obs": 0.008768084173608066,
+      "ci95": [
+        0.00657606313020605,
+        0.011106239953236884
+      ]
+    },
+    {
+      "api": "openai",
+      "category": "openai_sexual_minors",
+      "threshold": 0.5,
+      "n": 6843,
+      "p_obs": 0.002776559988309221,
+      "ci95": [
+        0.0016074820984948123,
+        0.00394563787812363
+      ]
+    },
+    {
+      "api": "openai",
+      "category": "openai_sexual_minors",
+      "threshold": 0.8,
+      "n": 6843,
+      "p_obs": 0.001169077889814409,
+      "ci95": [
+        0.00043840420868040335,
+        0.0020458863071752156
+      ]
+    },
+    {
+      "api": "openai",
+      "category": "openai_violence",
+      "threshold": 0.5,
+      "n": 6843,
+      "p_obs": 0.06342247552243169,
+      "ci95": [
+        0.05801549028204004,
+        0.0692715183399094
+      ]
+    },
+    {
+      "api": "openai",
+      "category": "openai_violence",
+      "threshold": 0.8,
+      "n": 6843,
+      "p_obs": 0.0263042525208242,
+      "ci95": [
+        0.02265088411515417,
+        0.030396025135174632
+      ]
+    },
+    {
+      "api": "openai",
+      "category": "openai_violence_graphic",
+      "threshold": 0.5,
+      "n": 6843,
+      "p_obs": 0.00029226947245360223,
+      "ci95": [
+        0.0,
+        0.0007306736811340056
+      ]
+    },
+    {
+      "api": "openai",
+      "category": "openai_violence_graphic",
+      "threshold": 0.8,
+      "n": 6843,
+      "p_obs": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}

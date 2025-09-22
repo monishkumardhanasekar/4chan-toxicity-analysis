@@ -1,0 +1,33 @@
+{
+  "google_threshold": 0.8,
+  "rows": [
+    {
+      "pair": "toxicity vs harassment",
+      "google_attr": "google_toxicity",
+      "openai_attr": "openai_harassment",
+      "n": 6843,
+      "mismatch_rate": 0.3578839690194359
+    },
+    {
+      "pair": "identity_attack vs hate",
+      "google_attr": "google_identity_attack",
+      "openai_attr": "openai_hate",
+      "n": 6843,
+      "mismatch_rate": 0.42452140873885724
+    },
+    {
+      "pair": "threat vs violence",
+      "google_attr": "google_threat",
+      "openai_attr": "openai_violence",
+      "n": 6843,
+      "mismatch_rate": 0.43635832237322814
+    },
+    {
+      "pair": "profanity vs sexual",
+      "google_attr": "google_profanity",
+      "openai_attr": "openai_sexual",
+      "n": 6843,
+      "mismatch_rate": 0.3971942130644454
+    }
+  ]
+}

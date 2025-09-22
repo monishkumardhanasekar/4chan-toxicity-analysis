@@ -1,0 +1,61 @@
+{
+  "dataset": "/Users/monk/Desktop/Projects/research/4chan-toxicity-analysis/src/data/analysis_dataset.jsonl",
+  "pairs": [
+    [
+      "google_toxicity",
+      "openai_harassment"
+    ],
+    [
+      "google_insult",
+      "openai_harassment"
+    ],
+    [
+      "google_identity_attack",
+      "openai_hate"
+    ],
+    [
+      "google_threat",
+      "openai_violence"
+    ],
+    [
+      "google_profanity",
+      "openai_sexual"
+    ],
+    [
+      "google_severe_toxicity",
+      "openai_harassment"
+    ]
+  ],
+  "spearman_correlations": {
+    "google_toxicity__openai_harassment": {
+      "n": 6843,
+      "spearman_r": 0.0051,
+      "p_value": null
+    },
+    "google_insult__openai_harassment": {
+      "n": 6843,
+      "spearman_r": 0.0032,
+      "p_value": null
+    },
+    "google_identity_attack__openai_hate": {
+      "n": 6843,
+      "spearman_r": 0.871,
+      "p_value": null
+    },
+    "google_threat__openai_violence": {
+      "n": 6843,
+      "spearman_r": 0.6402,
+      "p_value": null
+    },
+    "google_profanity__openai_sexual": {
+      "n": 6843,
+      "spearman_r": 0.4255,
+      "p_value": null
+    },
+    "google_severe_toxicity__openai_harassment": {
+      "n": 6843,
+      "spearman_r": 0.0051,
+      "p_value": null
+    }
+  }
+}

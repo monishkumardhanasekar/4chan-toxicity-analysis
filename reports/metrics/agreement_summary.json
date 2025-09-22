@@ -1,0 +1,249 @@
+{
+  "dataset": "/Users/monk/Desktop/Projects/research/4chan-toxicity-analysis/src/data/analysis_dataset.jsonl",
+  "thresholds": {
+    "google_high": 0.8,
+    "google_med": 0.5,
+    "openai_med": 0.5,
+    "openai_high": 0.8
+  },
+  "comparisons": {
+    "toxicity_vs_openai_flagged__g>=0.5": {
+      "confusion": {
+        "tp": 1795,
+        "fp": 1192,
+        "tn": 3596,
+        "fn": 260,
+        "total": 6843
+      },
+      "metrics": {
+        "accuracy": 0.7878123629986847,
+        "precision": 0.6009373953799799,
+        "recall": 0.8734793187347932,
+        "f1": 0.712019040063467,
+        "mcc": 0.5772257701090308,
+        "cohen_kappa": 0.5529510790955173
+      }
+    },
+    "toxicity_vs_openai_flagged__g>=0.8": {
+      "confusion": {
+        "tp": 556,
+        "fp": 2431,
+        "tn": 3838,
+        "fn": 18,
+        "total": 6843
+      },
+      "metrics": {
+        "accuracy": 0.6421160309805641,
+        "precision": 0.18613993973886844,
+        "recall": 0.9686411149825784,
+        "f1": 0.31227183375456335,
+        "mcc": 0.3246686872631252,
+        "cohen_kappa": 0.1996451858118073
+      }
+    },
+    "toxicity_vs_openai_harassment__g>=0.5__o>=0.5": {
+      "confusion": {
+        "tp": 1622,
+        "fp": 751,
+        "tn": 4037,
+        "fn": 433,
+        "total": 6843
+      },
+      "metrics": {
+        "accuracy": 0.8269764723074675,
+        "precision": 0.6835229667088074,
+        "recall": 0.789294403892944,
+        "f1": 0.7326106594399276,
+        "mcc": 0.6091193442127028,
+        "cohen_kappa": 0.6056939306418302
+      }
+    },
+    "toxicity_vs_openai_harassment__g>=0.5__o>=0.8": {
+      "confusion": {
+        "tp": 1329,
+        "fp": 393,
+        "tn": 4395,
+        "fn": 726,
+        "total": 6843
+      },
+      "metrics": {
+        "accuracy": 0.8364752301622096,
+        "precision": 0.7717770034843205,
+        "recall": 0.6467153284671533,
+        "f1": 0.7037331215250198,
+        "mcc": 0.5964264789652003,
+        "cohen_kappa": 0.59201428599515
+      }
+    },
+    "toxicity_vs_openai_harassment__g>=0.8__o>=0.5": {
+      "confusion": {
+        "tp": 532,
+        "fp": 1841,
+        "tn": 4428,
+        "fn": 42,
+        "total": 6843
+      },
+      "metrics": {
+        "accuracy": 0.7248282916849335,
+        "precision": 0.22418879056047197,
+        "recall": 0.926829268292683,
+        "f1": 0.36104513064133015,
+        "mcc": 0.36877995261342883,
+        "cohen_kappa": 0.2612497095392721
+      }
+    },
+    "toxicity_vs_openai_harassment__g>=0.8__o>=0.8": {
+      "confusion": {
+        "tp": 484,
+        "fp": 1238,
+        "tn": 5031,
+        "fn": 90,
+        "total": 6843
+      },
+      "metrics": {
+        "accuracy": 0.8059330702908081,
+        "precision": 0.281068524970964,
+        "recall": 0.8432055749128919,
+        "f1": 0.42160278745644597,
+        "mcc": 0.4124861156468444,
+        "cohen_kappa": 0.33835303820870255
+      }
+    },
+    "identity_attack_vs_openai_hate__g>=0.5__o>=0.5": {
+      "confusion": {
+        "tp": 812,
+        "fp": 365,
+        "tn": 5338,
+        "fn": 328,
+        "total": 6843
+      },
+      "metrics": {
+        "accuracy": 0.8987286277948269,
+        "precision": 0.6898895497026338,
+        "recall": 0.712280701754386,
+        "f1": 0.7009063444108761,
+        "mcc": 0.6400880934447563,
+        "cohen_kappa": 0.6399698261518983
+      }
+    },
+    "identity_attack_vs_openai_hate__g>=0.5__o>=0.8": {
+      "confusion": {
+        "tp": 322,
+        "fp": 56,
+        "tn": 5647,
+        "fn": 818,
+        "total": 6843
+      },
+      "metrics": {
+        "accuracy": 0.8722782405377758,
+        "precision": 0.8518518518518519,
+        "recall": 0.2824561403508772,
+        "f1": 0.4242424242424242,
+        "mcc": 0.4446909982995018,
+        "cohen_kappa": 0.37215135178715053
+      }
+    },
+    "identity_attack_vs_openai_hate__g>=0.8__o>=0.5": {
+      "confusion": {
+        "tp": 81,
+        "fp": 1096,
+        "tn": 5665,
+        "fn": 1,
+        "total": 6843
+      },
+      "metrics": {
+        "accuracy": 0.8396901943591992,
+        "precision": 0.06881903143585387,
+        "recall": 0.9878048780487805,
+        "f1": 0.12867355043685466,
+        "mcc": 0.23807153292653666,
+        "cohen_kappa": 0.10870391955460298
+      }
+    },
+    "identity_attack_vs_openai_hate__g>=0.8__o>=0.8": {
+      "confusion": {
+        "tp": 57,
+        "fp": 321,
+        "tn": 6440,
+        "fn": 25,
+        "total": 6843
+      },
+      "metrics": {
+        "accuracy": 0.9494373812655268,
+        "precision": 0.15079365079365079,
+        "recall": 0.6951219512195121,
+        "f1": 0.24782608695652172,
+        "mcc": 0.3084738971069552,
+        "cohen_kappa": 0.2327152740240097
+      }
+    },
+    "threat_vs_openai_violence__g>=0.5__o>=0.5": {
+      "confusion": {
+        "tp": 174,
+        "fp": 260,
+        "tn": 6353,
+        "fn": 56,
+        "total": 6843
+      },
+      "metrics": {
+        "accuracy": 0.9538214233523309,
+        "precision": 0.4009216589861751,
+        "recall": 0.7565217391304347,
+        "f1": 0.5240963855421686,
+        "mcc": 0.5303549584164482,
+        "cohen_kappa": 0.5022255411462698
+      }
+    },
+    "threat_vs_openai_violence__g>=0.5__o>=0.8": {
+      "confusion": {
+        "tp": 124,
+        "fp": 56,
+        "tn": 6557,
+        "fn": 106,
+        "total": 6843
+      },
+      "metrics": {
+        "accuracy": 0.9763261727312582,
+        "precision": 0.6888888888888889,
+        "recall": 0.5391304347826087,
+        "f1": 0.6048780487804878,
+        "mcc": 0.5975995026700969,
+        "cohen_kappa": 0.5928625731316308
+      }
+    },
+    "threat_vs_openai_violence__g>=0.8__o>=0.5": {
+      "confusion": {
+        "tp": 1,
+        "fp": 433,
+        "tn": 6409,
+        "fn": 0,
+        "total": 6843
+      },
+      "metrics": {
+        "accuracy": 0.9367236592137951,
+        "precision": 0.002304147465437788,
+        "recall": 1.0,
+        "f1": 0.004597701149425287,
+        "mcc": 0.04645781027904588,
+        "cohen_kappa": 0.0043073595764832676
+      }
+    },
+    "threat_vs_openai_violence__g>=0.8__o>=0.8": {
+      "confusion": {
+        "tp": 1,
+        "fp": 179,
+        "tn": 6663,
+        "fn": 0,
+        "total": 6843
+      },
+      "metrics": {
+        "accuracy": 0.9738418822154026,
+        "precision": 0.005555555555555556,
+        "recall": 1.0,
+        "f1": 0.011049723756906079,
+        "mcc": 0.07355413951063765,
+        "cohen_kappa": 0.010762197116354958
+      }
+    }
+  }
+}
