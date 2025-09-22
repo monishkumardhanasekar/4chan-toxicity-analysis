@@ -1,0 +1,16 @@
+{
+  "processed_posts": 7362,
+  "successful_posts": 6843,
+  "failed_posts": 519,
+  "openai_success": 6843,
+  "google_success": 6843,
+  "current_batch": 147,
+  "last_saved": "2025-09-21T22:27:02.253438",
+  "processing_config": {
+    "batch_size": 50,
+    "save_interval": 10,
+    "output_dir": "src/data",
+    "resume_from_batch": 0,
+    "max_content_length": 8000
+  }
+}
