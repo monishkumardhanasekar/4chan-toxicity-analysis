@@ -17,8 +17,6 @@ __pycache__/
 # Virtual Environment
 venv/
 
-# Logs
-*.log
 
 # IDE
 .vscode/
