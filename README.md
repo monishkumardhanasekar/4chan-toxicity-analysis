@@ -214,7 +214,11 @@ A comprehensive PDF research report will be included in the repository, covering
 - Discussion of Implications
 - Limitations and Future Work
 
-*Note: PDF report will be added to the repository upon completion.*
+<p align="center">
+  <a href="reports/Comparative_Analysis_of_Content_Moderation_APIs__A_Study_of_Toxicity_Detection_on_4chan_s__pol__Board_.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20View%20Research%20Report-PDF-red?style=for-the-badge" alt="Research Report PDF">
+  </a>
+</p>
 
 ## Limitations
 
